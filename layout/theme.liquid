@@ -158,7 +158,15 @@
 
   <!-- CSS ================================================================== -->
 
-  <link rel="stylesheet" href="{{ 'font-settings.css' | asset_url }}">
+  
+
+  <link rel="preload" href="https://fonts.shopifycdn.com/asap/asap_n4.bbd5a7069d8fda6c6087204fae2b7f4dca87bf11.woff2?h1=YXJ0aWJsb29tLmRl&hmac=a2e79a638c401e9727255ab73be07691d41cbf5cc72ccc35c229d3ff539bfa91" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="https://fonts.shopifycdn.com/asap/asap_n5.e43840e5b512a2758810281a90dc3274e1ab8c97.woff2?h1=YXJ0aWJsb29tLmRl&hmac=af6a444cd2e619eb8fb70105596c9124373cc19d0a8486b1ec6c4653683c89c3" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="https://fonts.shopifycdn.com/quattrocento/quattrocento_n4.1353afc8cc29255df9e3f9bc80461a8d1cd6253c.woff2?h1=YXJ0aWJsb29tLmRl&hmac=27bc3d7044620f9b8c8485be486e0ef3f1079ea4f0d365fb5aa82067746fe09c" as="font" type="font/woff2" crossorigin>
+
+
+
+  <link rel="stylesheet" data-href="{{ 'font-settings.css' | asset_url }}">
 
   {% render 'css-variables' %}
 

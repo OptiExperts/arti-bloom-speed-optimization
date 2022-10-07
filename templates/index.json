@@ -241,6 +241,25 @@
         "borders": false,
         "wrapper": false
       }
+    },
+    "1665172311a35fcb8a": {
+      "type": "apps",
+      "blocks": {
+        "604ef3f3-c341-4ee6-b1a9-55efb970831a": {
+          "type": "shopify:\/\/apps\/instafeed-instagram-feed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5",
+          "settings": {
+            "heading_size": 17,
+            "feed_width": 100,
+            "html_area": ""
+          }
+        }
+      },
+      "block_order": [
+        "604ef3f3-c341-4ee6-b1a9-55efb970831a"
+      ],
+      "settings": {
+        "include_margins": false
+      }
     }
   },
   "order": [
@@ -249,6 +268,7 @@
     "16596338637d51486d",
     "1664797618d6d16703",
     "1664792203283870e0",
-    "166076845484879d57"
+    "166076845484879d57",
+    "1665172311a35fcb8a"
   ]
 }

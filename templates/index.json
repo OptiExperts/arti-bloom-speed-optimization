@@ -271,7 +271,7 @@
             "featured_collection": "teller-keramik-artibloom",
             "show_image": false,
             "overlay_opacity": 0,
-            "overlay_color": "#000",
+            "overlay_color": "#000000",
             "description": "",
             "text_color": "text-light",
             "link_text": "View products",
@@ -287,7 +287,7 @@
             "featured_collection": "servierschalen-keramik-artibloom",
             "show_image": false,
             "overlay_opacity": 0,
-            "overlay_color": "#000",
+            "overlay_color": "#000000",
             "description": "",
             "text_color": "text-light",
             "link_text": "View products",
@@ -295,11 +295,28 @@
             "button_color": "btn--white",
             "button_style": "hero__btn btn btn--large btn--outline caps"
           }
+        },
+        "d4c90dc5-fba9-49cb-8087-f866cea1d38a": {
+          "type": "collection",
+          "settings": {
+            "title": "Tassen",
+            "featured_collection": "tassen-keramik-artibloom",
+            "show_image": false,
+            "overlay_opacity": 0,
+            "overlay_color": "#000",
+            "description": "",
+            "text_color": "text-light",
+            "link_text": "View products",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
         }
       },
       "block_order": [
         "template--16179445268748__c8a1b3f8-45e0-4ed0-a5b0-c7ed0dbf6397-166517245271c25867-0",
-        "template--16179445268748__c8a1b3f8-45e0-4ed0-a5b0-c7ed0dbf6397-166517245271c25867-1"
+        "template--16179445268748__c8a1b3f8-45e0-4ed0-a5b0-c7ed0dbf6397-166517245271c25867-1",
+        "d4c90dc5-fba9-49cb-8087-f866cea1d38a"
       ],
       "settings": {
         "title": ""

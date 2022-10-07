@@ -348,12 +348,21 @@
             "position_x": 75,
             "position_y": 63
           }
+        },
+        "36e01a79-db6d-419c-bed6-e5492cde7dc7": {
+          "type": "product",
+          "settings": {
+            "product": "teller-essteller-weiss-matt-keramik-artibloom",
+            "position_x": 43,
+            "position_y": 88
+          }
         }
       },
       "block_order": [
         "template--16179445268748__705a0fcc-93ab-431d-b080-6b9a7c36d2ec-1665173334dd665dff-0",
         "template--16179445268748__705a0fcc-93ab-431d-b080-6b9a7c36d2ec-1665173334dd665dff-1",
-        "cec27335-718e-40ff-9949-4af15454f18e"
+        "cec27335-718e-40ff-9949-4af15454f18e",
+        "36e01a79-db6d-419c-bed6-e5492cde7dc7"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/IMG_7802.jpg",

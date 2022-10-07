@@ -336,15 +336,24 @@
         "template--16179445268748__705a0fcc-93ab-431d-b080-6b9a7c36d2ec-1665173334dd665dff-1": {
           "type": "product",
           "settings": {
-            "product": "",
-            "position_x": 50,
+            "product": "teller-essteller-sun-keramik-28-cm-artibloom",
+            "position_x": 56,
             "position_y": 50
+          }
+        },
+        "cec27335-718e-40ff-9949-4af15454f18e": {
+          "type": "product",
+          "settings": {
+            "product": "servierschale-muslischale-lima-keramik-artibloom",
+            "position_x": 75,
+            "position_y": 63
           }
         }
       },
       "block_order": [
         "template--16179445268748__705a0fcc-93ab-431d-b080-6b9a7c36d2ec-1665173334dd665dff-0",
-        "template--16179445268748__705a0fcc-93ab-431d-b080-6b9a7c36d2ec-1665173334dd665dff-1"
+        "template--16179445268748__705a0fcc-93ab-431d-b080-6b9a7c36d2ec-1665173334dd665dff-1",
+        "cec27335-718e-40ff-9949-4af15454f18e"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/IMG_7802.jpg",

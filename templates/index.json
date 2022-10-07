@@ -307,7 +307,7 @@
             "description": "",
             "text_color": "text-light",
             "link_text": "View products",
-            "link": "",
+            "link": "shopify:\/\/pages\/tassen",
             "button_color": "btn--white",
             "button_style": "hero__btn btn btn--large btn--outline caps"
           }

@@ -141,7 +141,7 @@
         "133a0170-c918-4f21-922e-dc1382001a3a": {
           "type": "collection",
           "settings": {
-            "collection": "tassen-keramik-artibloom",
+            "collection": "vasen-keramik-artibloom",
             "title": ""
           }
         },
@@ -214,8 +214,8 @@
         "template--16179445268748__c8a1b3f8-45e0-4ed0-a5b0-c7ed0dbf6397-166517245271c25867-1": {
           "type": "collection",
           "settings": {
-            "title": "Servierschalen",
-            "featured_collection": "servierschalen-keramik-artibloom",
+            "title": "Große Schalen",
+            "featured_collection": "servierschalen-gross-keramik-artibloom",
             "show_image": false,
             "overlay_opacity": 0,
             "overlay_color": "#000000",
@@ -230,8 +230,8 @@
         "d4c90dc5-fba9-49cb-8087-f866cea1d38a": {
           "type": "collection",
           "settings": {
-            "title": "Tassen",
-            "featured_collection": "tassen-keramik-artibloom",
+            "title": "Vasen",
+            "featured_collection": "vasen-keramik-artibloom",
             "show_image": false,
             "overlay_opacity": 0,
             "overlay_color": "#000000",

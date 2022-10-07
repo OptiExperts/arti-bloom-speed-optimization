@@ -128,7 +128,7 @@
           "type": "collection",
           "settings": {
             "collection": "servierschalen-keramik-artibloom",
-            "title": "Bowls"
+            "title": "Servierschalen"
           }
         },
         "16647922033dcf531c-2": {
@@ -149,7 +149,7 @@
           "type": "collection",
           "settings": {
             "collection": "servierplatten-keramik-artibloom",
-            "title": "Platten"
+            "title": "Servierplatten"
           }
         },
         "ab9a61d6-f1da-4092-8018-8afae692e6cf": {
@@ -190,6 +190,67 @@
         "layout": "grid",
         "aspect_ratio": 0.5,
         "enable_slider": false
+      }
+    },
+    "c8a1b3f8-45e0-4ed0-a5b0-c7ed0dbf6397": {
+      "type": "section-tab-collections",
+      "blocks": {
+        "template--16179445268748__c8a1b3f8-45e0-4ed0-a5b0-c7ed0dbf6397-166517245271c25867-0": {
+          "type": "collection",
+          "settings": {
+            "title": "Teller",
+            "featured_collection": "teller-keramik-artibloom",
+            "show_image": false,
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "description": "",
+            "text_color": "text-light",
+            "link_text": "View products",
+            "link": "shopify:\/\/pages\/teller",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        },
+        "template--16179445268748__c8a1b3f8-45e0-4ed0-a5b0-c7ed0dbf6397-166517245271c25867-1": {
+          "type": "collection",
+          "settings": {
+            "title": "Servierschalen",
+            "featured_collection": "servierschalen-keramik-artibloom",
+            "show_image": false,
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "description": "",
+            "text_color": "text-light",
+            "link_text": "View products",
+            "link": "shopify:\/\/pages\/servierschalen-klein-mittel",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        },
+        "d4c90dc5-fba9-49cb-8087-f866cea1d38a": {
+          "type": "collection",
+          "settings": {
+            "title": "Tassen",
+            "featured_collection": "tassen-keramik-artibloom",
+            "show_image": false,
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "description": "",
+            "text_color": "text-light",
+            "link_text": "View products",
+            "link": "shopify:\/\/pages\/tassen",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        }
+      },
+      "block_order": [
+        "template--16179445268748__c8a1b3f8-45e0-4ed0-a5b0-c7ed0dbf6397-166517245271c25867-0",
+        "template--16179445268748__c8a1b3f8-45e0-4ed0-a5b0-c7ed0dbf6397-166517245271c25867-1",
+        "d4c90dc5-fba9-49cb-8087-f866cea1d38a"
+      ],
+      "settings": {
+        "title": ""
       }
     },
     "166076845484879d57": {
@@ -260,67 +321,6 @@
       "settings": {
         "include_margins": false
       }
-    },
-    "c8a1b3f8-45e0-4ed0-a5b0-c7ed0dbf6397": {
-      "type": "section-tab-collections",
-      "blocks": {
-        "template--16179445268748__c8a1b3f8-45e0-4ed0-a5b0-c7ed0dbf6397-166517245271c25867-0": {
-          "type": "collection",
-          "settings": {
-            "title": "Teller",
-            "featured_collection": "teller-keramik-artibloom",
-            "show_image": false,
-            "overlay_opacity": 0,
-            "overlay_color": "#000000",
-            "description": "",
-            "text_color": "text-light",
-            "link_text": "View products",
-            "link": "shopify:\/\/pages\/teller",
-            "button_color": "btn--white",
-            "button_style": "hero__btn btn btn--large btn--outline caps"
-          }
-        },
-        "template--16179445268748__c8a1b3f8-45e0-4ed0-a5b0-c7ed0dbf6397-166517245271c25867-1": {
-          "type": "collection",
-          "settings": {
-            "title": "Servierschalen",
-            "featured_collection": "servierschalen-keramik-artibloom",
-            "show_image": false,
-            "overlay_opacity": 0,
-            "overlay_color": "#000000",
-            "description": "",
-            "text_color": "text-light",
-            "link_text": "View products",
-            "link": "shopify:\/\/pages\/servierschalen-klein-mittel",
-            "button_color": "btn--white",
-            "button_style": "hero__btn btn btn--large btn--outline caps"
-          }
-        },
-        "d4c90dc5-fba9-49cb-8087-f866cea1d38a": {
-          "type": "collection",
-          "settings": {
-            "title": "Tassen",
-            "featured_collection": "tassen-keramik-artibloom",
-            "show_image": false,
-            "overlay_opacity": 0,
-            "overlay_color": "#000",
-            "description": "",
-            "text_color": "text-light",
-            "link_text": "View products",
-            "link": "shopify:\/\/pages\/tassen",
-            "button_color": "btn--white",
-            "button_style": "hero__btn btn btn--large btn--outline caps"
-          }
-        }
-      },
-      "block_order": [
-        "template--16179445268748__c8a1b3f8-45e0-4ed0-a5b0-c7ed0dbf6397-166517245271c25867-0",
-        "template--16179445268748__c8a1b3f8-45e0-4ed0-a5b0-c7ed0dbf6397-166517245271c25867-1",
-        "d4c90dc5-fba9-49cb-8087-f866cea1d38a"
-      ],
-      "settings": {
-        "title": ""
-      }
     }
   },
   "order": [
@@ -329,8 +329,8 @@
     "16596338637d51486d",
     "1664797618d6d16703",
     "1664792203283870e0",
+    "c8a1b3f8-45e0-4ed0-a5b0-c7ed0dbf6397",
     "166076845484879d57",
-    "1665172311a35fcb8a",
-    "c8a1b3f8-45e0-4ed0-a5b0-c7ed0dbf6397"
+    "1665172311a35fcb8a"
   ]
 }

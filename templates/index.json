@@ -356,13 +356,22 @@
             "position_x": 43,
             "position_y": 88
           }
+        },
+        "0aa7ce2e-e61b-4265-bd6c-88e57ffb5494": {
+          "type": "product",
+          "settings": {
+            "product": "teller-luso-beige-blau-weiss-29-cm-keramik-artibloom",
+            "position_x": 82,
+            "position_y": 30
+          }
         }
       },
       "block_order": [
         "template--16179445268748__705a0fcc-93ab-431d-b080-6b9a7c36d2ec-1665173334dd665dff-0",
         "template--16179445268748__705a0fcc-93ab-431d-b080-6b9a7c36d2ec-1665173334dd665dff-1",
         "cec27335-718e-40ff-9949-4af15454f18e",
-        "36e01a79-db6d-419c-bed6-e5492cde7dc7"
+        "36e01a79-db6d-419c-bed6-e5492cde7dc7",
+        "0aa7ce2e-e61b-4265-bd6c-88e57ffb5494"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/IMG_7802.jpg",

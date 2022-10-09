@@ -57,8 +57,8 @@
     "16596338637d51486d": {
       "type": "section-hero",
       "settings": {
-        "image": "shopify:\/\/shop_images\/IMG_8115.jpg",
-        "mobile_image": "shopify:\/\/shop_images\/IMG_8115_d2efc2d4-f3cc-4ea2-a2a9-807132793e6a.jpg",
+        "image": "shopify:\/\/shop_images\/IMG_8120.jpg",
+        "mobile_image": "shopify:\/\/shop_images\/IMG_8120.jpg",
         "bg_position": "center-center",
         "height": "five-fifty-height-hero",
         "overlay_opacity": 0,
@@ -128,7 +128,7 @@
           "type": "collection",
           "settings": {
             "collection": "servierschalen-keramik-artibloom",
-            "title": "Bowls"
+            "title": "Servierschalen"
           }
         },
         "16647922033dcf531c-2": {
@@ -141,7 +141,7 @@
         "133a0170-c918-4f21-922e-dc1382001a3a": {
           "type": "collection",
           "settings": {
-            "collection": "tassen-keramik-artibloom",
+            "collection": "vasen-keramik-artibloom",
             "title": ""
           }
         },
@@ -149,7 +149,7 @@
           "type": "collection",
           "settings": {
             "collection": "servierplatten-keramik-artibloom",
-            "title": "Platten"
+            "title": "Servierplatten"
           }
         },
         "ab9a61d6-f1da-4092-8018-8afae692e6cf": {
@@ -190,6 +190,126 @@
         "layout": "grid",
         "aspect_ratio": 0.5,
         "enable_slider": false
+      }
+    },
+    "c8a1b3f8-45e0-4ed0-a5b0-c7ed0dbf6397": {
+      "type": "section-tab-collections",
+      "blocks": {
+        "template--16179445268748__c8a1b3f8-45e0-4ed0-a5b0-c7ed0dbf6397-166517245271c25867-0": {
+          "type": "collection",
+          "settings": {
+            "title": "Teller",
+            "featured_collection": "teller-keramik-artibloom",
+            "show_image": false,
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "description": "",
+            "text_color": "text-light",
+            "link_text": "View products",
+            "link": "shopify:\/\/pages\/teller",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        },
+        "template--16179445268748__c8a1b3f8-45e0-4ed0-a5b0-c7ed0dbf6397-166517245271c25867-1": {
+          "type": "collection",
+          "settings": {
+            "title": "Große Schalen",
+            "featured_collection": "servierschalen-gross-keramik-artibloom",
+            "show_image": false,
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "description": "",
+            "text_color": "text-light",
+            "link_text": "View products",
+            "link": "shopify:\/\/pages\/servierschalen-klein-mittel",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        },
+        "d4c90dc5-fba9-49cb-8087-f866cea1d38a": {
+          "type": "collection",
+          "settings": {
+            "title": "Vasen",
+            "featured_collection": "vasen-keramik-artibloom",
+            "show_image": false,
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "description": "",
+            "text_color": "text-light",
+            "link_text": "View products",
+            "link": "shopify:\/\/pages\/tassen",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        }
+      },
+      "block_order": [
+        "template--16179445268748__c8a1b3f8-45e0-4ed0-a5b0-c7ed0dbf6397-166517245271c25867-0",
+        "template--16179445268748__c8a1b3f8-45e0-4ed0-a5b0-c7ed0dbf6397-166517245271c25867-1",
+        "d4c90dc5-fba9-49cb-8087-f866cea1d38a"
+      ],
+      "settings": {
+        "title": ""
+      }
+    },
+    "705a0fcc-93ab-431d-b080-6b9a7c36d2ec": {
+      "type": "section-look",
+      "blocks": {
+        "template--16179445268748__705a0fcc-93ab-431d-b080-6b9a7c36d2ec-1665173334dd665dff-0": {
+          "type": "product",
+          "settings": {
+            "product": "teller-salamanca-weiss-28-cm-keramik-geschirr-artibloom",
+            "position_x": 15,
+            "position_y": 50
+          }
+        },
+        "template--16179445268748__705a0fcc-93ab-431d-b080-6b9a7c36d2ec-1665173334dd665dff-1": {
+          "type": "product",
+          "settings": {
+            "product": "teller-essteller-sun-keramik-28-cm-artibloom",
+            "position_x": 56,
+            "position_y": 50
+          }
+        },
+        "cec27335-718e-40ff-9949-4af15454f18e": {
+          "type": "product",
+          "settings": {
+            "product": "servierschale-muslischale-lima-keramik-artibloom",
+            "position_x": 75,
+            "position_y": 63
+          }
+        },
+        "36e01a79-db6d-419c-bed6-e5492cde7dc7": {
+          "type": "product",
+          "settings": {
+            "product": "teller-essteller-weiss-matt-keramik-artibloom",
+            "position_x": 43,
+            "position_y": 88
+          }
+        },
+        "0aa7ce2e-e61b-4265-bd6c-88e57ffb5494": {
+          "type": "product",
+          "settings": {
+            "product": "teller-luso-beige-blau-weiss-29-cm-keramik-artibloom",
+            "position_x": 82,
+            "position_y": 30
+          }
+        }
+      },
+      "block_order": [
+        "template--16179445268748__705a0fcc-93ab-431d-b080-6b9a7c36d2ec-1665173334dd665dff-0",
+        "template--16179445268748__705a0fcc-93ab-431d-b080-6b9a7c36d2ec-1665173334dd665dff-1",
+        "cec27335-718e-40ff-9949-4af15454f18e",
+        "36e01a79-db6d-419c-bed6-e5492cde7dc7",
+        "0aa7ce2e-e61b-4265-bd6c-88e57ffb5494"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/IMG_7802.jpg",
+        "bg_position": "center-center",
+        "title": "Shop the look",
+        "section_bg": "#fafafa",
+        "dot_color": "#ffffff"
       }
     },
     "166076845484879d57": {
@@ -241,6 +361,25 @@
         "borders": false,
         "wrapper": false
       }
+    },
+    "1665172311a35fcb8a": {
+      "type": "apps",
+      "blocks": {
+        "604ef3f3-c341-4ee6-b1a9-55efb970831a": {
+          "type": "shopify:\/\/apps\/instafeed-instagram-feed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5",
+          "settings": {
+            "heading_size": 17,
+            "feed_width": 100,
+            "html_area": ""
+          }
+        }
+      },
+      "block_order": [
+        "604ef3f3-c341-4ee6-b1a9-55efb970831a"
+      ],
+      "settings": {
+        "include_margins": false
+      }
     }
   },
   "order": [
@@ -249,6 +388,9 @@
     "16596338637d51486d",
     "1664797618d6d16703",
     "1664792203283870e0",
-    "166076845484879d57"
+    "c8a1b3f8-45e0-4ed0-a5b0-c7ed0dbf6397",
+    "705a0fcc-93ab-431d-b080-6b9a7c36d2ec",
+    "166076845484879d57",
+    "1665172311a35fcb8a"
   ]
 }

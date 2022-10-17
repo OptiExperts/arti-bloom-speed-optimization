@@ -301,16 +301,6 @@
     },
     "16660387559f8255f2": {
       "type": "apps",
-      "blocks": {
-        "9f386b69-7009-415e-bd7a-16b428305600": {
-          "type": "shopify:\/\/apps\/product-reviews\/blocks\/reviews\/bae150af-8da8-48b2-9867-398188115e5f",
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "9f386b69-7009-415e-bd7a-16b428305600"
-      ],
       "settings": {
         "include_margins": false
       }

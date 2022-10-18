@@ -304,10 +304,27 @@
       "settings": {
         "include_margins": false
       }
+    },
+    "judgeme_section_review_widget_be8a": {
+      "type": "apps",
+      "blocks": {
+        "judgeme_review_widget_c4731d79": {
+          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/review_widget\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "judgeme_review_widget_c4731d79"
+      ],
+      "settings": {
+        "include_margins": true
+      }
     }
   },
   "order": [
     "main",
+    "judgeme_section_review_widget_be8a",
     "faq",
     "shipping",
     "about",

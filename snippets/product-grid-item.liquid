@@ -238,7 +238,11 @@
         <p class="product__grid__cutline">{{ product.metafields.theme.cutline.value }}</p>
       {%- endif -%}
 
-      <span class="price{% if product.compare_at_price > product.price %} sale{% endif %}">
+      
+{% comment %}Start automatically added Judge.me widget{% endcomment %}
+  {% render 'judgeme_widgets', widget_type: 'judgeme_preview_badge', concierge_install: true, product: product %}
+{% comment %}End automatically added Judge.me widget{% endcomment %}
+<span class="price{% if product.compare_at_price > product.price %} sale{% endif %}">
         {% if product.available %}
           <span class="new-price">
             {% if product.price_varies %}

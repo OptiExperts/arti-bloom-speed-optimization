@@ -117,8 +117,8 @@
           "2b8ab8a9-69b4-44b9-b664-f86d4406b8a0"
         ],
         "settings": {
-          "bg_color": "#ffffb0",
-          "color": "#545454",
+          "bg_color": "#ffa384",
+          "color": "#ffffff",
           "layout": "slider",
           "speed": 8
         }

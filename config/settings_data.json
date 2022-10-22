@@ -101,10 +101,9 @@
         "blocks": {
           "2b8ab8a9-69b4-44b9-b664-f86d4406b8a0": {
             "type": "message",
-            "disabled": true,
             "settings": {
               "show_wheel": false,
-              "message": "Klimaneutraler Versand mit DHL GoGreen",
+              "message": "EIN HALBES JAHR ARTIBLOOM. ALS DANKESCHÖN GIBT ES 20 % RABATT MIT DEM CODE \"DANKE20\"",
               "target_url_enabled": false,
               "target_url": "",
               "target_referrer_enabled": false,

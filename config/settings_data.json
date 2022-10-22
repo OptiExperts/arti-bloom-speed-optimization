@@ -119,7 +119,7 @@
         "settings": {
           "bg_color": "#ffffb0",
           "color": "#ffa384",
-          "layout": "marquee",
+          "layout": "slider",
           "speed": 8
         }
       },

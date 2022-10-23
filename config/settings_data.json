@@ -119,8 +119,8 @@
         "settings": {
           "bg_color": "#ffffb0",
           "color": "#ffa384",
-          "layout": "marquee",
-          "speed": 8
+          "layout": "slider",
+          "speed": 6
         }
       },
       "footer": {

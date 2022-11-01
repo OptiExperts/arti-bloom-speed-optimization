@@ -166,11 +166,11 @@
             "title": ""
           }
         },
-        "762c5b02-3cbb-448d-b67c-1da3d574ba1d": {
+        "0ed506cb-4494-4daa-8919-d2012968a652": {
           "type": "collection",
           "settings": {
-            "collection": "geschirrset",
-            "title": "Sets"
+            "collection": "wohnaccessoires",
+            "title": ""
           }
         }
       },
@@ -182,7 +182,7 @@
         "172b51d4-403f-4ec1-9653-6f75233d273a",
         "ab9a61d6-f1da-4092-8018-8afae692e6cf",
         "16647922033dcf531c-3",
-        "762c5b02-3cbb-448d-b67c-1da3d574ba1d"
+        "0ed506cb-4494-4daa-8919-d2012968a652"
       ],
       "settings": {
         "title": "",

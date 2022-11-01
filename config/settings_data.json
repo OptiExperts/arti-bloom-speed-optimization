@@ -98,24 +98,6 @@
       },
       "announcement": {
         "type": "announcement",
-        "blocks": {
-          "2b8ab8a9-69b4-44b9-b664-f86d4406b8a0": {
-            "type": "message",
-            "settings": {
-              "show_wheel": false,
-              "message": "EIN HALBES JAHR ARTIBLOOM. ALS DANKESCHÖN GIBT ES 20 % RABATT MIT DEM CODE \"DANKE20\"",
-              "target_url_enabled": false,
-              "target_url": "",
-              "target_referrer_enabled": false,
-              "target_referrer": "",
-              "target_device_enabled": false,
-              "target_device": "mobile"
-            }
-          }
-        },
-        "block_order": [
-          "2b8ab8a9-69b4-44b9-b664-f86d4406b8a0"
-        ],
         "settings": {
           "bg_color": "#ffffb0",
           "color": "#ffa384",

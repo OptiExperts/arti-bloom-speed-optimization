@@ -194,7 +194,6 @@
     },
     "c8a1b3f8-45e0-4ed0-a5b0-c7ed0dbf6397": {
       "type": "section-tab-collections",
-      "disabled": true,
       "blocks": {
         "template--16179445268748__c8a1b3f8-45e0-4ed0-a5b0-c7ed0dbf6397-166517245271c25867-0": {
           "type": "collection",
@@ -256,7 +255,6 @@
     },
     "705a0fcc-93ab-431d-b080-6b9a7c36d2ec": {
       "type": "section-look",
-      "disabled": true,
       "blocks": {
         "template--16179445268748__705a0fcc-93ab-431d-b080-6b9a7c36d2ec-1665173334dd665dff-0": {
           "type": "product",

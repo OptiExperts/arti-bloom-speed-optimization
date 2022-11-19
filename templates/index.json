@@ -141,7 +141,7 @@
         "133a0170-c918-4f21-922e-dc1382001a3a": {
           "type": "collection",
           "settings": {
-            "collection": "vasen-keramik-artibloom",
+            "collection": "servierschalen-gross-keramik-artibloom",
             "title": ""
           }
         },
@@ -230,7 +230,7 @@
         "d4c90dc5-fba9-49cb-8087-f866cea1d38a": {
           "type": "collection",
           "settings": {
-            "title": "Vasen",
+            "title": "Große Schalen",
             "featured_collection": "wohnaccessoires",
             "show_image": false,
             "overlay_opacity": 0,

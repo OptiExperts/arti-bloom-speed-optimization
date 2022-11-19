@@ -260,7 +260,7 @@
           "type": "product",
           "settings": {
             "product": "teller-salamanca-weiss-28-cm-keramik-geschirr-artibloom",
-            "position_x": 15,
+            "position_x": 6,
             "position_y": 50
           }
         },
@@ -305,7 +305,7 @@
         "0aa7ce2e-e61b-4265-bd6c-88e57ffb5494"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/IMG_7802.jpg",
+        "image": "shopify:\/\/shop_images\/IMG_2350_jpg.jpg",
         "bg_position": "center-center",
         "title": "Shop the look",
         "section_bg": "#fafafa",

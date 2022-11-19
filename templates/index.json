@@ -131,13 +131,6 @@
             "title": "Servierschalen"
           }
         },
-        "16647922033dcf531c-2": {
-          "type": "collection",
-          "settings": {
-            "collection": "tassen-keramik-artibloom",
-            "title": "Tassen"
-          }
-        },
         "133a0170-c918-4f21-922e-dc1382001a3a": {
           "type": "collection",
           "settings": {
@@ -150,6 +143,13 @@
           "settings": {
             "collection": "servierplatten-keramik-artibloom",
             "title": "Servierplatten"
+          }
+        },
+        "16647922033dcf531c-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "tassen-keramik-artibloom",
+            "title": "Tassen"
           }
         },
         "ab9a61d6-f1da-4092-8018-8afae692e6cf": {
@@ -177,9 +177,9 @@
       "block_order": [
         "16647922033dcf531c-0",
         "16647922033dcf531c-1",
-        "16647922033dcf531c-2",
         "133a0170-c918-4f21-922e-dc1382001a3a",
         "172b51d4-403f-4ec1-9653-6f75233d273a",
+        "16647922033dcf531c-2",
         "ab9a61d6-f1da-4092-8018-8afae692e6cf",
         "16647922033dcf531c-3",
         "0ed506cb-4494-4daa-8919-d2012968a652"

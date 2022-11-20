@@ -117,7 +117,7 @@
       "type": "section-split-hero",
       "settings": {
         "image_height": "screen-height-one-half",
-        "mobile_layout": "image-right",
+        "mobile_layout": "inline",
         "image_desktop_left": "shopify:\/\/shop_images\/IMG_2102.jpg",
         "bg_position_left": "center-center",
         "image_desktop_right": "shopify:\/\/shop_images\/IMG_2260_jpg_2.jpg",

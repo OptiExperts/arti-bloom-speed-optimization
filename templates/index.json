@@ -256,8 +256,8 @@
     "16596338637d51486d": {
       "type": "section-hero",
       "settings": {
-        "image": "shopify:\/\/shop_images\/IMG_8093_17021094-4bcc-4fc3-a08d-9b1eb308f1f0.jpg",
-        "mobile_image": "shopify:\/\/shop_images\/IMG_8103.jpg",
+        "image": "shopify:\/\/shop_images\/IMG_8093.jpg",
+        "mobile_image": "shopify:\/\/shop_images\/IMG_8093.jpg",
         "bg_position": "center-top",
         "height": "five-fifty-height-hero",
         "overlay_opacity": 0,

@@ -113,6 +113,28 @@
         "dot_color": "#ffffff"
       }
     },
+    "166db9da-614b-4bad-8b35-621e2d326767": {
+      "type": "section-split-hero",
+      "settings": {
+        "image_height": "screen-height-one-half",
+        "mobile_layout": "stacked",
+        "image_desktop_left": "shopify:\/\/shop_images\/IMG_2102.jpg",
+        "bg_position_left": "center-center",
+        "image_desktop_right": "shopify:\/\/shop_images\/IMG_2260_jpg_2.jpg",
+        "bg_position_right": "center-bottom",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0,
+        "title": "Es sind die kleinen Dinge",
+        "description": "die zählen.",
+        "flex_align": "align--middle-center",
+        "text_color": "text-light",
+        "transparent": true,
+        "link_text": "Mehr entdecken",
+        "link": "shopify:\/\/collections\/wohnaccessoires",
+        "button_color": "btn--primary",
+        "button_style": "hero__btn btn btn--input caps"
+      }
+    },
     "1664797618d6d16703": {
       "type": "text-promo",
       "blocks": {
@@ -231,34 +253,12 @@
         "enable_slider": false
       }
     },
-    "166db9da-614b-4bad-8b35-621e2d326767": {
-      "type": "section-split-hero",
-      "settings": {
-        "image_height": "screen-height-one-half",
-        "mobile_layout": "stacked",
-        "image_desktop_left": "shopify:\/\/shop_images\/IMG_2102.jpg",
-        "bg_position_left": "center-center",
-        "image_desktop_right": "shopify:\/\/shop_images\/IMG_2260_jpg_2.jpg",
-        "bg_position_right": "center-bottom",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0,
-        "title": "Es sind die kleinen Dinge",
-        "description": "die zählen.",
-        "flex_align": "align--middle-center",
-        "text_color": "text-light",
-        "transparent": true,
-        "link_text": "Mehr entdecken",
-        "link": "shopify:\/\/collections\/wohnaccessoires",
-        "button_color": "btn--primary",
-        "button_style": "hero__btn btn btn--input caps"
-      }
-    },
     "16596338637d51486d": {
       "type": "section-hero",
       "settings": {
         "image": "shopify:\/\/shop_images\/IMG_8093_17021094-4bcc-4fc3-a08d-9b1eb308f1f0.jpg",
         "mobile_image": "shopify:\/\/shop_images\/IMG_8103.jpg",
-        "bg_position": "center-center",
+        "bg_position": "center-top",
         "height": "five-fifty-height-hero",
         "overlay_opacity": 0,
         "overlay_color": "#000000",
@@ -426,9 +426,9 @@
     "166276758655edee4f",
     "166310832276a8ec0e",
     "705a0fcc-93ab-431d-b080-6b9a7c36d2ec",
+    "166db9da-614b-4bad-8b35-621e2d326767",
     "1664797618d6d16703",
     "1664792203283870e0",
-    "166db9da-614b-4bad-8b35-621e2d326767",
     "16596338637d51486d",
     "c8a1b3f8-45e0-4ed0-a5b0-c7ed0dbf6397",
     "16664203749adb5561",

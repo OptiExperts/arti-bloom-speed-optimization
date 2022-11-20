@@ -420,6 +420,25 @@
       "settings": {
         "include_margins": false
       }
+    },
+    "6b2e9241-78e5-43d1-aa18-2f92d586a5c9": {
+      "type": "section-hero",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/IMG_2102.jpg",
+        "bg_position": "center-center",
+        "height": "screen-height-one-half",
+        "overlay_opacity": 0,
+        "overlay_color": "#000",
+        "title": "Es sind die kleinen Dinge",
+        "description": "die zählen.",
+        "flex_align": "align--middle-center",
+        "text_color": "text-light",
+        "transparent": true,
+        "link_text": "Hier gehts zu den Wohnaccessoires",
+        "link": "shopify:\/\/collections\/wohnaccessoires",
+        "button_color": "btn--primary",
+        "button_style": "hero__btn btn btn--input caps"
+      }
     }
   },
   "order": [
@@ -433,6 +452,7 @@
     "c8a1b3f8-45e0-4ed0-a5b0-c7ed0dbf6397",
     "16664203749adb5561",
     "166076845484879d57",
-    "1665172311a35fcb8a"
+    "1665172311a35fcb8a",
+    "6b2e9241-78e5-43d1-aa18-2f92d586a5c9"
   ]
 }

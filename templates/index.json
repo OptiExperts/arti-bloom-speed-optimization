@@ -156,6 +156,57 @@
         "button_style": "hero__btn btn btn--input caps"
       }
     },
+    "96ef4b8e-e491-4caa-8900-5955fea99ffc": {
+      "type": "section-look",
+      "blocks": {
+        "template--16179445268748__96ef4b8e-e491-4caa-8900-5955fea99ffc-16689538120eee9b0a-0": {
+          "type": "product",
+          "settings": {
+            "product": "dekotablett-confetti-ocker",
+            "position_x": 41,
+            "position_y": 88
+          }
+        },
+        "template--16179445268748__96ef4b8e-e491-4caa-8900-5955fea99ffc-16689538120eee9b0a-1": {
+          "type": "product",
+          "settings": {
+            "product": "kerzenhalter-knot-ocker",
+            "position_x": 40,
+            "position_y": 71
+          }
+        },
+        "6f8b6cb7-29a7-484e-a9eb-6c4bab436ecf": {
+          "type": "product",
+          "settings": {
+            "product": "dekotablett-bejo-deko-tischdeko-schmuckschale-wohnaccessoires-artibloom",
+            "position_x": 74,
+            "position_y": 75
+          }
+        },
+        "4f8f5500-4bbb-4d0e-9273-092ba657e9c9": {
+          "type": "product",
+          "disabled": true,
+          "settings": {
+            "product": "",
+            "position_x": 7,
+            "position_y": 89
+          }
+        }
+      },
+      "block_order": [
+        "template--16179445268748__96ef4b8e-e491-4caa-8900-5955fea99ffc-16689538120eee9b0a-0",
+        "template--16179445268748__96ef4b8e-e491-4caa-8900-5955fea99ffc-16689538120eee9b0a-1",
+        "6f8b6cb7-29a7-484e-a9eb-6c4bab436ecf",
+        "4f8f5500-4bbb-4d0e-9273-092ba657e9c9"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/IMG_2965.jpg",
+        "bg_position": "center-center",
+        "title": "Shop the look",
+        "section_bg": "#fafafa",
+        "dot_color": "#ffffff"
+      }
+    },
     "1664797618d6d16703": {
       "type": "text-promo",
       "blocks": {
@@ -441,57 +492,6 @@
       "settings": {
         "include_margins": false
       }
-    },
-    "96ef4b8e-e491-4caa-8900-5955fea99ffc": {
-      "type": "section-look",
-      "blocks": {
-        "template--16179445268748__96ef4b8e-e491-4caa-8900-5955fea99ffc-16689538120eee9b0a-0": {
-          "type": "product",
-          "settings": {
-            "product": "dekotablett-confetti-ocker",
-            "position_x": 41,
-            "position_y": 88
-          }
-        },
-        "template--16179445268748__96ef4b8e-e491-4caa-8900-5955fea99ffc-16689538120eee9b0a-1": {
-          "type": "product",
-          "settings": {
-            "product": "kerzenhalter-knot-ocker",
-            "position_x": 40,
-            "position_y": 71
-          }
-        },
-        "6f8b6cb7-29a7-484e-a9eb-6c4bab436ecf": {
-          "type": "product",
-          "settings": {
-            "product": "dekotablett-bejo-deko-tischdeko-schmuckschale-wohnaccessoires-artibloom",
-            "position_x": 74,
-            "position_y": 75
-          }
-        },
-        "4f8f5500-4bbb-4d0e-9273-092ba657e9c9": {
-          "type": "product",
-          "disabled": true,
-          "settings": {
-            "product": "",
-            "position_x": 7,
-            "position_y": 89
-          }
-        }
-      },
-      "block_order": [
-        "template--16179445268748__96ef4b8e-e491-4caa-8900-5955fea99ffc-16689538120eee9b0a-0",
-        "template--16179445268748__96ef4b8e-e491-4caa-8900-5955fea99ffc-16689538120eee9b0a-1",
-        "6f8b6cb7-29a7-484e-a9eb-6c4bab436ecf",
-        "4f8f5500-4bbb-4d0e-9273-092ba657e9c9"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/IMG_2965.jpg",
-        "bg_position": "center-center",
-        "title": "Shop the look",
-        "section_bg": "#fafafa",
-        "dot_color": "#ffffff"
-      }
     }
   },
   "order": [
@@ -500,13 +500,13 @@
     "705a0fcc-93ab-431d-b080-6b9a7c36d2ec",
     "6b2e9241-78e5-43d1-aa18-2f92d586a5c9",
     "166db9da-614b-4bad-8b35-621e2d326767",
+    "96ef4b8e-e491-4caa-8900-5955fea99ffc",
     "1664797618d6d16703",
     "1664792203283870e0",
     "16596338637d51486d",
     "c8a1b3f8-45e0-4ed0-a5b0-c7ed0dbf6397",
     "16664203749adb5561",
     "166076845484879d57",
-    "1665172311a35fcb8a",
-    "96ef4b8e-e491-4caa-8900-5955fea99ffc"
+    "1665172311a35fcb8a"
   ]
 }

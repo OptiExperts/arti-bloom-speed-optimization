@@ -167,7 +167,7 @@
           "type": "collection",
           "settings": {
             "collection": "servierschalen-keramik-artibloom",
-            "title": "Servierschalen"
+            "title": "Bowls"
           }
         },
         "133a0170-c918-4f21-922e-dc1382001a3a": {
@@ -240,7 +240,7 @@
         "bg_position_left": "center-center",
         "image_desktop_right": "shopify:\/\/shop_images\/IMG_2260_jpg_2.jpg",
         "bg_position_right": "center-bottom",
-        "overlay_color": "#000",
+        "overlay_color": "#000000",
         "overlay_opacity": 0,
         "title": "Es sind immer die kleinen Dinge",
         "description": "die zählen.",

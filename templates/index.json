@@ -398,6 +398,28 @@
       "settings": {
         "include_margins": false
       }
+    },
+    "166db9da-614b-4bad-8b35-621e2d326767": {
+      "type": "section-split-hero",
+      "settings": {
+        "image_height": "screen-height-one-half",
+        "mobile_layout": "stacked",
+        "image_desktop_left": "shopify:\/\/shop_images\/IMG_2102.jpg",
+        "bg_position_left": "center-center",
+        "image_desktop_right": "shopify:\/\/shop_images\/IMG_2260_jpg_2.jpg",
+        "bg_position_right": "center-bottom",
+        "overlay_color": "#000",
+        "overlay_opacity": 0,
+        "title": "Sparkle & Stripes",
+        "description": "All I want for Christmas is YOU",
+        "flex_align": "align--middle-center",
+        "text_color": "text-light",
+        "transparent": true,
+        "link_text": "Mehr entdecken",
+        "link": "shopify:\/\/collections\/wohnaccessoires",
+        "button_color": "btn--primary",
+        "button_style": "hero__btn btn btn--input caps"
+      }
     }
   },
   "order": [
@@ -410,6 +432,7 @@
     "c8a1b3f8-45e0-4ed0-a5b0-c7ed0dbf6397",
     "16664203749adb5561",
     "166076845484879d57",
-    "1665172311a35fcb8a"
+    "1665172311a35fcb8a",
+    "166db9da-614b-4bad-8b35-621e2d326767"
   ]
 }

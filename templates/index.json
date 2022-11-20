@@ -153,7 +153,7 @@
         "16647976185064e250-2": {
           "type": "button",
           "settings": {
-            "button_text": "Jetzt entdecken",
+            "button_text": "zum gesamten Sortiment",
             "button_url": "shopify:\/\/pages\/keramik",
             "button_color": "btn--primary",
             "button_style": "hero__btn btn btn--input caps"

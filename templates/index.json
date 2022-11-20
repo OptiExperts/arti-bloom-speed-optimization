@@ -129,7 +129,7 @@
         "flex_align": "align--middle-center",
         "text_color": "text-light",
         "transparent": true,
-        "link_text": "Mehr entdecken",
+        "link_text": "Hier gehts zu den wohnaccessoires",
         "link": "shopify:\/\/collections\/wohnaccessoires",
         "button_color": "btn--primary",
         "button_style": "hero__btn btn btn--input caps"

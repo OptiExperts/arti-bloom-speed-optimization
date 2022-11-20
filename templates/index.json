@@ -191,13 +191,22 @@
             "position_x": 7,
             "position_y": 89
           }
+        },
+        "dc1b97bf-4d01-461c-8353-6c94c42e00d5": {
+          "type": "product",
+          "settings": {
+            "product": "deko-tablett-jas-rose",
+            "position_x": 8,
+            "position_y": 90
+          }
         }
       },
       "block_order": [
         "template--16179445268748__96ef4b8e-e491-4caa-8900-5955fea99ffc-16689538120eee9b0a-0",
         "template--16179445268748__96ef4b8e-e491-4caa-8900-5955fea99ffc-16689538120eee9b0a-1",
         "6f8b6cb7-29a7-484e-a9eb-6c4bab436ecf",
-        "4f8f5500-4bbb-4d0e-9273-092ba657e9c9"
+        "4f8f5500-4bbb-4d0e-9273-092ba657e9c9",
+        "dc1b97bf-4d01-461c-8353-6c94c42e00d5"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/IMG_2965.jpg",

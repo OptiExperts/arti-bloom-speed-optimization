@@ -441,6 +441,38 @@
       "settings": {
         "include_margins": false
       }
+    },
+    "96ef4b8e-e491-4caa-8900-5955fea99ffc": {
+      "type": "section-look",
+      "blocks": {
+        "template--16179445268748__96ef4b8e-e491-4caa-8900-5955fea99ffc-16689538120eee9b0a-0": {
+          "type": "product",
+          "settings": {
+            "product": "",
+            "position_x": 13,
+            "position_y": 50
+          }
+        },
+        "template--16179445268748__96ef4b8e-e491-4caa-8900-5955fea99ffc-16689538120eee9b0a-1": {
+          "type": "product",
+          "settings": {
+            "product": "kerzenhalter-knot-ocker",
+            "position_x": 40,
+            "position_y": 71
+          }
+        }
+      },
+      "block_order": [
+        "template--16179445268748__96ef4b8e-e491-4caa-8900-5955fea99ffc-16689538120eee9b0a-0",
+        "template--16179445268748__96ef4b8e-e491-4caa-8900-5955fea99ffc-16689538120eee9b0a-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/IMG_2965.jpg",
+        "bg_position": "center-center",
+        "title": "Shop the look",
+        "section_bg": "#fafafa",
+        "dot_color": "#FFFFFF"
+      }
     }
   },
   "order": [
@@ -455,6 +487,7 @@
     "c8a1b3f8-45e0-4ed0-a5b0-c7ed0dbf6397",
     "16664203749adb5561",
     "166076845484879d57",
-    "1665172311a35fcb8a"
+    "1665172311a35fcb8a",
+    "96ef4b8e-e491-4caa-8900-5955fea99ffc"
   ]
 }

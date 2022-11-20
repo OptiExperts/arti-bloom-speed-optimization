@@ -341,7 +341,7 @@
         "bg_position": "right-center",
         "height": "screen-height-one-half",
         "overlay_opacity": 0,
-        "overlay_color": "#000",
+        "overlay_color": "#000000",
         "title": "All I want for Christmas",
         "description": "is YOU",
         "flex_align": "align--middle-center",
@@ -356,10 +356,10 @@
     "16596338637d51486d": {
       "type": "section-hero",
       "settings": {
-        "image": "shopify:\/\/shop_images\/IMG_8093.jpg",
-        "mobile_image": "shopify:\/\/shop_images\/IMG_8093.jpg",
-        "bg_position": "center-top",
-        "height": "five-fifty-height-hero",
+        "image": "shopify:\/\/shop_images\/IMG_8120.jpg",
+        "mobile_image": "shopify:\/\/shop_images\/IMG_8120.jpg",
+        "bg_position": "center-center",
+        "height": "screen-height-three-quarters",
         "overlay_opacity": 0,
         "overlay_color": "#000000",
         "title": "KUNST",

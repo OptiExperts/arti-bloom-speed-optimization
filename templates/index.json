@@ -448,9 +448,9 @@
         "template--16179445268748__96ef4b8e-e491-4caa-8900-5955fea99ffc-16689538120eee9b0a-0": {
           "type": "product",
           "settings": {
-            "product": "",
-            "position_x": 13,
-            "position_y": 50
+            "product": "dekotablett-confetti-ocker",
+            "position_x": 41,
+            "position_y": 88
           }
         },
         "template--16179445268748__96ef4b8e-e491-4caa-8900-5955fea99ffc-16689538120eee9b0a-1": {
@@ -460,18 +460,27 @@
             "position_x": 40,
             "position_y": 71
           }
+        },
+        "6f8b6cb7-29a7-484e-a9eb-6c4bab436ecf": {
+          "type": "product",
+          "settings": {
+            "product": "dekotablett-bejo-deko-tischdeko-schmuckschale-wohnaccessoires-artibloom",
+            "position_x": 74,
+            "position_y": 75
+          }
         }
       },
       "block_order": [
         "template--16179445268748__96ef4b8e-e491-4caa-8900-5955fea99ffc-16689538120eee9b0a-0",
-        "template--16179445268748__96ef4b8e-e491-4caa-8900-5955fea99ffc-16689538120eee9b0a-1"
+        "template--16179445268748__96ef4b8e-e491-4caa-8900-5955fea99ffc-16689538120eee9b0a-1",
+        "6f8b6cb7-29a7-484e-a9eb-6c4bab436ecf"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/IMG_2965.jpg",
         "bg_position": "center-center",
         "title": "Shop the look",
         "section_bg": "#fafafa",
-        "dot_color": "#FFFFFF"
+        "dot_color": "#ffffff"
       }
     }
   },

@@ -364,7 +364,7 @@
         "overlay_color": "#000000",
         "title": "KUNST",
         "description": "",
-        "flex_align": "align--top-right",
+        "flex_align": "align--middle-center",
         "text_color": "text-light",
         "transparent": true,
         "link_text": "Jetzt entdecken",

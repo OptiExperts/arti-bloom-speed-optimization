@@ -117,10 +117,11 @@
       "type": "section-hero",
       "settings": {
         "image": "shopify:\/\/shop_images\/IMG_2102.jpg",
+        "mobile_image": "shopify:\/\/shop_images\/IMG_2102.jpg",
         "bg_position": "center-center",
-        "height": "screen-height-one-third",
+        "height": "screen-height-one-half",
         "overlay_opacity": 0,
-        "overlay_color": "#000",
+        "overlay_color": "#000000",
         "title": "Es sind die kleinen Dinge",
         "description": "die zählen.",
         "flex_align": "align--middle-center",

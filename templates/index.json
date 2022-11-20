@@ -500,6 +500,26 @@
       "settings": {
         "include_margins": false
       }
+    },
+    "8adb3f9a-bfa3-415f-a947-d3ca88a4d1dc": {
+      "type": "section-hero",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/IMG_2039.jpg",
+        "mobile_image": "shopify:\/\/shop_images\/IMG_2039.jpg",
+        "bg_position": "center-center",
+        "height": "screen-height-one-half",
+        "overlay_opacity": 0,
+        "overlay_color": "#000",
+        "title": "All I want for Christmas",
+        "description": "is YOU",
+        "flex_align": "align--middle-center",
+        "text_color": "text-light",
+        "transparent": true,
+        "link_text": "Herzgeschenke hier",
+        "link": "shopify:\/\/collections\/wohnaccessoires",
+        "button_color": "btn--white",
+        "button_style": "hero__btn btn btn--large btn--outline caps"
+      }
     }
   },
   "order": [
@@ -515,6 +535,7 @@
     "c8a1b3f8-45e0-4ed0-a5b0-c7ed0dbf6397",
     "16664203749adb5561",
     "166076845484879d57",
-    "1665172311a35fcb8a"
+    "1665172311a35fcb8a",
+    "8adb3f9a-bfa3-415f-a947-d3ca88a4d1dc"
   ]
 }

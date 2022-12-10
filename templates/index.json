@@ -54,65 +54,6 @@
         "bg_color": "#ffa384"
       }
     },
-    "705a0fcc-93ab-431d-b080-6b9a7c36d2ec": {
-      "type": "section-look",
-      "blocks": {
-        "template--16179445268748__705a0fcc-93ab-431d-b080-6b9a7c36d2ec-1665173334dd665dff-0": {
-          "type": "product",
-          "settings": {
-            "product": "vase-kleo-rouge-dekor-wohnaccessoires-artibloom",
-            "position_x": 59,
-            "position_y": 63
-          }
-        },
-        "template--16179445268748__705a0fcc-93ab-431d-b080-6b9a7c36d2ec-1665173334dd665dff-1": {
-          "type": "product",
-          "settings": {
-            "product": "vase-fea-cotton-weiss-deko-uform-homedecor-artibloom",
-            "position_x": 9,
-            "position_y": 50
-          }
-        },
-        "cec27335-718e-40ff-9949-4af15454f18e": {
-          "type": "product",
-          "settings": {
-            "product": "vase-pilu",
-            "position_x": 80,
-            "position_y": 59
-          }
-        },
-        "36e01a79-db6d-419c-bed6-e5492cde7dc7": {
-          "type": "product",
-          "settings": {
-            "product": "deko-schale-sparkle-cotton-gold",
-            "position_x": 45,
-            "position_y": 85
-          }
-        },
-        "0aa7ce2e-e61b-4265-bd6c-88e57ffb5494": {
-          "type": "product",
-          "settings": {
-            "product": "vase-sola-vanilla",
-            "position_x": 30,
-            "position_y": 30
-          }
-        }
-      },
-      "block_order": [
-        "template--16179445268748__705a0fcc-93ab-431d-b080-6b9a7c36d2ec-1665173334dd665dff-0",
-        "template--16179445268748__705a0fcc-93ab-431d-b080-6b9a7c36d2ec-1665173334dd665dff-1",
-        "cec27335-718e-40ff-9949-4af15454f18e",
-        "36e01a79-db6d-419c-bed6-e5492cde7dc7",
-        "0aa7ce2e-e61b-4265-bd6c-88e57ffb5494"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/IMG_2350_jpg.jpg",
-        "bg_position": "center-center",
-        "title": "Shop the look",
-        "section_bg": "#fafafa",
-        "dot_color": "#ffffff"
-      }
-    },
     "166db9da-614b-4bad-8b35-621e2d326767": {
       "type": "section-split-hero",
       "disabled": true,
@@ -134,46 +75,6 @@
         "link": "shopify:\/\/collections\/wohnaccessoires",
         "button_color": "btn--primary",
         "button_style": "hero__btn btn btn--input caps"
-      }
-    },
-    "1664797618d6d16703": {
-      "type": "text-promo",
-      "blocks": {
-        "16647976185064e250-0": {
-          "type": "heading",
-          "settings": {
-            "title": "Handgemacht. Mit viel Liebe zum Detail."
-          }
-        },
-        "16647976185064e250-1": {
-          "type": "text",
-          "settings": {
-            "content": ""
-          }
-        },
-        "16647976185064e250-2": {
-          "type": "button",
-          "settings": {
-            "button_text": "zum gesamten Sortiment",
-            "button_url": "shopify:\/\/pages\/keramik",
-            "button_color": "btn--primary",
-            "button_style": "hero__btn btn btn--input caps"
-          }
-        }
-      },
-      "block_order": [
-        "16647976185064e250-0",
-        "16647976185064e250-1",
-        "16647976185064e250-2"
-      ],
-      "settings": {
-        "border": false,
-        "bg_color": "#ffa384",
-        "text_color": "text-light",
-        "width": "",
-        "bg_position": "center-center",
-        "overlay_opacity": 0,
-        "overlay_color": "#000000"
       }
     },
     "1664792203283870e0": {
@@ -272,6 +173,105 @@
         "link": "shopify:\/\/pages\/kunst",
         "button_color": "btn--white",
         "button_style": "hero__btn btn btn--input caps"
+      }
+    },
+    "1664797618d6d16703": {
+      "type": "text-promo",
+      "blocks": {
+        "16647976185064e250-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Handgemacht. Mit viel Liebe zum Detail."
+          }
+        },
+        "16647976185064e250-1": {
+          "type": "text",
+          "settings": {
+            "content": ""
+          }
+        },
+        "16647976185064e250-2": {
+          "type": "button",
+          "settings": {
+            "button_text": "zum gesamten Sortiment",
+            "button_url": "shopify:\/\/pages\/keramik",
+            "button_color": "btn--primary",
+            "button_style": "hero__btn btn btn--input caps"
+          }
+        }
+      },
+      "block_order": [
+        "16647976185064e250-0",
+        "16647976185064e250-1",
+        "16647976185064e250-2"
+      ],
+      "settings": {
+        "border": false,
+        "bg_color": "#ffa384",
+        "text_color": "text-light",
+        "width": "",
+        "bg_position": "center-center",
+        "overlay_opacity": 0,
+        "overlay_color": "#000000"
+      }
+    },
+    "705a0fcc-93ab-431d-b080-6b9a7c36d2ec": {
+      "type": "section-look",
+      "blocks": {
+        "template--16179445268748__705a0fcc-93ab-431d-b080-6b9a7c36d2ec-1665173334dd665dff-0": {
+          "type": "product",
+          "settings": {
+            "product": "vase-kleo-rouge-dekor-wohnaccessoires-artibloom",
+            "position_x": 59,
+            "position_y": 63
+          }
+        },
+        "template--16179445268748__705a0fcc-93ab-431d-b080-6b9a7c36d2ec-1665173334dd665dff-1": {
+          "type": "product",
+          "settings": {
+            "product": "vase-fea-cotton-weiss-deko-uform-homedecor-artibloom",
+            "position_x": 9,
+            "position_y": 50
+          }
+        },
+        "cec27335-718e-40ff-9949-4af15454f18e": {
+          "type": "product",
+          "settings": {
+            "product": "vase-pilu",
+            "position_x": 80,
+            "position_y": 59
+          }
+        },
+        "36e01a79-db6d-419c-bed6-e5492cde7dc7": {
+          "type": "product",
+          "settings": {
+            "product": "deko-schale-sparkle-cotton-gold",
+            "position_x": 45,
+            "position_y": 85
+          }
+        },
+        "0aa7ce2e-e61b-4265-bd6c-88e57ffb5494": {
+          "type": "product",
+          "settings": {
+            "product": "vase-sola-vanilla",
+            "position_x": 30,
+            "position_y": 30
+          }
+        }
+      },
+      "block_order": [
+        "template--16179445268748__705a0fcc-93ab-431d-b080-6b9a7c36d2ec-1665173334dd665dff-0",
+        "template--16179445268748__705a0fcc-93ab-431d-b080-6b9a7c36d2ec-1665173334dd665dff-1",
+        "cec27335-718e-40ff-9949-4af15454f18e",
+        "36e01a79-db6d-419c-bed6-e5492cde7dc7",
+        "0aa7ce2e-e61b-4265-bd6c-88e57ffb5494"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/IMG_2350_jpg.jpg",
+        "bg_position": "center-center",
+        "title": "Shop the look",
+        "section_bg": "#fafafa",
+        "dot_color": "#ffffff"
       }
     },
     "c8a1b3f8-45e0-4ed0-a5b0-c7ed0dbf6397": {
@@ -426,11 +426,11 @@
   "order": [
     "166276758655edee4f",
     "166310832276a8ec0e",
-    "705a0fcc-93ab-431d-b080-6b9a7c36d2ec",
     "166db9da-614b-4bad-8b35-621e2d326767",
-    "1664797618d6d16703",
     "1664792203283870e0",
     "16596338637d51486d",
+    "1664797618d6d16703",
+    "705a0fcc-93ab-431d-b080-6b9a7c36d2ec",
     "c8a1b3f8-45e0-4ed0-a5b0-c7ed0dbf6397",
     "16664203749adb5561",
     "166076845484879d57",

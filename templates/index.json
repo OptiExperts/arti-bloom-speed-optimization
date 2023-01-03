@@ -155,26 +155,6 @@
         "enable_slider": false
       }
     },
-    "16596338637d51486d": {
-      "type": "section-hero",
-      "settings": {
-        "image": "shopify:\/\/shop_images\/IMG_8120.jpg",
-        "mobile_image": "shopify:\/\/shop_images\/IMG_8120.jpg",
-        "bg_position": "center-center",
-        "height": "screen-height-two-thirds",
-        "overlay_opacity": 0,
-        "overlay_color": "#000000",
-        "title": "KUNST",
-        "description": "",
-        "flex_align": "align--middle-center",
-        "text_color": "text-light",
-        "transparent": true,
-        "link_text": "Jetzt entdecken",
-        "link": "shopify:\/\/pages\/kunst",
-        "button_color": "btn--white",
-        "button_style": "hero__btn btn btn--input caps"
-      }
-    },
     "1664797618d6d16703": {
       "type": "text-promo",
       "blocks": {
@@ -213,6 +193,26 @@
         "bg_position": "center-center",
         "overlay_opacity": 0,
         "overlay_color": "#000000"
+      }
+    },
+    "16596338637d51486d": {
+      "type": "section-hero",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/IMG_8120.jpg",
+        "mobile_image": "shopify:\/\/shop_images\/IMG_8120.jpg",
+        "bg_position": "center-center",
+        "height": "screen-height-two-thirds",
+        "overlay_opacity": 0,
+        "overlay_color": "#000000",
+        "title": "KUNST",
+        "description": "",
+        "flex_align": "align--middle-center",
+        "text_color": "text-light",
+        "transparent": true,
+        "link_text": "Jetzt entdecken",
+        "link": "shopify:\/\/pages\/kunst",
+        "button_color": "btn--white",
+        "button_style": "hero__btn btn btn--input caps"
       }
     },
     "c8a1b3f8-45e0-4ed0-a5b0-c7ed0dbf6397": {
@@ -375,8 +375,8 @@
     "166310832276a8ec0e",
     "166db9da-614b-4bad-8b35-621e2d326767",
     "1664792203283870e0",
-    "16596338637d51486d",
     "1664797618d6d16703",
+    "16596338637d51486d",
     "c8a1b3f8-45e0-4ed0-a5b0-c7ed0dbf6397",
     "1671439456a7175f2a",
     "166076845484879d57",

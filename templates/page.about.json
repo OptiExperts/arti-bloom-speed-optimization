@@ -21,6 +21,7 @@
     },
     "1659910112c5d65e7e": {
       "type": "section-custom-content",
+      "disabled": true,
       "blocks": {
         "165991011212e76d8b-0": {
           "type": "image",
@@ -86,6 +87,7 @@
     },
     "1659907378c0405772": {
       "type": "section-rich-text",
+      "disabled": true,
       "settings": {
         "subheading": "",
         "title": "",

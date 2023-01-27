@@ -85,11 +85,28 @@
         "button_color": "btn--white",
         "button_style": "hero__btn btn btn--large btn--outline caps"
       }
+    },
+    "7aad0a85-0ada-40e5-b7db-5228e3a248bb": {
+      "type": "section-collection",
+      "settings": {
+        "heading": "",
+        "description": "",
+        "text_alignment": "center",
+        "link_text": "",
+        "link_url": "",
+        "button_color": "btn--black",
+        "button_style": "hero__btn btn btn--input btn--outline caps",
+        "featured_collection": "deko-artibloom",
+        "grid": 4,
+        "rows": 3,
+        "layout_mobile": "carousel"
+      }
     }
   },
   "order": [
     "main",
     "1659865114acde6760",
-    "165986487165635b82"
+    "165986487165635b82",
+    "7aad0a85-0ada-40e5-b7db-5228e3a248bb"
   ]
 }

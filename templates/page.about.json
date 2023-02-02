@@ -4,19 +4,19 @@
       "type": "section-rich-text",
       "settings": {
         "subheading": "",
-        "title": "",
-        "text": "<p>Artibloom verwandelt dein Zuhause in eine mediterrane Wohlfühloase. <\/p><p>Dabei vereinen wir natürliche Materialien und die Handwerkskunst.<\/p><p><\/p><p>Durch unsere mediterrane Keramik, Deko und abstrakte Kunst erhellst du deine eigenen vier Wände. <\/p><p><\/p><p>Und bringst Helligkeit, Inspiration und Wärme in dein Zuhause.<\/p>",
-        "text_size": 2,
+        "title": "Artibloom verwandelt dein Zuhause in eine helle Wohlfühloase.",
+        "text": "<p>Mediterrane Keramik, Dekoartikel und abstrakte Kunst sorgen für Helligkeit in allen Räumen.<\/p><p>Natürliche Materialien werden bei Artibloom mit detaillierter Handwerkskunst vereint.<\/p><p>Und bringen ein warmes Urlaubsgefühl, Inspiration und gute Vibes in dein Zuhause.<\/p>",
+        "text_size": 3,
         "text_columns": 1,
-        "align_text": "text-left",
+        "align_text": "text-center",
         "button_text": "",
         "button_url": "",
         "button_color": "btn--neutral",
         "button_style": "caps--large",
         "height": "margin--small",
-        "width": "wrapper",
-        "text_color": "text-dark",
-        "bg_color": "#fff3cf"
+        "width": "wrapper--narrow",
+        "text_color": "text-light",
+        "bg_color": "#ffa384"
       }
     },
     "1659910112c5d65e7e": {

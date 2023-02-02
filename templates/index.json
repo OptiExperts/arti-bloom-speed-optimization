@@ -11,15 +11,15 @@
             "mobile_image": "shopify:\/\/shop_images\/waves-crash-under-morning-sun.jpg",
             "overlay_opacity": 0,
             "overlay_color": "#ffffb0",
-            "title": "SONNE FÜR DICH UND DEIN ZUHAUSE",
+            "title": "Verwandel dein Zuhause in eine helle Wohlfühloase",
             "description": "",
-            "flex_align": "align--middle-center",
+            "flex_align": "align--top-center",
             "text_color": "text-light",
             "transparent": true,
             "link_text": "",
             "link": "",
             "button_color": "btn--white",
-            "button_style": "hero__btn btn btn--input caps"
+            "button_style": "hero__btn btn btn--large caps"
           }
         }
       },

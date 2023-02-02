@@ -161,11 +161,11 @@
       "settings": {
         "subheading": "",
         "title": "",
-        "text": "<p>Gerne bei Fragen, Anfragen, oder einem kurzen \"Olá\" einfach direkt melden.<\/p>",
+        "text": "<p>Gerne bei Fragen, Anfragen, oder einem kurzen \"Olá\" direkt melden.<\/p>",
         "text_size": 2,
         "text_columns": 1,
         "align_text": "text-left",
-        "button_text": "Hier klicken",
+        "button_text": "Klicke hier",
         "button_url": "shopify:\/\/pages\/contact",
         "button_color": "btn--primary",
         "button_style": "hero__btn btn btn--input btn--outline caps",

@@ -63,6 +63,7 @@
       "blocks": {
         "template--16179445268748__53cf8bde-d1c6-48a0-8bc1-05c0f0e24779-16763763563b4d846d-0": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "title": "Frequently asked question",
             "text": "<p>Use this to answer some common questions you hear from your customers. You could discuss product details, size fit, shipping policies, or anything you think would help merchants make an informed decision about your products. This section will appear across all products.<\/p>"
@@ -70,6 +71,7 @@
         },
         "template--16179445268748__53cf8bde-d1c6-48a0-8bc1-05c0f0e24779-16763763563b4d846d-1": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "title": "Frequently asked question",
             "text": "<p>Use this to answer some common questions you hear from your customers. You could discuss product details, size fit, shipping policies, or anything you think would help merchants make an informed decision about your products. This section will appear across all products.<\/p>"
@@ -77,6 +79,7 @@
         },
         "template--16179445268748__53cf8bde-d1c6-48a0-8bc1-05c0f0e24779-16763763563b4d846d-2": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "title": "Frequently asked question",
             "text": "<p>Use this to answer some common questions you hear from your customers. You could discuss product details, size fit, shipping policies, or anything you think would help merchants make an informed decision about your products. This section will appear across all products.<\/p>"
@@ -84,6 +87,7 @@
         },
         "template--16179445268748__53cf8bde-d1c6-48a0-8bc1-05c0f0e24779-16763763563b4d846d-3": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "title": "Frequently asked question",
             "text": "<p>Use this to answer some common questions you hear from your customers. You could discuss product details, size fit, shipping policies, or anything you think would help merchants make an informed decision about your products. This section will appear across all products.<\/p>"
@@ -180,6 +184,7 @@
     },
     "166310832276a8ec0e": {
       "type": "section-rich-text",
+      "disabled": true,
       "settings": {
         "subheading": "",
         "title": "",
@@ -410,6 +415,52 @@
       "settings": {
         "include_margins": false
       }
+    },
+    "20e3dc42-c347-4d36-beeb-a68a33b3039d": {
+      "type": "section-text-row",
+      "blocks": {
+        "template--16179445268748__20e3dc42-c347-4d36-beeb-a68a33b3039d-16763764707b900096-0": {
+          "type": "text-item",
+          "settings": {
+            "icon_name": "icon-leaf",
+            "icon_color": "#ffa384",
+            "title": "NACHHALTIG",
+            "text": "Natürliche Materialien, Verpackungen und kurze Versandwege innerhalb Europas"
+          }
+        },
+        "template--16179445268748__20e3dc42-c347-4d36-beeb-a68a33b3039d-16763764707b900096-1": {
+          "type": "text-item",
+          "settings": {
+            "icon_name": "icon-basket-like",
+            "icon_color": "#545454",
+            "title": "Simple checkout",
+            "text": "Our secure checkout is quick and easy to use."
+          }
+        },
+        "template--16179445268748__20e3dc42-c347-4d36-beeb-a68a33b3039d-16763764707b900096-2": {
+          "type": "text-item",
+          "settings": {
+            "icon_name": "icon-chat",
+            "icon_color": "#545454",
+            "title": "Get in touch",
+            "text": "Have questions? Get in touch with us at any time."
+          }
+        }
+      },
+      "block_order": [
+        "template--16179445268748__20e3dc42-c347-4d36-beeb-a68a33b3039d-16763764707b900096-0",
+        "template--16179445268748__20e3dc42-c347-4d36-beeb-a68a33b3039d-16763764707b900096-1",
+        "template--16179445268748__20e3dc42-c347-4d36-beeb-a68a33b3039d-16763764707b900096-2"
+      ],
+      "settings": {
+        "text_alignment": "left",
+        "icon_size": 20,
+        "icon_alignment": "icon--top",
+        "text_color": "text-dark",
+        "heading_size": "h6",
+        "height": "margin--medium",
+        "bg_color": "#fafafa"
+      }
     }
   },
   "order": [
@@ -424,6 +475,7 @@
     "1671439456a7175f2a",
     "166076845484879d57",
     "1665172311a35fcb8a",
-    "167143942936a923d6"
+    "167143942936a923d6",
+    "20e3dc42-c347-4d36-beeb-a68a33b3039d"
   ]
 }

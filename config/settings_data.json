@@ -154,9 +154,9 @@
             "type": "newsletter",
             "disabled": true,
             "settings": {
-              "heading": "<p>Bekomme <strong>10% Rabatt <\/strong>auf deine erste Bestellung und erfahre als Erste*r von neuen Kollektionen und Produkten!<\/p>",
-              "success": "<p><strong>WICHTIG:<\/strong> Im Anschluss erhältst du eine E-Mail (Bitte schaue auch unbedingt im SPAM nach) mit einem Link, um deine Anmeldung zum Newsletter zu bestätigen. <\/p>",
-              "bg_color": "#b79352",
+              "heading": "<p>Erhalte 10% Rabatt für deine Anmeldung zum Newsletter. Erfahre entspannt von neuen handgemachten Produkten, Kollektionen und Specials.<\/p>",
+              "success": "<p>Sonnige News: Deine Anmeldung war erfolgreich :) Dein Code lautet \"Artibloom10\" für 10% Rabatt auf deinen nächsten Einkauf. Melde dich gerne wenn du Fragen hast oder Empfehlungen benötigst, Lara von Artibloom<\/p>",
+              "bg_color": "#ffa384",
               "text": "#ffffff",
               "position": "newsletter--top-right",
               "trigger": "always",

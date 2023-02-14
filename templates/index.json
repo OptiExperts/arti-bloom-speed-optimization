@@ -416,7 +416,7 @@
       ],
       "settings": {
         "height": "screen-height-one-half",
-        "padding": false,
+        "padding": true,
         "borders": false,
         "wrapper": false
       }

@@ -35,71 +35,8 @@
         "autoplay_speed": 8
       }
     },
-    "166db9da-614b-4bad-8b35-621e2d326767": {
-      "type": "section-split-hero",
-      "disabled": true,
-      "settings": {
-        "image_height": "screen-height-one-half",
-        "mobile_layout": "image-left",
-        "image_desktop_left": "shopify:\/\/shop_images\/IMG_2102.jpg",
-        "bg_position_left": "center-center",
-        "image_desktop_right": "shopify:\/\/shop_images\/IMG_2260_jpg_2.jpg",
-        "bg_position_right": "center-bottom",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0,
-        "title": "Es sind die kleinen Dinge",
-        "description": "die zählen.",
-        "flex_align": "align--middle-center",
-        "text_color": "text-light",
-        "transparent": true,
-        "link_text": "Hier gehts zu den wohnaccessoires",
-        "link": "shopify:\/\/collections\/deko-artibloom",
-        "button_color": "btn--primary",
-        "button_style": "hero__btn btn btn--input caps"
-      }
-    },
     "53cf8bde-d1c6-48a0-8bc1-05c0f0e24779": {
       "type": "section-accordion",
-      "blocks": {
-        "template--16179445268748__53cf8bde-d1c6-48a0-8bc1-05c0f0e24779-16763763563b4d846d-0": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "title": "Frequently asked question",
-            "text": "<p>Use this to answer some common questions you hear from your customers. You could discuss product details, size fit, shipping policies, or anything you think would help merchants make an informed decision about your products. This section will appear across all products.<\/p>"
-          }
-        },
-        "template--16179445268748__53cf8bde-d1c6-48a0-8bc1-05c0f0e24779-16763763563b4d846d-1": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "title": "Frequently asked question",
-            "text": "<p>Use this to answer some common questions you hear from your customers. You could discuss product details, size fit, shipping policies, or anything you think would help merchants make an informed decision about your products. This section will appear across all products.<\/p>"
-          }
-        },
-        "template--16179445268748__53cf8bde-d1c6-48a0-8bc1-05c0f0e24779-16763763563b4d846d-2": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "title": "Frequently asked question",
-            "text": "<p>Use this to answer some common questions you hear from your customers. You could discuss product details, size fit, shipping policies, or anything you think would help merchants make an informed decision about your products. This section will appear across all products.<\/p>"
-          }
-        },
-        "template--16179445268748__53cf8bde-d1c6-48a0-8bc1-05c0f0e24779-16763763563b4d846d-3": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "title": "Frequently asked question",
-            "text": "<p>Use this to answer some common questions you hear from your customers. You could discuss product details, size fit, shipping policies, or anything you think would help merchants make an informed decision about your products. This section will appear across all products.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "template--16179445268748__53cf8bde-d1c6-48a0-8bc1-05c0f0e24779-16763763563b4d846d-0",
-        "template--16179445268748__53cf8bde-d1c6-48a0-8bc1-05c0f0e24779-16763763563b4d846d-1",
-        "template--16179445268748__53cf8bde-d1c6-48a0-8bc1-05c0f0e24779-16763763563b4d846d-2",
-        "template--16179445268748__53cf8bde-d1c6-48a0-8bc1-05c0f0e24779-16763763563b4d846d-3"
-      ],
       "settings": {
         "title": ""
       }
@@ -228,67 +165,6 @@
         "bg_color": "#ffa384"
       }
     },
-    "166310832276a8ec0e": {
-      "type": "section-rich-text",
-      "disabled": true,
-      "settings": {
-        "subheading": "",
-        "title": "",
-        "text": "<p>Du kommst nach Hause. Licht scheint in die Räume. Warme Farben umgeben dich. Natürliche Unikate verschönern jeden Raum. Alles ist hell, einladend und inspirierend. In deiner persönlichen Wohlfühloase.<\/p>",
-        "text_size": 4,
-        "text_columns": 1,
-        "align_text": "text-center",
-        "button_text": "",
-        "button_url": "",
-        "button_color": "btn--white",
-        "button_style": "caps--large",
-        "height": "margin--small",
-        "width": "wrapper",
-        "text_color": "text-light",
-        "bg_color": "#ffa384"
-      }
-    },
-    "1664797618d6d16703": {
-      "type": "text-promo",
-      "disabled": true,
-      "blocks": {
-        "16647976185064e250-0": {
-          "type": "heading",
-          "settings": {
-            "title": "Handgemacht. Mit viel Liebe zum Detail."
-          }
-        },
-        "16647976185064e250-1": {
-          "type": "text",
-          "settings": {
-            "content": ""
-          }
-        },
-        "16647976185064e250-2": {
-          "type": "button",
-          "settings": {
-            "button_text": "zum gesamten Sortiment",
-            "button_url": "shopify:\/\/pages\/keramik",
-            "button_color": "btn--primary",
-            "button_style": "hero__btn btn btn--input caps"
-          }
-        }
-      },
-      "block_order": [
-        "16647976185064e250-0",
-        "16647976185064e250-1",
-        "16647976185064e250-2"
-      ],
-      "settings": {
-        "border": false,
-        "bg_color": "#ffa384",
-        "text_color": "text-light",
-        "width": "",
-        "bg_position": "center-center",
-        "overlay_opacity": 0,
-        "overlay_color": "#000000"
-      }
-    },
     "16596338637d51486d": {
       "type": "section-hero",
       "settings": {
@@ -307,68 +183,6 @@
         "link": "shopify:\/\/pages\/kunst",
         "button_color": "btn--white",
         "button_style": "hero__btn btn btn--input caps"
-      }
-    },
-    "c8a1b3f8-45e0-4ed0-a5b0-c7ed0dbf6397": {
-      "type": "section-tab-collections",
-      "disabled": true,
-      "blocks": {
-        "template--16179445268748__c8a1b3f8-45e0-4ed0-a5b0-c7ed0dbf6397-166517245271c25867-0": {
-          "type": "collection",
-          "settings": {
-            "title": "Teller",
-            "featured_collection": "teller-keramik-artibloom",
-            "show_image": false,
-            "overlay_opacity": 0,
-            "overlay_color": "#000000",
-            "description": "",
-            "text_color": "text-light",
-            "link_text": "View products",
-            "link": "shopify:\/\/pages\/teller",
-            "button_color": "btn--white",
-            "button_style": "hero__btn btn btn--large btn--outline caps"
-          }
-        },
-        "template--16179445268748__c8a1b3f8-45e0-4ed0-a5b0-c7ed0dbf6397-166517245271c25867-1": {
-          "type": "collection",
-          "settings": {
-            "title": "Wohnaccessoires",
-            "featured_collection": "deko-artibloom",
-            "show_image": false,
-            "overlay_opacity": 0,
-            "overlay_color": "#000000",
-            "description": "",
-            "text_color": "text-light",
-            "link_text": "View products",
-            "link": "shopify:\/\/pages\/servierschalen-klein-mittel",
-            "button_color": "btn--white",
-            "button_style": "hero__btn btn btn--large btn--outline caps"
-          }
-        },
-        "d4c90dc5-fba9-49cb-8087-f866cea1d38a": {
-          "type": "collection",
-          "settings": {
-            "title": "Große Schalen",
-            "featured_collection": "deko-artibloom",
-            "show_image": false,
-            "overlay_opacity": 0,
-            "overlay_color": "#000000",
-            "description": "",
-            "text_color": "text-light",
-            "link_text": "View products",
-            "link": "shopify:\/\/pages\/tassen",
-            "button_color": "btn--white",
-            "button_style": "hero__btn btn btn--large btn--outline caps"
-          }
-        }
-      },
-      "block_order": [
-        "template--16179445268748__c8a1b3f8-45e0-4ed0-a5b0-c7ed0dbf6397-166517245271c25867-0",
-        "template--16179445268748__c8a1b3f8-45e0-4ed0-a5b0-c7ed0dbf6397-166517245271c25867-1",
-        "d4c90dc5-fba9-49cb-8087-f866cea1d38a"
-      ],
-      "settings": {
-        "title": ""
       }
     },
     "166076845484879d57": {
@@ -460,14 +274,10 @@
   },
   "order": [
     "166276758655edee4f",
-    "166db9da-614b-4bad-8b35-621e2d326767",
     "53cf8bde-d1c6-48a0-8bc1-05c0f0e24779",
     "1664792203283870e0",
     "20e3dc42-c347-4d36-beeb-a68a33b3039d",
-    "166310832276a8ec0e",
-    "1664797618d6d16703",
     "16596338637d51486d",
-    "c8a1b3f8-45e0-4ed0-a5b0-c7ed0dbf6397",
     "166076845484879d57",
     "1665172311a35fcb8a",
     "1671439456a7175f2a"

@@ -395,17 +395,17 @@
         "16607684540cf00b1f-1": {
           "type": "text",
           "settings": {
-            "subheading": "Gründerin Lara",
+            "subheading": "",
             "title": "Hinter den Kulissen von Artibloom",
             "text": "",
-            "text_size": 3,
+            "text_size": 2,
             "text_columns": 1,
-            "align_text": "text-left",
+            "align_text": "text-center",
             "text_color": "text-light",
             "bg_color": "#ffa384",
             "button_text": "Mehr erfahren",
             "button_url": "shopify:\/\/pages\/about",
-            "button_color": "btn--white",
+            "button_color": "btn--primary",
             "button_style": "hero__btn btn btn--input caps"
           }
         }

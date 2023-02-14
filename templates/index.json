@@ -462,6 +462,14 @@
       "settings": {
         "include_margins": false
       }
+    },
+    "5e651649-c43b-45bc-87a5-024c880fc620": {
+      "type": "instafeed",
+      "settings": {
+        "heading_size": 20,
+        "feed_width": 100,
+        "html_area": ""
+      }
     }
   },
   "order": [
@@ -477,6 +485,7 @@
     "166076845484879d57",
     "1671439456a7175f2a",
     "1665172311a35fcb8a",
-    "167143942936a923d6"
+    "167143942936a923d6",
+    "5e651649-c43b-45bc-87a5-024c880fc620"
   ]
 }

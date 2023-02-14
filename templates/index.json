@@ -58,6 +58,48 @@
         "button_style": "hero__btn btn btn--input caps"
       }
     },
+    "53cf8bde-d1c6-48a0-8bc1-05c0f0e24779": {
+      "type": "section-accordion",
+      "blocks": {
+        "template--16179445268748__53cf8bde-d1c6-48a0-8bc1-05c0f0e24779-16763763563b4d846d-0": {
+          "type": "text",
+          "settings": {
+            "title": "Frequently asked question",
+            "text": "<p>Use this to answer some common questions you hear from your customers. You could discuss product details, size fit, shipping policies, or anything you think would help merchants make an informed decision about your products. This section will appear across all products.<\/p>"
+          }
+        },
+        "template--16179445268748__53cf8bde-d1c6-48a0-8bc1-05c0f0e24779-16763763563b4d846d-1": {
+          "type": "text",
+          "settings": {
+            "title": "Frequently asked question",
+            "text": "<p>Use this to answer some common questions you hear from your customers. You could discuss product details, size fit, shipping policies, or anything you think would help merchants make an informed decision about your products. This section will appear across all products.<\/p>"
+          }
+        },
+        "template--16179445268748__53cf8bde-d1c6-48a0-8bc1-05c0f0e24779-16763763563b4d846d-2": {
+          "type": "text",
+          "settings": {
+            "title": "Frequently asked question",
+            "text": "<p>Use this to answer some common questions you hear from your customers. You could discuss product details, size fit, shipping policies, or anything you think would help merchants make an informed decision about your products. This section will appear across all products.<\/p>"
+          }
+        },
+        "template--16179445268748__53cf8bde-d1c6-48a0-8bc1-05c0f0e24779-16763763563b4d846d-3": {
+          "type": "text",
+          "settings": {
+            "title": "Frequently asked question",
+            "text": "<p>Use this to answer some common questions you hear from your customers. You could discuss product details, size fit, shipping policies, or anything you think would help merchants make an informed decision about your products. This section will appear across all products.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16179445268748__53cf8bde-d1c6-48a0-8bc1-05c0f0e24779-16763763563b4d846d-0",
+        "template--16179445268748__53cf8bde-d1c6-48a0-8bc1-05c0f0e24779-16763763563b4d846d-1",
+        "template--16179445268748__53cf8bde-d1c6-48a0-8bc1-05c0f0e24779-16763763563b4d846d-2",
+        "template--16179445268748__53cf8bde-d1c6-48a0-8bc1-05c0f0e24779-16763763563b4d846d-3"
+      ],
+      "settings": {
+        "title": ""
+      }
+    },
     "1664792203283870e0": {
       "type": "section-collections-list",
       "blocks": {
@@ -373,6 +415,7 @@
   "order": [
     "166276758655edee4f",
     "166db9da-614b-4bad-8b35-621e2d326767",
+    "53cf8bde-d1c6-48a0-8bc1-05c0f0e24779",
     "1664792203283870e0",
     "166310832276a8ec0e",
     "1664797618d6d16703",

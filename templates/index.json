@@ -431,10 +431,10 @@
         "template--16179445268748__20e3dc42-c347-4d36-beeb-a68a33b3039d-16763764707b900096-1": {
           "type": "text-item",
           "settings": {
-            "icon_name": "icon-basket-like",
-            "icon_color": "#545454",
-            "title": "Simple checkout",
-            "text": "Our secure checkout is quick and easy to use."
+            "icon_name": "icon-rating",
+            "icon_color": "#ffffb0",
+            "title": "Handgemacht",
+            "text": "Jedes Unikat ist mit viel Detailliebe von Hand gefertigt"
           }
         },
         "template--16179445268748__20e3dc42-c347-4d36-beeb-a68a33b3039d-16763764707b900096-2": {

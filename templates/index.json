@@ -440,10 +440,10 @@
         "template--16179445268748__20e3dc42-c347-4d36-beeb-a68a33b3039d-16763764707b900096-2": {
           "type": "text-item",
           "settings": {
-            "icon_name": "icon-chat",
-            "icon_color": "#545454",
-            "title": "Get in touch",
-            "text": "Have questions? Get in touch with us at any time."
+            "icon_name": "icon-water",
+            "icon_color": "#ffffb0",
+            "title": "Mediterran",
+            "text": "Mit mediterranem Touch"
           }
         }
       },

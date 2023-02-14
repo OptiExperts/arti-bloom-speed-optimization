@@ -35,25 +35,6 @@
         "autoplay_speed": 8
       }
     },
-    "166310832276a8ec0e": {
-      "type": "section-rich-text",
-      "settings": {
-        "subheading": "",
-        "title": "",
-        "text": "<p>Du kommst nach Hause. Licht scheint in die Räume. Warme Farben umgeben dich. Natürliche Unikate verschönern jeden Raum. Alles ist hell, einladend und inspirierend. In deiner persönlichen Wohlfühloase.<\/p>",
-        "text_size": 4,
-        "text_columns": 1,
-        "align_text": "text-center",
-        "button_text": "",
-        "button_url": "",
-        "button_color": "btn--white",
-        "button_style": "caps--large",
-        "height": "margin--small",
-        "width": "wrapper",
-        "text_color": "text-light",
-        "bg_color": "#ffa384"
-      }
-    },
     "166db9da-614b-4bad-8b35-621e2d326767": {
       "type": "section-split-hero",
       "disabled": true,
@@ -151,8 +132,27 @@
         "title": "",
         "description": "",
         "layout": "grid",
-        "aspect_ratio": 0.5,
+        "aspect_ratio": 0.7,
         "enable_slider": false
+      }
+    },
+    "166310832276a8ec0e": {
+      "type": "section-rich-text",
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "text": "<p>Du kommst nach Hause. Licht scheint in die Räume. Warme Farben umgeben dich. Natürliche Unikate verschönern jeden Raum. Alles ist hell, einladend und inspirierend. In deiner persönlichen Wohlfühloase.<\/p>",
+        "text_size": 4,
+        "text_columns": 1,
+        "align_text": "text-center",
+        "button_text": "",
+        "button_url": "",
+        "button_color": "btn--white",
+        "button_style": "caps--large",
+        "height": "margin--small",
+        "width": "wrapper",
+        "text_color": "text-light",
+        "bg_color": "#ffa384"
       }
     },
     "1664797618d6d16703": {
@@ -372,9 +372,9 @@
   },
   "order": [
     "166276758655edee4f",
-    "166310832276a8ec0e",
     "166db9da-614b-4bad-8b35-621e2d326767",
     "1664792203283870e0",
+    "166310832276a8ec0e",
     "1664797618d6d16703",
     "16596338637d51486d",
     "c8a1b3f8-45e0-4ed0-a5b0-c7ed0dbf6397",

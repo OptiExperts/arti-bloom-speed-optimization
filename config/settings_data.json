@@ -112,7 +112,7 @@
             "type": "linklist",
             "settings": {
               "linklist": "footer",
-              "title": "Allgemein"
+              "title": "Menü"
             }
           },
           "footer-1": {

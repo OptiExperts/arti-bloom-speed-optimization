@@ -125,7 +125,7 @@
           "footer-2": {
             "type": "newsletter",
             "settings": {
-              "richtext": "<p>Erhalte 10% Rabatt für deine erste Bestellung. Erfahre von neuen handgemachten Produkten, Kollektionen und Specials.<\/p>",
+              "richtext": "<p>Erhalte 10% Rabatt auf deine erste Bestellung. Erfahre von neuen handgemachten Produkten, Kollektionen und Specials.<\/p>",
               "enable_name": false
             }
           }

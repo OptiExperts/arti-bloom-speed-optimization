@@ -112,7 +112,7 @@
             "type": "linklist",
             "settings": {
               "linklist": "footer",
-              "title": "Allgemein"
+              "title": ""
             }
           },
           "footer-1": {
@@ -122,26 +122,26 @@
               "richtext": "<p>Be social. Folge Artibloom.<\/p>"
             }
           },
-          "footer-2": {
-            "type": "newsletter",
-            "settings": {
-              "richtext": "<p>Erhalte 10% Rabatt auf deine erste Bestellung. Erfahre von neuen handgemachten Produkten, Kollektionen und Specials.<\/p>",
-              "enable_name": false
-            }
-          },
           "8bb192e8-5316-4baa-bc24-fb849af343f2": {
             "type": "text",
             "settings": {
               "title": "Artibloom Versprechen",
               "text": "<p>Unsere handgemachten Pieces bringen dir mediterrane Vibes, Helligkeit und Urlaubsstimmung nach Hause.<\/p>"
             }
+          },
+          "footer-2": {
+            "type": "newsletter",
+            "settings": {
+              "richtext": "<p>Erhalte 10% Rabatt auf deine erste Bestellung. Erfahre von neuen handgemachten Produkten, Kollektionen und Specials.<\/p>",
+              "enable_name": false
+            }
           }
         },
         "block_order": [
           "footer-0",
           "footer-1",
-          "footer-2",
-          "8bb192e8-5316-4baa-bc24-fb849af343f2"
+          "8bb192e8-5316-4baa-bc24-fb849af343f2",
+          "footer-2"
         ],
         "settings": {
           "logo_image_width": 150,

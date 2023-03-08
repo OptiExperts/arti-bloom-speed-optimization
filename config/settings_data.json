@@ -98,6 +98,23 @@
       },
       "announcement": {
         "type": "announcement",
+        "blocks": {
+          "9ebeae19-bbad-4d54-8f9d-107faa2485e4": {
+            "type": "text",
+            "settings": {
+              "text": "<p>NEW IN: Kunstdrucke. FEMALE & MEDITERRANEAN INSPIRED<\/p>",
+              "target_url_enabled": false,
+              "target_url": "",
+              "target_referrer_enabled": false,
+              "target_referrer": "",
+              "target_device_enabled": false,
+              "target_device": "mobile"
+            }
+          }
+        },
+        "block_order": [
+          "9ebeae19-bbad-4d54-8f9d-107faa2485e4"
+        ],
         "settings": {
           "bg_color": "#ffffb0",
           "color": "#ffa384",

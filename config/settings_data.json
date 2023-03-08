@@ -102,7 +102,7 @@
           "9ebeae19-bbad-4d54-8f9d-107faa2485e4": {
             "type": "text",
             "settings": {
-              "text": "<p>NEW IN: KUNST - Gedruckte Illustrationen<\/p>",
+              "text": "<p>NEW IN: ART PRINTS<\/p>",
               "target_url_enabled": false,
               "target_url": "",
               "target_referrer_enabled": false,
@@ -119,7 +119,7 @@
           "bg_color": "#ffffb0",
           "color": "#ffa384",
           "layout": "marquee",
-          "speed": 11
+          "speed": 15
         }
       },
       "footer": {

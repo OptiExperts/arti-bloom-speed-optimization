@@ -270,6 +270,19 @@
       "settings": {
         "include_margins": false
       }
+    },
+    "2404229f-df08-4293-bed5-fd7aed057cfd": {
+      "type": "section-collection-carousel",
+      "settings": {
+        "heading": "NEW IN: Kunstdrucke",
+        "description": "",
+        "text_alignment": "center",
+        "link_text": "Shop All",
+        "link_url": "shopify:\/\/pages\/kunst",
+        "button_color": "btn--primary",
+        "button_style": "hero__btn btn btn--large caps",
+        "featured_collection": "kunstdrucke-artibloom"
+      }
     }
   },
   "order": [
@@ -280,6 +293,7 @@
     "16596338637d51486d",
     "166076845484879d57",
     "1665172311a35fcb8a",
-    "1671439456a7175f2a"
+    "1671439456a7175f2a",
+    "2404229f-df08-4293-bed5-fd7aed057cfd"
   ]
 }

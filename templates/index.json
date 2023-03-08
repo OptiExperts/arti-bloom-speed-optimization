@@ -127,7 +127,7 @@
       "settings": {
         "title": "",
         "description": "",
-        "layout": "slider",
+        "layout": "grid",
         "aspect_ratio": 0.7,
         "enable_slider": true
       }

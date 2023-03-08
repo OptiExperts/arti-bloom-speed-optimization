@@ -275,9 +275,9 @@
       "type": "section-collection-carousel",
       "settings": {
         "heading": "NEW IN: Kunstdrucke",
-        "description": "",
+        "description": "<p>WE CELEBRATE WOMEN.<\/p><p>WE CELEBRATE MEDITERRANEAN LIVING.<\/p>",
         "text_alignment": "center",
-        "link_text": "Shop All",
+        "link_text": "JETZT ENTDECKEN",
         "link_url": "shopify:\/\/pages\/kunst",
         "button_color": "btn--primary",
         "button_style": "hero__btn btn btn--large caps",

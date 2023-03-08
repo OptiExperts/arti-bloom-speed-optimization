@@ -41,6 +41,19 @@
         "title": ""
       }
     },
+    "2404229f-df08-4293-bed5-fd7aed057cfd": {
+      "type": "section-collection-carousel",
+      "settings": {
+        "heading": "NEW IN: ART PRINTS",
+        "description": "<p><em>WE CELEBRATE WOMEN.<\/em><\/p><p><em>WE CELEBRATE MEDITERRANEAN LIVING.<\/em><\/p>",
+        "text_alignment": "left",
+        "link_text": "JETZT ENTDECKEN",
+        "link_url": "shopify:\/\/pages\/kunst",
+        "button_color": "btn--primary",
+        "button_style": "hero__btn btn btn--large caps",
+        "featured_collection": "kunstdrucke-artibloom"
+      }
+    },
     "1664792203283870e0": {
       "type": "section-collections-list",
       "blocks": {
@@ -171,7 +184,7 @@
         "image": "shopify:\/\/shop_images\/IMG_8120.jpg",
         "mobile_image": "shopify:\/\/shop_images\/IMG_8120.jpg",
         "bg_position": "center-center",
-        "height": "screen-height-two-thirds",
+        "height": "screen-height-one-half",
         "overlay_opacity": 0,
         "overlay_color": "#000000",
         "title": "KUNST",
@@ -270,30 +283,17 @@
       "settings": {
         "include_margins": false
       }
-    },
-    "2404229f-df08-4293-bed5-fd7aed057cfd": {
-      "type": "section-collection-carousel",
-      "settings": {
-        "heading": "NEW IN: ART PRINTS",
-        "description": "<p><em>WE CELEBRATE WOMEN.<\/em><\/p><p><em>WE CELEBRATE MEDITERRANEAN LIVING.<\/em><\/p>",
-        "text_alignment": "left",
-        "link_text": "JETZT ENTDECKEN",
-        "link_url": "shopify:\/\/pages\/kunst",
-        "button_color": "btn--primary",
-        "button_style": "hero__btn btn btn--large caps",
-        "featured_collection": "kunstdrucke-artibloom"
-      }
     }
   },
   "order": [
     "166276758655edee4f",
     "53cf8bde-d1c6-48a0-8bc1-05c0f0e24779",
+    "2404229f-df08-4293-bed5-fd7aed057cfd",
     "1664792203283870e0",
     "20e3dc42-c347-4d36-beeb-a68a33b3039d",
     "16596338637d51486d",
     "166076845484879d57",
     "1665172311a35fcb8a",
-    "1671439456a7175f2a",
-    "2404229f-df08-4293-bed5-fd7aed057cfd"
+    "1671439456a7175f2a"
   ]
 }

@@ -46,8 +46,8 @@
       "settings": {
         "heading": "NEW IN: ART PRINTS",
         "description": "<p><em>WE CELEBRATE WOMEN.<\/em><\/p><p><em>WE CELEBRATE MEDITERRANEAN LIVING.<\/em><\/p>",
-        "text_alignment": "left",
-        "link_text": "MEHR ENTDECKEN",
+        "text_alignment": "center",
+        "link_text": "ALLE ENTDECKEN",
         "link_url": "shopify:\/\/pages\/kunst",
         "button_color": "btn--primary",
         "button_style": "hero__btn btn btn--large caps",

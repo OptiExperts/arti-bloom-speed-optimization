@@ -128,8 +128,8 @@
         "title": "",
         "description": "",
         "layout": "grid",
-        "aspect_ratio": 0.7,
-        "enable_slider": true
+        "aspect_ratio": 0.5,
+        "enable_slider": false
       }
     },
     "20e3dc42-c347-4d36-beeb-a68a33b3039d": {

@@ -101,6 +101,7 @@
         "blocks": {
           "9ebeae19-bbad-4d54-8f9d-107faa2485e4": {
             "type": "text",
+            "disabled": true,
             "settings": {
               "text": "<p>Verwandel dein Zuhause in eine sonnige Wohlfühloase.<\/p>",
               "target_url_enabled": false,

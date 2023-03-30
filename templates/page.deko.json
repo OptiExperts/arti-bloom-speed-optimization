@@ -13,7 +13,7 @@
         "featured_collection": "deko-artibloom",
         "grid": 4,
         "rows": 3,
-        "layout_mobile": "carousel"
+        "layout_mobile": "2"
       }
     },
     "main": {

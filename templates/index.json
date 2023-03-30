@@ -44,18 +44,18 @@
     "1664792203283870e0": {
       "type": "section-collections-list",
       "blocks": {
-        "16647922033dcf531c-0": {
+        "0ed506cb-4494-4daa-8919-d2012968a652": {
           "type": "collection",
           "settings": {
-            "collection": "teller-keramik-artibloom",
+            "collection": "deko-artibloom",
             "title": ""
           }
         },
-        "16647922033dcf531c-1": {
+        "3a7fb76d-80dc-45cf-ab6b-3c6252e0dd9a": {
           "type": "collection",
           "settings": {
-            "collection": "servierschalen-keramik-artibloom",
-            "title": "Bowls"
+            "collection": "vasen-keramik-artibloom",
+            "title": ""
           }
         },
         "133a0170-c918-4f21-922e-dc1382001a3a": {
@@ -72,6 +72,20 @@
             "title": "Servierplatten"
           }
         },
+        "16647922033dcf531c-0": {
+          "type": "collection",
+          "settings": {
+            "collection": "teller-keramik-artibloom",
+            "title": ""
+          }
+        },
+        "16647922033dcf531c-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "servierschalen-keramik-artibloom",
+            "title": "Bowls"
+          }
+        },
         "16647922033dcf531c-2": {
           "type": "collection",
           "settings": {
@@ -85,32 +99,17 @@
             "collection": "kruege-keramik-artibloom",
             "title": ""
           }
-        },
-        "16647922033dcf531c-3": {
-          "type": "collection",
-          "disabled": true,
-          "settings": {
-            "collection": "geschirrset",
-            "title": "Sets"
-          }
-        },
-        "0ed506cb-4494-4daa-8919-d2012968a652": {
-          "type": "collection",
-          "settings": {
-            "collection": "deko-artibloom",
-            "title": ""
-          }
         }
       },
       "block_order": [
-        "16647922033dcf531c-0",
-        "16647922033dcf531c-1",
+        "0ed506cb-4494-4daa-8919-d2012968a652",
+        "3a7fb76d-80dc-45cf-ab6b-3c6252e0dd9a",
         "133a0170-c918-4f21-922e-dc1382001a3a",
         "172b51d4-403f-4ec1-9653-6f75233d273a",
+        "16647922033dcf531c-0",
+        "16647922033dcf531c-1",
         "16647922033dcf531c-2",
-        "ab9a61d6-f1da-4092-8018-8afae692e6cf",
-        "16647922033dcf531c-3",
-        "0ed506cb-4494-4daa-8919-d2012968a652"
+        "ab9a61d6-f1da-4092-8018-8afae692e6cf"
       ],
       "settings": {
         "title": "",

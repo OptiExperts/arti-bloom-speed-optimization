@@ -14,7 +14,7 @@
         "button_color": "btn--neutral",
         "button_style": "caps--large",
         "height": "margin--small",
-        "width": "wrapper--narrow",
+        "width": "wrapper",
         "text_color": "text-light",
         "bg_color": "#ffa384"
       }

@@ -35,6 +35,19 @@
         "autoplay_speed": 8
       }
     },
+    "3a054da7-3bf1-47e8-99e4-e6e3844edaa9": {
+      "type": "section-collection-carousel",
+      "settings": {
+        "heading": "Handgemacht unter der Spanischen Sonne",
+        "description": "<p>Hol dir sonnige Deko ins Haus<\/p>",
+        "text_alignment": "left",
+        "link_text": "Mehr entdecken",
+        "link_url": "shopify:\/\/pages\/deko",
+        "button_color": "btn--primary",
+        "button_style": "hero__btn btn btn--large caps",
+        "featured_collection": "deko-artibloom"
+      }
+    },
     "53cf8bde-d1c6-48a0-8bc1-05c0f0e24779": {
       "type": "section-accordion",
       "settings": {
@@ -283,23 +296,11 @@
       "settings": {
         "include_margins": false
       }
-    },
-    "3a054da7-3bf1-47e8-99e4-e6e3844edaa9": {
-      "type": "section-collection-carousel",
-      "settings": {
-        "heading": "Mediterrane Accessoires",
-        "description": "",
-        "text_alignment": "left",
-        "link_text": "Mehr entdecken",
-        "link_url": "shopify:\/\/pages\/deko",
-        "button_color": "btn--primary",
-        "button_style": "hero__btn btn btn--large caps",
-        "featured_collection": "deko-artibloom"
-      }
     }
   },
   "order": [
     "166276758655edee4f",
+    "3a054da7-3bf1-47e8-99e4-e6e3844edaa9",
     "53cf8bde-d1c6-48a0-8bc1-05c0f0e24779",
     "1664792203283870e0",
     "20e3dc42-c347-4d36-beeb-a68a33b3039d",
@@ -307,7 +308,6 @@
     "16596338637d51486d",
     "166076845484879d57",
     "1665172311a35fcb8a",
-    "1671439456a7175f2a",
-    "3a054da7-3bf1-47e8-99e4-e6e3844edaa9"
+    "1671439456a7175f2a"
   ]
 }

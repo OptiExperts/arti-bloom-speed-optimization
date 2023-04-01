@@ -283,6 +283,19 @@
       "settings": {
         "include_margins": false
       }
+    },
+    "3a054da7-3bf1-47e8-99e4-e6e3844edaa9": {
+      "type": "section-collection-carousel",
+      "settings": {
+        "heading": "Mediterrane Accessoires",
+        "description": "",
+        "text_alignment": "left",
+        "link_text": "Mehr entdecken",
+        "link_url": "shopify:\/\/pages\/deko",
+        "button_color": "btn--primary",
+        "button_style": "hero__btn btn btn--large caps",
+        "featured_collection": "deko-artibloom"
+      }
     }
   },
   "order": [
@@ -294,6 +307,7 @@
     "16596338637d51486d",
     "166076845484879d57",
     "1665172311a35fcb8a",
-    "1671439456a7175f2a"
+    "1671439456a7175f2a",
+    "3a054da7-3bf1-47e8-99e4-e6e3844edaa9"
   ]
 }

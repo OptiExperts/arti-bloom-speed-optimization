@@ -128,7 +128,7 @@
         "title": "",
         "description": "",
         "layout": "grid",
-        "aspect_ratio": 0.5,
+        "aspect_ratio": 0.8,
         "enable_slider": false
       }
     },

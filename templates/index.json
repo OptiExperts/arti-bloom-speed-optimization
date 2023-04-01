@@ -38,10 +38,10 @@
     "3a054da7-3bf1-47e8-99e4-e6e3844edaa9": {
       "type": "section-collection-carousel",
       "settings": {
-        "heading": "Handgemacht unter der Spanischen Sonne",
+        "heading": "NEW IN",
         "description": "",
-        "text_alignment": "inline",
-        "link_text": "Jetzt sonnige accessoires entdecken",
+        "text_alignment": "left",
+        "link_text": "",
         "link_url": "shopify:\/\/pages\/deko",
         "button_color": "btn--primary",
         "button_style": "hero__btn btn btn--large caps",

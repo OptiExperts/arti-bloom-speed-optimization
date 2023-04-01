@@ -39,8 +39,8 @@
       "type": "section-collection-carousel",
       "settings": {
         "heading": "Handgemacht unter der Spanischen Sonne",
-        "description": "<p>Hol dir sonnige Deko ins Haus<\/p>",
-        "text_alignment": "left",
+        "description": "<p>Hol dir sonnige Accessoires ins Haus<\/p>",
+        "text_alignment": "center",
         "link_text": "Mehr entdecken",
         "link_url": "shopify:\/\/pages\/deko",
         "button_color": "btn--primary",

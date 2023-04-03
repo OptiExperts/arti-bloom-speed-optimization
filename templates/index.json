@@ -40,7 +40,7 @@
       "settings": {
         "heading": "HANDGEMACHT UNTE DER SPANISCHEN SONNE.",
         "description": "",
-        "text_alignment": "left",
+        "text_alignment": "inline",
         "link_text": "",
         "link_url": "shopify:\/\/pages\/deko",
         "button_color": "btn--primary",

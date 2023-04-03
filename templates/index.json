@@ -57,32 +57,11 @@
     "1664792203283870e0": {
       "type": "section-collections-list",
       "blocks": {
-        "0ed506cb-4494-4daa-8919-d2012968a652": {
-          "type": "collection",
-          "settings": {
-            "collection": "deko-artibloom",
-            "title": ""
-          }
-        },
         "16647922033dcf531c-2": {
           "type": "collection",
           "settings": {
             "collection": "tassen-keramik-artibloom",
             "title": "Tassen"
-          }
-        },
-        "172b51d4-403f-4ec1-9653-6f75233d273a": {
-          "type": "collection",
-          "settings": {
-            "collection": "servierplatten-keramik-artibloom",
-            "title": "Servierplatten"
-          }
-        },
-        "3a7fb76d-80dc-45cf-ab6b-3c6252e0dd9a": {
-          "type": "collection",
-          "settings": {
-            "collection": "vasen-keramik-artibloom",
-            "title": ""
           }
         },
         "16647922033dcf531c-0": {
@@ -92,6 +71,20 @@
             "title": ""
           }
         },
+        "133a0170-c918-4f21-922e-dc1382001a3a": {
+          "type": "collection",
+          "settings": {
+            "collection": "servierschalen-gross-keramik-artibloom",
+            "title": "Große Schalen"
+          }
+        },
+        "172b51d4-403f-4ec1-9653-6f75233d273a": {
+          "type": "collection",
+          "settings": {
+            "collection": "servierplatten-keramik-artibloom",
+            "title": "Servierplatten"
+          }
+        },
         "16647922033dcf531c-1": {
           "type": "collection",
           "settings": {
@@ -99,11 +92,18 @@
             "title": "Bowls"
           }
         },
-        "133a0170-c918-4f21-922e-dc1382001a3a": {
+        "3a7fb76d-80dc-45cf-ab6b-3c6252e0dd9a": {
           "type": "collection",
           "settings": {
-            "collection": "servierschalen-gross-keramik-artibloom",
-            "title": "Große Schalen"
+            "collection": "vasen-keramik-artibloom",
+            "title": ""
+          }
+        },
+        "0ed506cb-4494-4daa-8919-d2012968a652": {
+          "type": "collection",
+          "settings": {
+            "collection": "deko-artibloom",
+            "title": ""
           }
         },
         "ce3bc24a-47c7-47aa-9b91-99bed15a200f": {
@@ -115,13 +115,13 @@
         }
       },
       "block_order": [
-        "0ed506cb-4494-4daa-8919-d2012968a652",
         "16647922033dcf531c-2",
-        "172b51d4-403f-4ec1-9653-6f75233d273a",
-        "3a7fb76d-80dc-45cf-ab6b-3c6252e0dd9a",
         "16647922033dcf531c-0",
-        "16647922033dcf531c-1",
         "133a0170-c918-4f21-922e-dc1382001a3a",
+        "172b51d4-403f-4ec1-9653-6f75233d273a",
+        "16647922033dcf531c-1",
+        "3a7fb76d-80dc-45cf-ab6b-3c6252e0dd9a",
+        "0ed506cb-4494-4daa-8919-d2012968a652",
         "ce3bc24a-47c7-47aa-9b91-99bed15a200f"
       ],
       "settings": {

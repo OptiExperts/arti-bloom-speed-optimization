@@ -3,13 +3,6 @@
     "166344342708f1a824": {
       "type": "section-collections-list",
       "blocks": {
-        "f9d40bdf-16c3-4077-be9f-8c25639c5f60": {
-          "type": "collection",
-          "settings": {
-            "collection": "deko-artibloom",
-            "title": ""
-          }
-        },
         "3a93db8f-7c6d-4807-bf6e-91b53436ff43": {
           "type": "collection",
           "settings": {
@@ -58,17 +51,24 @@
             "collection": "geschirrset",
             "title": "Sets"
           }
+        },
+        "76c86596-8dd2-4e7e-b40c-a4741800efc4": {
+          "type": "collection",
+          "settings": {
+            "collection": "kruege-keramik-artibloom",
+            "title": ""
+          }
         }
       },
       "block_order": [
-        "f9d40bdf-16c3-4077-be9f-8c25639c5f60",
         "3a93db8f-7c6d-4807-bf6e-91b53436ff43",
         "16634434277732ae9a-3",
         "16634434277732ae9a-1",
         "16634434277732ae9a-0",
         "16634434277732ae9a-2",
         "82594349-546f-4420-be0c-1531f09af0f7",
-        "789a216f-8835-4ce8-96ed-0f2b8068160a"
+        "789a216f-8835-4ce8-96ed-0f2b8068160a",
+        "76c86596-8dd2-4e7e-b40c-a4741800efc4"
       ],
       "settings": {
         "title": "",

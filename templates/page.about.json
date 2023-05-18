@@ -252,6 +252,25 @@
         "button_color": "btn--white",
         "button_style": "hero__btn btn btn--large btn--outline caps"
       }
+    },
+    "3f4ee03c-304e-4132-ae7e-28c9ca8f6026": {
+      "type": "section-rich-text",
+      "settings": {
+        "subheading": "",
+        "title": "Die Artibloom Kunst ist inspiriert durch sonnige Reisen, Menschen und Emotionen.",
+        "text": "<p>Jedes Bild erzählt durch warme Farben eine Geschichte, die die Magie des Reisens und Lebens einfängt. Die Kombination aus hellen Tönen, inspirierenden Formen und einer Prise Leichtigkeit schafft eine einzigartige Ästhetik, die zum träumen anregt.<\/p><p>Artibloom geht über das bloße Schaffen von Kunstwerken hinaus. Denn die Umgebung, in der wir leben und arbeiten, hat einen starken Einfluss auf unser Wohlbefinden und unsere Stimmung. Durch sonnige Unikate werden Räume erschaffen, die positive Energie ausstrahlen und ein Gefühl von Entspannung und Wärme vermitteln. Ob du einen Hauch des mediterranen Lebensstils in dein Wohnzimmer, Schlafzimmer, Büro oder Geschäftsräume bringen möchtest - Artibloom ist der Schlüssel zu einem sonnigen Ambiente.<\/p><p>Du bist herzlich eingeladen, die Welt von Artibloom zu entdecken. Tauche ein in die mediterrane Kultur und Kunst. Lass dich von der Handwerkskunst und Kreativität begeistern. Und vor allem: Bring das sonnige Flair in dein Leben, um jeden Tag zu einem kleinen Urlaubsmoment zu machen.<\/p><p>Melde dich gerne jederzeit, solltest du weitere Fragen haben.<\/p>",
+        "text_size": 2,
+        "text_columns": 1,
+        "align_text": "text-left",
+        "button_text": "",
+        "button_url": "",
+        "button_color": "btn--neutral",
+        "button_style": "caps--large",
+        "height": "margin--medium",
+        "width": "wrapper",
+        "text_color": "text-light",
+        "bg_color": "#ffa384"
+      }
     }
   },
   "order": [
@@ -264,6 +283,7 @@
     "1659907378c0405772",
     "custom-content-5",
     "1659911614230ff7a3",
-    "f8f1899b-6244-42c6-be8e-a3d2ef924d43"
+    "f8f1899b-6244-42c6-be8e-a3d2ef924d43",
+    "3f4ee03c-304e-4132-ae7e-28c9ca8f6026"
   ]
 }

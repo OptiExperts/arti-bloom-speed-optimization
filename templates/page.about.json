@@ -88,10 +88,10 @@
     "ae874836-00c9-4d85-8703-7802b132fdd7": {
       "type": "section-hero",
       "settings": {
-        "image": "shopify:\/\/shop_images\/grassy-beach-shade.jpg",
-        "mobile_image": "shopify:\/\/shop_images\/grassy-beach-shade.jpg",
+        "image": "shopify:\/\/shop_images\/california-home-sunbathing-over-the-water.jpg",
+        "mobile_image": "shopify:\/\/shop_images\/california-home-sunbathing-over-the-water.jpg",
         "bg_position": "right-center",
-        "height": "five-fifty-height-hero",
+        "height": "four-fifty-height-hero",
         "overlay_opacity": 0,
         "overlay_color": "#000000",
         "title": "",
@@ -132,7 +132,7 @@
         "bg_position": "center-center",
         "height": "four-fifty-height-hero",
         "overlay_opacity": 0,
-        "overlay_color": "#000",
+        "overlay_color": "#000000",
         "title": "",
         "description": "",
         "flex_align": "align--middle-center",

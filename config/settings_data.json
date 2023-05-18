@@ -101,6 +101,7 @@
         "blocks": {
           "9ebeae19-bbad-4d54-8f9d-107faa2485e4": {
             "type": "text",
+            "disabled": true,
             "settings": {
               "text": "<p>Shop & Versand holiday bis einschließlich 15. Mai 2023<\/p>",
               "target_url_enabled": false,

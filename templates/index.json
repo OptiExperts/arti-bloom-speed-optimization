@@ -35,19 +35,6 @@
         "autoplay_speed": 8
       }
     },
-    "3a054da7-3bf1-47e8-99e4-e6e3844edaa9": {
-      "type": "section-collection-carousel",
-      "settings": {
-        "heading": "Neue sonnige Unikate von Artibloom.",
-        "description": "<p>Handgemacht in Spanien und Portugal.<\/p>",
-        "text_alignment": "center",
-        "link_text": "",
-        "link_url": "shopify:\/\/pages\/deko",
-        "button_color": "btn--primary",
-        "button_style": "hero__btn btn btn--large caps",
-        "featured_collection": "deko-artibloom"
-      }
-    },
     "53cf8bde-d1c6-48a0-8bc1-05c0f0e24779": {
       "type": "section-accordion",
       "settings": {
@@ -178,19 +165,6 @@
         "bg_color": "#ffa384"
       }
     },
-    "2404229f-df08-4293-bed5-fd7aed057cfd": {
-      "type": "section-collection-carousel",
-      "settings": {
-        "heading": "Sonnige Kunstdrucke",
-        "description": "",
-        "text_alignment": "left",
-        "link_text": "ALLE ENTDECKEN",
-        "link_url": "shopify:\/\/pages\/kunst",
-        "button_color": "btn--primary",
-        "button_style": "hero__btn btn btn--large caps",
-        "featured_collection": "kunstdrucke-artibloom"
-      }
-    },
     "16596338637d51486d": {
       "type": "section-hero",
       "settings": {
@@ -300,11 +274,9 @@
   },
   "order": [
     "166276758655edee4f",
-    "3a054da7-3bf1-47e8-99e4-e6e3844edaa9",
     "53cf8bde-d1c6-48a0-8bc1-05c0f0e24779",
     "1664792203283870e0",
     "20e3dc42-c347-4d36-beeb-a68a33b3039d",
-    "2404229f-df08-4293-bed5-fd7aed057cfd",
     "16596338637d51486d",
     "166076845484879d57",
     "1665172311a35fcb8a",

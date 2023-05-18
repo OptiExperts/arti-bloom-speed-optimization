@@ -70,7 +70,7 @@
         "transparent": true,
         "link_text": "Jetzt entdecken",
         "link": "shopify:\/\/pages\/kunst",
-        "button_color": "btn--white",
+        "button_color": "btn--primary",
         "button_style": "hero__btn btn btn--input caps"
       }
     },

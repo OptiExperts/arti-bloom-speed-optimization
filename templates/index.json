@@ -18,7 +18,7 @@
             "transparent": true,
             "link_text": "Mehr entdecken",
             "link": "shopify:\/\/pages\/keramik",
-            "button_color": "btn--primary",
+            "button_color": "btn--white",
             "button_style": "hero__btn btn btn--input caps"
           }
         }

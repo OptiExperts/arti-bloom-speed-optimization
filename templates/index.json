@@ -38,10 +38,10 @@
     "4645ce5c-645b-4771-bd12-5eb6a69e10ab": {
       "type": "section-rich-text",
       "settings": {
-        "subheading": "Du kommst nach Hause. Tageslicht scheint in die Räume. Warme Farben umgeben dich. Du fühlst dich wie im Urlaub. In deiner persönlichen Wohlfühloase.",
+        "subheading": "",
         "title": "",
-        "text": "",
-        "text_size": 5,
+        "text": "<p>Du kommst nach Hause. Tageslicht scheint in die Räume. Warme Farben umgeben dich. Du fühlst dich wie im Urlaub. In deiner persönlichen Wohlfühloase.<\/p>",
+        "text_size": 3,
         "text_columns": 1,
         "align_text": "text-center",
         "button_text": "",

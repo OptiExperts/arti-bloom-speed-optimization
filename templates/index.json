@@ -131,6 +131,13 @@
             "collection": "geschirrset",
             "title": ""
           }
+        },
+        "c7ab9fb5-638f-4548-bd8a-a1a72d0e5e5c": {
+          "type": "collection",
+          "settings": {
+            "collection": "kruege-keramik-artibloom",
+            "title": ""
+          }
         }
       },
       "block_order": [
@@ -140,7 +147,8 @@
         "172b51d4-403f-4ec1-9653-6f75233d273a",
         "16647922033dcf531c-1",
         "3a7fb76d-80dc-45cf-ab6b-3c6252e0dd9a",
-        "ce3bc24a-47c7-47aa-9b91-99bed15a200f"
+        "ce3bc24a-47c7-47aa-9b91-99bed15a200f",
+        "c7ab9fb5-638f-4548-bd8a-a1a72d0e5e5c"
       ],
       "settings": {
         "title": "",

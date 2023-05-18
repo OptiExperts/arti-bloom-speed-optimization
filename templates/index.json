@@ -35,6 +35,25 @@
         "autoplay_speed": 8
       }
     },
+    "4645ce5c-645b-4771-bd12-5eb6a69e10ab": {
+      "type": "section-rich-text",
+      "settings": {
+        "subheading": "Erschaffe dir deine perönliche Wohlfühloase. Ein Zuhause voller sonniger Unikate. Handgemacht unter der mediterranen Sonne.",
+        "title": "",
+        "text": "",
+        "text_size": 5,
+        "text_columns": 1,
+        "align_text": "text-center",
+        "button_text": "",
+        "button_url": "",
+        "button_color": "btn--white",
+        "button_style": "caps--large",
+        "height": "margin--small",
+        "width": "wrapper",
+        "text_color": "text-light",
+        "bg_color": "#ffa384"
+      }
+    },
     "53cf8bde-d1c6-48a0-8bc1-05c0f0e24779": {
       "type": "section-accordion",
       "settings": {
@@ -289,29 +308,11 @@
       "settings": {
         "include_margins": false
       }
-    },
-    "4645ce5c-645b-4771-bd12-5eb6a69e10ab": {
-      "type": "section-rich-text",
-      "settings": {
-        "subheading": "Willkommen in deiner perönlichen Wohlfühloase.",
-        "title": "",
-        "text": "",
-        "text_size": 5,
-        "text_columns": 1,
-        "align_text": "text-center",
-        "button_text": "",
-        "button_url": "",
-        "button_color": "btn--white",
-        "button_style": "caps--large",
-        "height": "margin--small",
-        "width": "wrapper",
-        "text_color": "text-light",
-        "bg_color": "#ffa384"
-      }
     }
   },
   "order": [
     "166276758655edee4f",
+    "4645ce5c-645b-4771-bd12-5eb6a69e10ab",
     "53cf8bde-d1c6-48a0-8bc1-05c0f0e24779",
     "1664792203283870e0",
     "20e3dc42-c347-4d36-beeb-a68a33b3039d",
@@ -319,7 +320,6 @@
     "166076845484879d57",
     "1665172311a35fcb8a",
     "1671439456a7175f2a",
-    "1684411337705e9d6a",
-    "4645ce5c-645b-4771-bd12-5eb6a69e10ab"
+    "1684411337705e9d6a"
   ]
 }

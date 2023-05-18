@@ -228,7 +228,7 @@
           "type": "image",
           "settings": {
             "image": "shopify:\/\/shop_images\/Bildschirmfoto_2023-05-18_um_14.20.00.png",
-            "bg_position": "center-center",
+            "bg_position": "center-bottom",
             "overlay_opacity": 5,
             "overlay_color": "#ffffff",
             "title": "",

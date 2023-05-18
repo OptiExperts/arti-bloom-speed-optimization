@@ -218,7 +218,7 @@
         "image": "shopify:\/\/shop_images\/waves-crash-under-morning-sun.jpg",
         "mobile_image": "shopify:\/\/shop_images\/waves-crash-under-morning-sun.jpg",
         "bg_position": "center-center",
-        "height": "screen-height-three-quarters",
+        "height": "five-fifty-height-hero",
         "overlay_opacity": 0,
         "overlay_color": "#000",
         "title": "",

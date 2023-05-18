@@ -207,23 +207,6 @@
     "166076845484879d57": {
       "type": "section-custom-content",
       "blocks": {
-        "16607684540cf00b1f-1": {
-          "type": "text",
-          "settings": {
-            "subheading": "",
-            "title": "Hinter den Kulissen von Artibloom",
-            "text": "",
-            "text_size": 2,
-            "text_columns": 1,
-            "align_text": "text-center",
-            "text_color": "text-light",
-            "bg_color": "#ffa384",
-            "button_text": "Mehr erfahren",
-            "button_url": "shopify:\/\/pages\/about",
-            "button_color": "btn--primary",
-            "button_style": "hero__btn btn btn--input caps"
-          }
-        },
         "16607684540cf00b1f-0": {
           "type": "image",
           "settings": {
@@ -241,11 +224,28 @@
             "button_color": "btn--white",
             "button_style": "hero__btn btn btn--large btn--outline caps"
           }
+        },
+        "16607684540cf00b1f-1": {
+          "type": "text",
+          "settings": {
+            "subheading": "",
+            "title": "Hinter den Kulissen von Artibloom",
+            "text": "",
+            "text_size": 2,
+            "text_columns": 1,
+            "align_text": "text-center",
+            "text_color": "text-light",
+            "bg_color": "#ffa384",
+            "button_text": "Mehr erfahren",
+            "button_url": "shopify:\/\/pages\/about",
+            "button_color": "btn--primary",
+            "button_style": "hero__btn btn btn--input caps"
+          }
         }
       },
       "block_order": [
-        "16607684540cf00b1f-1",
-        "16607684540cf00b1f-0"
+        "16607684540cf00b1f-0",
+        "16607684540cf00b1f-1"
       ],
       "settings": {
         "height": "screen-height-one-half",

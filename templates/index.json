@@ -293,20 +293,20 @@
     "4645ce5c-645b-4771-bd12-5eb6a69e10ab": {
       "type": "section-rich-text",
       "settings": {
-        "subheading": "Introducing",
-        "title": "Rich text",
-        "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>",
-        "text_size": 2,
+        "subheading": "Willkommen in deiner perönlichen Wohlfühloase.",
+        "title": "",
+        "text": "",
+        "text_size": 5,
         "text_columns": 1,
-        "align_text": "text-left",
-        "button_text": "Learn more",
+        "align_text": "text-center",
+        "button_text": "",
         "button_url": "",
-        "button_color": "btn--neutral",
+        "button_color": "btn--white",
         "button_style": "caps--large",
-        "height": "margin--medium",
+        "height": "margin--small",
         "width": "wrapper",
-        "text_color": "text-dark",
-        "bg_color": "#ffffff"
+        "text_color": "text-light",
+        "bg_color": "#ffa384"
       }
     }
   },

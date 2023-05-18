@@ -289,6 +289,25 @@
       "settings": {
         "include_margins": false
       }
+    },
+    "4645ce5c-645b-4771-bd12-5eb6a69e10ab": {
+      "type": "section-rich-text",
+      "settings": {
+        "subheading": "Introducing",
+        "title": "Rich text",
+        "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>",
+        "text_size": 2,
+        "text_columns": 1,
+        "align_text": "text-left",
+        "button_text": "Learn more",
+        "button_url": "",
+        "button_color": "btn--neutral",
+        "button_style": "caps--large",
+        "height": "margin--medium",
+        "width": "wrapper",
+        "text_color": "text-dark",
+        "bg_color": "#ffffff"
+      }
     }
   },
   "order": [
@@ -300,6 +319,7 @@
     "166076845484879d57",
     "1665172311a35fcb8a",
     "1671439456a7175f2a",
-    "1684411337705e9d6a"
+    "1684411337705e9d6a",
+    "4645ce5c-645b-4771-bd12-5eb6a69e10ab"
   ]
 }

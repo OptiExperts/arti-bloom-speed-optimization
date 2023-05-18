@@ -54,6 +54,26 @@
         "bg_color": "#ffa384"
       }
     },
+    "16596338637d51486d": {
+      "type": "section-hero",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/IMG_8115_d2efc2d4-f3cc-4ea2-a2a9-807132793e6a.jpg",
+        "mobile_image": "shopify:\/\/shop_images\/IMG_8115.jpg",
+        "bg_position": "center-center",
+        "height": "screen-height-two-thirds",
+        "overlay_opacity": 0,
+        "overlay_color": "#000000",
+        "title": "KUNST",
+        "description": "",
+        "flex_align": "align--middle-center",
+        "text_color": "text-light",
+        "transparent": true,
+        "link_text": "Jetzt entdecken",
+        "link": "shopify:\/\/pages\/kunst",
+        "button_color": "btn--white",
+        "button_style": "hero__btn btn btn--input caps"
+      }
+    },
     "53cf8bde-d1c6-48a0-8bc1-05c0f0e24779": {
       "type": "section-accordion",
       "settings": {
@@ -184,26 +204,6 @@
         "bg_color": "#ffa384"
       }
     },
-    "16596338637d51486d": {
-      "type": "section-hero",
-      "settings": {
-        "image": "shopify:\/\/shop_images\/IMG_8115_d2efc2d4-f3cc-4ea2-a2a9-807132793e6a.jpg",
-        "mobile_image": "shopify:\/\/shop_images\/IMG_8115.jpg",
-        "bg_position": "left-center",
-        "height": "screen-height-two-thirds",
-        "overlay_opacity": 0,
-        "overlay_color": "#000000",
-        "title": "KUNST",
-        "description": "",
-        "flex_align": "align--middle-center",
-        "text_color": "text-light",
-        "transparent": true,
-        "link_text": "Jetzt entdecken",
-        "link": "shopify:\/\/pages\/kunst",
-        "button_color": "btn--white",
-        "button_style": "hero__btn btn btn--input caps"
-      }
-    },
     "166076845484879d57": {
       "type": "section-custom-content",
       "blocks": {
@@ -313,10 +313,10 @@
   "order": [
     "166276758655edee4f",
     "4645ce5c-645b-4771-bd12-5eb6a69e10ab",
+    "16596338637d51486d",
     "53cf8bde-d1c6-48a0-8bc1-05c0f0e24779",
     "1664792203283870e0",
     "20e3dc42-c347-4d36-beeb-a68a33b3039d",
-    "16596338637d51486d",
     "166076845484879d57",
     "1665172311a35fcb8a",
     "1671439456a7175f2a",

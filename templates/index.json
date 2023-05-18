@@ -19,7 +19,7 @@
             "link_text": "Mehr entdecken",
             "link": "shopify:\/\/pages\/keramik",
             "button_color": "btn--primary",
-            "button_style": "hero__btn btn btn--large caps"
+            "button_style": "hero__btn btn btn--input caps"
           }
         }
       },

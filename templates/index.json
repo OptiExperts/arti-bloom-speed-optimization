@@ -83,7 +83,7 @@
       ],
       "settings": {
         "text_alignment": "center",
-        "icon_size": 35,
+        "icon_size": 30,
         "icon_alignment": "icon--top",
         "text_color": "text-light",
         "heading_size": "h6",

@@ -64,12 +64,22 @@
             "title": "",
             "text": "Mediterrane Unikate"
           }
+        },
+        "8a8d9f37-f613-47c2-99ff-f636c0265a78": {
+          "type": "text-item",
+          "settings": {
+            "icon_name": "icon-earth",
+            "icon_color": "#ffffb0",
+            "title": "",
+            "text": "Urlaubs Vibes"
+          }
         }
       },
       "block_order": [
         "template--16179445268748__20e3dc42-c347-4d36-beeb-a68a33b3039d-16763764707b900096-0",
         "template--16179445268748__20e3dc42-c347-4d36-beeb-a68a33b3039d-16763764707b900096-1",
-        "template--16179445268748__20e3dc42-c347-4d36-beeb-a68a33b3039d-16763764707b900096-2"
+        "template--16179445268748__20e3dc42-c347-4d36-beeb-a68a33b3039d-16763764707b900096-2",
+        "8a8d9f37-f613-47c2-99ff-f636c0265a78"
       ],
       "settings": {
         "text_alignment": "center",

@@ -53,7 +53,7 @@
             "icon_name": "icon-leaf",
             "icon_color": "#ffffb0",
             "title": "",
-            "text": "Nachhaltig"
+            "text": "Nachhaltig hergestellt & versandt"
           }
         },
         "template--16179445268748__20e3dc42-c347-4d36-beeb-a68a33b3039d-16763764707b900096-2": {
@@ -73,10 +73,10 @@
       ],
       "settings": {
         "text_alignment": "center",
-        "icon_size": 50,
+        "icon_size": 35,
         "icon_alignment": "icon--top",
         "text_color": "text-light",
-        "heading_size": "h5",
+        "heading_size": "h6",
         "height": "margin--small",
         "bg_color": "#ffa384"
       }

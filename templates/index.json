@@ -372,13 +372,13 @@
             "mobile_image": "shopify:\/\/shop_images\/IMG_5129.jpg",
             "overlay_opacity": 0,
             "overlay_color": "#000",
-            "title": "Image slide",
-            "description": "Tell your brand's story through images.",
+            "title": "SUNSHINE FOR YOUR HOME",
+            "description": "Handgemachte Keramik",
             "flex_align": "align--middle-center",
             "text_color": "text-light",
             "transparent": true,
-            "link_text": "View products",
-            "link": "",
+            "link_text": "Jetzt entdecken",
+            "link": "shopify:\/\/pages\/tassen",
             "button_color": "btn--white",
             "button_style": "hero__btn btn btn--large btn--outline caps"
           }

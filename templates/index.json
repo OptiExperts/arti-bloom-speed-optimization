@@ -37,8 +37,8 @@
             "transparent": true,
             "link_text": "Jetzt entdecken",
             "link": "shopify:\/\/pages\/tassen",
-            "button_color": "btn--white",
-            "button_style": "hero__btn btn btn--large btn--outline caps"
+            "button_color": "btn--primary",
+            "button_style": "hero__btn btn btn--input caps"
           }
         },
         "7861cbc2-f6ac-4475-98e7-b84021edf33e": {

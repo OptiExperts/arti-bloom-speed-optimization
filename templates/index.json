@@ -10,7 +10,7 @@
             "image": "shopify:\/\/shop_images\/IMG_5245.jpg",
             "mobile_image": "shopify:\/\/shop_images\/IMG_5245.jpg",
             "overlay_opacity": 0,
-            "overlay_color": "#000",
+            "overlay_color": "#ffffb0",
             "title": "SUNSHINE FOR YOUR HOME",
             "description": "Handgemachte Keramik aus Spanien & Portugal",
             "flex_align": "align--middle-center",
@@ -18,8 +18,8 @@
             "transparent": true,
             "link_text": "Jetzt entdecken",
             "link": "shopify:\/\/pages\/keramik",
-            "button_color": "btn--white",
-            "button_style": "hero__btn btn btn--large btn--outline caps"
+            "button_color": "btn--primary",
+            "button_style": "hero__btn btn btn--input caps"
           }
         },
         "template--16179445268748__758c2e31-4b04-4178-83d4-87c08c3515f7-168596412318a0652d-1": {

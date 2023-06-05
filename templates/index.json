@@ -382,11 +382,31 @@
             "button_color": "btn--white",
             "button_style": "hero__btn btn btn--large btn--outline caps"
           }
+        },
+        "7861cbc2-f6ac-4475-98e7-b84021edf33e": {
+          "type": "image",
+          "settings": {
+            "bg_position": "left-center",
+            "image": "shopify:\/\/shop_images\/IMG_4008.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/IMG_4008.jpg",
+            "overlay_opacity": 0,
+            "overlay_color": "#000",
+            "title": "SUNSHINE FOR YOUR HOME",
+            "description": "Handgemachte Keramik",
+            "flex_align": "align--middle-center",
+            "text_color": "text-light",
+            "transparent": true,
+            "link_text": "Jetzt entdecken",
+            "link": "shopify:\/\/pages\/keramik",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
         }
       },
       "block_order": [
         "template--16179445268748__758c2e31-4b04-4178-83d4-87c08c3515f7-168596412318a0652d-0",
-        "template--16179445268748__758c2e31-4b04-4178-83d4-87c08c3515f7-168596412318a0652d-1"
+        "template--16179445268748__758c2e31-4b04-4178-83d4-87c08c3515f7-168596412318a0652d-1",
+        "7861cbc2-f6ac-4475-98e7-b84021edf33e"
       ],
       "settings": {
         "height": "screen-height-two-thirds",

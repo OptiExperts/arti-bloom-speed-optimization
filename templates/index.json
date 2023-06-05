@@ -322,6 +322,7 @@
     },
     "5fc20c50-da10-4bcb-8c78-74975e117f6e": {
       "type": "section-video",
+      "disabled": true,
       "settings": {
         "video_link_bg": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/4937587d86cd411db0a4c8d46013ce68.mov",
         "video_link": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/4937587d86cd411db0a4c8d46013ce68.mov",
@@ -329,7 +330,7 @@
         "desktop_height": "screen-height-three-quarters",
         "mobile_height": "screen-height-three-quarters--mobile",
         "overlay_opacity": 0,
-        "overlay_color": "#000",
+        "overlay_color": "#000000",
         "title": "Video",
         "description": "Tell your brand's story through images.",
         "flex_align": "align--middle-center",

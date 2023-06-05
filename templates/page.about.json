@@ -87,6 +87,7 @@
     },
     "ae874836-00c9-4d85-8703-7802b132fdd7": {
       "type": "section-hero",
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/california-home-sunbathing-over-the-water.jpg",
         "mobile_image": "shopify:\/\/shop_images\/california-home-sunbathing-over-the-water.jpg",
@@ -166,8 +167,8 @@
     "69fac95f-798a-4670-8802-a2349475c2ea": {
       "type": "section-hero",
       "settings": {
-        "image": "shopify:\/\/shop_images\/The_art_collectors_dining_room.jpg",
-        "mobile_image": "shopify:\/\/shop_images\/The_art_collectors_dining_room.jpg",
+        "image": "shopify:\/\/shop_images\/IMG_8120.jpg",
+        "mobile_image": "shopify:\/\/shop_images\/IMG_8120.jpg",
         "bg_position": "center-top",
         "height": "screen-height-three-quarters",
         "overlay_opacity": 0,

@@ -341,6 +341,57 @@
         "button_color": "btn--white",
         "button_style": "hero__btn btn btn--large btn--outline caps"
       }
+    },
+    "758c2e31-4b04-4178-83d4-87c08c3515f7": {
+      "type": "section-slideshow",
+      "blocks": {
+        "template--16179445268748__758c2e31-4b04-4178-83d4-87c08c3515f7-168596412318a0652d-0": {
+          "type": "image",
+          "settings": {
+            "bg_position": "center-center",
+            "overlay_opacity": 0,
+            "overlay_color": "#000",
+            "title": "Image slide",
+            "description": "Tell your brand's story through images.",
+            "flex_align": "align--middle-center",
+            "text_color": "text-light",
+            "transparent": true,
+            "link_text": "View products",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        },
+        "template--16179445268748__758c2e31-4b04-4178-83d4-87c08c3515f7-168596412318a0652d-1": {
+          "type": "image",
+          "settings": {
+            "bg_position": "center-center",
+            "overlay_opacity": 0,
+            "overlay_color": "#000",
+            "title": "Image slide",
+            "description": "Tell your brand's story through images.",
+            "flex_align": "align--middle-center",
+            "text_color": "text-light",
+            "transparent": true,
+            "link_text": "View products",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        }
+      },
+      "block_order": [
+        "template--16179445268748__758c2e31-4b04-4178-83d4-87c08c3515f7-168596412318a0652d-0",
+        "template--16179445268748__758c2e31-4b04-4178-83d4-87c08c3515f7-168596412318a0652d-1"
+      ],
+      "settings": {
+        "height": "screen-height-two-thirds",
+        "transition": "slide",
+        "arrows_style": true,
+        "dots_style": "hidden",
+        "autoplay": false,
+        "autoplay_speed": 4
+      }
     }
   },
   "order": [
@@ -354,6 +405,7 @@
     "1665172311a35fcb8a",
     "1671439456a7175f2a",
     "1684411337705e9d6a",
-    "5fc20c50-da10-4bcb-8c78-74975e117f6e"
+    "5fc20c50-da10-4bcb-8c78-74975e117f6e",
+    "758c2e31-4b04-4178-83d4-87c08c3515f7"
   ]
 }

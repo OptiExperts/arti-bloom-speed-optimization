@@ -74,9 +74,9 @@
             "text_color": "text-light",
             "transparent": true,
             "link_text": "Jetzt entdecken",
-            "link": "",
-            "button_color": "btn--white",
-            "button_style": "hero__btn btn btn--large btn--outline caps"
+            "link": "shopify:\/\/pages\/servierschalen-gross",
+            "button_color": "btn--primary",
+            "button_style": "hero__btn btn btn--input caps"
           }
         }
       },

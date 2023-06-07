@@ -409,14 +409,14 @@
           "type": "product",
           "settings": {
             "product": "",
-            "position_x": 50,
-            "position_y": 50
+            "position_x": 64,
+            "position_y": 95
           }
         },
         "template--16179445268748__c9394ccb-8bba-4a88-b66d-335b6e69d66d-16861725877a6a5b66-1": {
           "type": "product",
           "settings": {
-            "product": "",
+            "product": "obidos-servierschale-gross-cremeweiss-sand",
             "position_x": 50,
             "position_y": 50
           }

@@ -411,72 +411,6 @@
       "settings": {
         "include_margins": false
       }
-    },
-    "db478376-71b2-4644-90bb-d12be7097712": {
-      "type": "section-announcement",
-      "blocks": {
-        "template--16179445268748__db478376-71b2-4644-90bb-d12be7097712-16861748390ad2d42d-0": {
-          "type": "text",
-          "settings": {
-            "text": "<p><strong>Make an announcement<\/strong> | Target to specific devices or referrers<\/p>",
-            "target_url_enabled": false,
-            "target_url": "",
-            "target_referrer_enabled": false,
-            "target_referrer": "",
-            "target_device_enabled": false,
-            "target_device": "mobile"
-          }
-        },
-        "template--16179445268748__db478376-71b2-4644-90bb-d12be7097712-16861748390ad2d42d-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p><strong>Create a free shipping countdown<\/strong><\/p>",
-            "target_url_enabled": false,
-            "target_url": "",
-            "target_referrer_enabled": false,
-            "target_referrer": "",
-            "target_device_enabled": false,
-            "target_device": "mobile"
-          }
-        },
-        "template--16179445268748__db478376-71b2-4644-90bb-d12be7097712-16861748390ad2d42d-2": {
-          "type": "message",
-          "settings": {
-            "show_wheel": false,
-            "message": "Kostenloser Versand ab 100,-",
-            "target_url_enabled": false,
-            "target_url": "",
-            "target_referrer_enabled": false,
-            "target_referrer": "",
-            "target_device_enabled": false,
-            "target_device": "mobile"
-          }
-        },
-        "template--16179445268748__db478376-71b2-4644-90bb-d12be7097712-16861748390ad2d42d-3": {
-          "type": "text",
-          "settings": {
-            "text": "<p><strong>Create a scrolling marquee or a simple announcement<\/strong><\/p>",
-            "target_url_enabled": false,
-            "target_url": "",
-            "target_referrer_enabled": false,
-            "target_referrer": "",
-            "target_device_enabled": false,
-            "target_device": "mobile"
-          }
-        }
-      },
-      "block_order": [
-        "template--16179445268748__db478376-71b2-4644-90bb-d12be7097712-16861748390ad2d42d-0",
-        "template--16179445268748__db478376-71b2-4644-90bb-d12be7097712-16861748390ad2d42d-1",
-        "template--16179445268748__db478376-71b2-4644-90bb-d12be7097712-16861748390ad2d42d-2",
-        "template--16179445268748__db478376-71b2-4644-90bb-d12be7097712-16861748390ad2d42d-3"
-      ],
-      "settings": {
-        "bg_color": "#ffffb0",
-        "color": "#545454",
-        "layout": "marquee",
-        "speed": 7
-      }
     }
   },
   "order": [
@@ -490,7 +424,6 @@
     "166076845484879d57",
     "1665172311a35fcb8a",
     "1671439456a7175f2a",
-    "1684411337705e9d6a",
-    "db478376-71b2-4644-90bb-d12be7097712"
+    "1684411337705e9d6a"
   ]
 }

@@ -412,26 +412,70 @@
         "include_margins": false
       }
     },
-    "5fc20c50-da10-4bcb-8c78-74975e117f6e": {
-      "type": "section-video",
-      "disabled": true,
+    "db478376-71b2-4644-90bb-d12be7097712": {
+      "type": "section-announcement",
+      "blocks": {
+        "template--16179445268748__db478376-71b2-4644-90bb-d12be7097712-16861748390ad2d42d-0": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Make an announcement<\/strong> | Target to specific devices or referrers<\/p>",
+            "target_url_enabled": false,
+            "target_url": "",
+            "target_referrer_enabled": false,
+            "target_referrer": "",
+            "target_device_enabled": false,
+            "target_device": "mobile"
+          }
+        },
+        "template--16179445268748__db478376-71b2-4644-90bb-d12be7097712-16861748390ad2d42d-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Create a free shipping countdown<\/strong><\/p>",
+            "target_url_enabled": false,
+            "target_url": "",
+            "target_referrer_enabled": false,
+            "target_referrer": "",
+            "target_device_enabled": false,
+            "target_device": "mobile"
+          }
+        },
+        "template--16179445268748__db478376-71b2-4644-90bb-d12be7097712-16861748390ad2d42d-2": {
+          "type": "message",
+          "settings": {
+            "show_wheel": false,
+            "message": "Kostenloser Versand ab 100,-",
+            "target_url_enabled": false,
+            "target_url": "",
+            "target_referrer_enabled": false,
+            "target_referrer": "",
+            "target_device_enabled": false,
+            "target_device": "mobile"
+          }
+        },
+        "template--16179445268748__db478376-71b2-4644-90bb-d12be7097712-16861748390ad2d42d-3": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Create a scrolling marquee or a simple announcement<\/strong><\/p>",
+            "target_url_enabled": false,
+            "target_url": "",
+            "target_referrer_enabled": false,
+            "target_referrer": "",
+            "target_device_enabled": false,
+            "target_device": "mobile"
+          }
+        }
+      },
+      "block_order": [
+        "template--16179445268748__db478376-71b2-4644-90bb-d12be7097712-16861748390ad2d42d-0",
+        "template--16179445268748__db478376-71b2-4644-90bb-d12be7097712-16861748390ad2d42d-1",
+        "template--16179445268748__db478376-71b2-4644-90bb-d12be7097712-16861748390ad2d42d-2",
+        "template--16179445268748__db478376-71b2-4644-90bb-d12be7097712-16861748390ad2d42d-3"
+      ],
       "settings": {
-        "video_link_bg": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/4937587d86cd411db0a4c8d46013ce68.mov",
-        "video_link": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/4937587d86cd411db0a4c8d46013ce68.mov",
-        "bg_position": "center-center",
-        "desktop_height": "screen-height-three-quarters",
-        "mobile_height": "screen-height-three-quarters--mobile",
-        "overlay_opacity": 0,
-        "overlay_color": "#000000",
-        "title": "Video",
-        "description": "Tell your brand's story through images.",
-        "flex_align": "align--middle-center",
-        "text_color": "text-light",
-        "transparent": true,
-        "link_text": "View products",
-        "link": "",
-        "button_color": "btn--white",
-        "button_style": "hero__btn btn btn--large btn--outline caps"
+        "bg_color": "#ffffb0",
+        "color": "#545454",
+        "layout": "marquee",
+        "speed": 7
       }
     }
   },
@@ -447,6 +491,6 @@
     "1665172311a35fcb8a",
     "1671439456a7175f2a",
     "1684411337705e9d6a",
-    "5fc20c50-da10-4bcb-8c78-74975e117f6e"
+    "db478376-71b2-4644-90bb-d12be7097712"
   ]
 }

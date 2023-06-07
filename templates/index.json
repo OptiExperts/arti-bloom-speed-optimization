@@ -255,6 +255,38 @@
         "enable_slider": false
       }
     },
+    "c9394ccb-8bba-4a88-b66d-335b6e69d66d": {
+      "type": "section-look",
+      "blocks": {
+        "template--16179445268748__c9394ccb-8bba-4a88-b66d-335b6e69d66d-16861725877a6a5b66-0": {
+          "type": "product",
+          "settings": {
+            "product": "vase-beja-bunt",
+            "position_x": 24,
+            "position_y": 20
+          }
+        },
+        "template--16179445268748__c9394ccb-8bba-4a88-b66d-335b6e69d66d-16861725877a6a5b66-1": {
+          "type": "product",
+          "settings": {
+            "product": "obidos-servierschale-gross-cremeweiss-sand",
+            "position_x": 50,
+            "position_y": 50
+          }
+        }
+      },
+      "block_order": [
+        "template--16179445268748__c9394ccb-8bba-4a88-b66d-335b6e69d66d-16861725877a6a5b66-0",
+        "template--16179445268748__c9394ccb-8bba-4a88-b66d-335b6e69d66d-16861725877a6a5b66-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/IMG_5245_99bbf276-9e9c-4261-b263-cac705fd5588.jpg",
+        "bg_position": "center-center",
+        "title": "Shop the look",
+        "section_bg": "#ffa384",
+        "dot_color": "#ffffb0"
+      }
+    },
     "16596338637d51486d": {
       "type": "section-hero",
       "settings": {
@@ -401,38 +433,6 @@
         "button_color": "btn--white",
         "button_style": "hero__btn btn btn--large btn--outline caps"
       }
-    },
-    "c9394ccb-8bba-4a88-b66d-335b6e69d66d": {
-      "type": "section-look",
-      "blocks": {
-        "template--16179445268748__c9394ccb-8bba-4a88-b66d-335b6e69d66d-16861725877a6a5b66-0": {
-          "type": "product",
-          "settings": {
-            "product": "vase-beja-bunt",
-            "position_x": 24,
-            "position_y": 20
-          }
-        },
-        "template--16179445268748__c9394ccb-8bba-4a88-b66d-335b6e69d66d-16861725877a6a5b66-1": {
-          "type": "product",
-          "settings": {
-            "product": "obidos-servierschale-gross-cremeweiss-sand",
-            "position_x": 50,
-            "position_y": 50
-          }
-        }
-      },
-      "block_order": [
-        "template--16179445268748__c9394ccb-8bba-4a88-b66d-335b6e69d66d-16861725877a6a5b66-0",
-        "template--16179445268748__c9394ccb-8bba-4a88-b66d-335b6e69d66d-16861725877a6a5b66-1"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/IMG_5245_99bbf276-9e9c-4261-b263-cac705fd5588.jpg",
-        "bg_position": "center-center",
-        "title": "Shop the look",
-        "section_bg": "#ffa384",
-        "dot_color": "#ffffb0"
-      }
     }
   },
   "order": [
@@ -441,12 +441,12 @@
     "4645ce5c-645b-4771-bd12-5eb6a69e10ab",
     "53cf8bde-d1c6-48a0-8bc1-05c0f0e24779",
     "1664792203283870e0",
+    "c9394ccb-8bba-4a88-b66d-335b6e69d66d",
     "16596338637d51486d",
     "166076845484879d57",
     "1665172311a35fcb8a",
     "1671439456a7175f2a",
     "1684411337705e9d6a",
-    "5fc20c50-da10-4bcb-8c78-74975e117f6e",
-    "c9394ccb-8bba-4a88-b66d-335b6e69d66d"
+    "5fc20c50-da10-4bcb-8c78-74975e117f6e"
   ]
 }

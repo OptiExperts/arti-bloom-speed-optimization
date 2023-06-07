@@ -312,7 +312,7 @@
         "template--16179445268748__bd277aa5-1ef7-4961-b30f-45077f802580-1686175466a40f08e0-2": {
           "type": "tab_richtext",
           "settings": {
-            "show_read_more": true,
+            "show_read_more": false,
             "style": "inline",
             "title_1": "",
             "raw_content_1": "<p>This content type will accept <strong>rich text<\/strong> to help with adding styles and links to additional pages or content. Use this to add supplementary information to help your buyers.<\/p>",

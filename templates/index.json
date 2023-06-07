@@ -287,6 +287,58 @@
         "dot_color": "#ffffb0"
       }
     },
+    "bd277aa5-1ef7-4961-b30f-45077f802580": {
+      "type": "section-product",
+      "blocks": {
+        "template--16179445268748__bd277aa5-1ef7-4961-b30f-45077f802580-1686175466a40f08e0-0": {
+          "type": "price_and_title",
+          "settings": {
+            "subheading_option": "none",
+            "show_rating": true,
+            "enable_star_rating": true,
+            "show_rating_count": false
+          }
+        },
+        "template--16179445268748__bd277aa5-1ef7-4961-b30f-45077f802580-1686175466a40f08e0-1": {
+          "type": "form",
+          "settings": {
+            "info_page": "",
+            "show_labels": false,
+            "show_quantity": true,
+            "show_payment_button": true,
+            "subscriptions_enable_selectors": true
+          }
+        },
+        "template--16179445268748__bd277aa5-1ef7-4961-b30f-45077f802580-1686175466a40f08e0-2": {
+          "type": "tab_richtext",
+          "settings": {
+            "show_read_more": true,
+            "style": "inline",
+            "title_1": "",
+            "raw_content_1": "<p>This content type will accept <strong>rich text<\/strong> to help with adding styles and links to additional pages or content. Use this to add supplementary information to help your buyers.<\/p>",
+            "title_2": "Info",
+            "raw_content_2": "<p>You can use product metafields to assign content to this tab that is unique to an individual product.  Use tabs to highlight unique features, sizing information, or other sales information.<\/p>",
+            "title_3": "",
+            "raw_content_3": "",
+            "title_4": "",
+            "raw_content_4": "",
+            "title_5": "",
+            "raw_content_5": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16179445268748__bd277aa5-1ef7-4961-b30f-45077f802580-1686175466a40f08e0-0",
+        "template--16179445268748__bd277aa5-1ef7-4961-b30f-45077f802580-1686175466a40f08e0-1",
+        "template--16179445268748__bd277aa5-1ef7-4961-b30f-45077f802580-1686175466a40f08e0-2"
+      ],
+      "settings": {
+        "home_product": "teller-love-geschirr-essteller-keramik-artibloom",
+        "image_layout": "thumbnails",
+        "enable_zoom": true,
+        "enable_video_looping": false
+      }
+    },
     "16596338637d51486d": {
       "type": "section-hero",
       "settings": {
@@ -411,58 +463,6 @@
       "settings": {
         "include_margins": false
       }
-    },
-    "bd277aa5-1ef7-4961-b30f-45077f802580": {
-      "type": "section-product",
-      "blocks": {
-        "template--16179445268748__bd277aa5-1ef7-4961-b30f-45077f802580-1686175466a40f08e0-0": {
-          "type": "price_and_title",
-          "settings": {
-            "subheading_option": "none",
-            "show_rating": true,
-            "enable_star_rating": true,
-            "show_rating_count": false
-          }
-        },
-        "template--16179445268748__bd277aa5-1ef7-4961-b30f-45077f802580-1686175466a40f08e0-1": {
-          "type": "form",
-          "settings": {
-            "info_page": "",
-            "show_labels": false,
-            "show_quantity": true,
-            "show_payment_button": true,
-            "subscriptions_enable_selectors": true
-          }
-        },
-        "template--16179445268748__bd277aa5-1ef7-4961-b30f-45077f802580-1686175466a40f08e0-2": {
-          "type": "tab_richtext",
-          "settings": {
-            "show_read_more": true,
-            "style": "inline",
-            "title_1": "",
-            "raw_content_1": "<p>This content type will accept <strong>rich text<\/strong> to help with adding styles and links to additional pages or content. Use this to add supplementary information to help your buyers.<\/p>",
-            "title_2": "Info",
-            "raw_content_2": "<p>You can use product metafields to assign content to this tab that is unique to an individual product.  Use tabs to highlight unique features, sizing information, or other sales information.<\/p>",
-            "title_3": "",
-            "raw_content_3": "",
-            "title_4": "",
-            "raw_content_4": "",
-            "title_5": "",
-            "raw_content_5": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--16179445268748__bd277aa5-1ef7-4961-b30f-45077f802580-1686175466a40f08e0-0",
-        "template--16179445268748__bd277aa5-1ef7-4961-b30f-45077f802580-1686175466a40f08e0-1",
-        "template--16179445268748__bd277aa5-1ef7-4961-b30f-45077f802580-1686175466a40f08e0-2"
-      ],
-      "settings": {
-        "home_product": "teller-love-geschirr-essteller-keramik-artibloom",
-        "image_layout": "thumbnails",
-        "enable_zoom": true,
-        "enable_video_looping": false
-      }
     }
   },
   "order": [
@@ -472,11 +472,11 @@
     "53cf8bde-d1c6-48a0-8bc1-05c0f0e24779",
     "1664792203283870e0",
     "c9394ccb-8bba-4a88-b66d-335b6e69d66d",
+    "bd277aa5-1ef7-4961-b30f-45077f802580",
     "16596338637d51486d",
     "1665172311a35fcb8a",
     "1671439456a7175f2a",
     "166076845484879d57",
-    "1684411337705e9d6a",
-    "bd277aa5-1ef7-4961-b30f-45077f802580"
+    "1684411337705e9d6a"
   ]
 }

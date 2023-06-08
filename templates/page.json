@@ -1,19 +1,5 @@
 {
   "sections": {
-    "main": {
-      "type": "main-page",
-      "settings": {
-        "subheading": "",
-        "show_title": false,
-        "show_content": true,
-        "text_size": 2,
-        "align_text": "text-left",
-        "height": "margin--small",
-        "width": "wrapper",
-        "text_color": "text-dark",
-        "bg_color": "#fff3cf"
-      }
-    },
     "1659865114acde6760": {
       "type": "section-custom-content",
       "blocks": {
@@ -64,6 +50,20 @@
         "wrapper": false
       }
     },
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "subheading": "",
+        "show_title": false,
+        "show_content": true,
+        "text_size": 2,
+        "align_text": "text-left",
+        "height": "margin--small",
+        "width": "wrapper",
+        "text_color": "text-dark",
+        "bg_color": "#fff3cf"
+      }
+    },
     "165986487165635b82": {
       "type": "section-hero",
       "settings": {
@@ -86,8 +86,8 @@
     }
   },
   "order": [
-    "main",
     "1659865114acde6760",
+    "main",
     "165986487165635b82"
   ]
 }

@@ -206,14 +206,14 @@
         "ce3bc24a-47c7-47aa-9b91-99bed15a200f": {
           "type": "collection",
           "settings": {
-            "collection": "geschirrset",
+            "collection": "kruege-keramik-artibloom",
             "title": ""
           }
         },
         "c7ab9fb5-638f-4548-bd8a-a1a72d0e5e5c": {
           "type": "collection",
           "settings": {
-            "collection": "kruege-keramik-artibloom",
+            "collection": "gutschein-keramik-kunst-einrichtungsberatung-artibloom",
             "title": ""
           }
         }

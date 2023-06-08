@@ -32,8 +32,8 @@
             "align_text": "text-left",
             "text_color": "text-light",
             "bg_color": "#ffa384",
-            "button_text": "Erfahre mehr und kontaktiere uns",
-            "button_url": "shopify:\/\/pages\/contact",
+            "button_text": "",
+            "button_url": "",
             "button_color": "btn--primary",
             "button_style": "hero__btn btn btn--input caps"
           }

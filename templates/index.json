@@ -273,11 +273,20 @@
             "position_x": 50,
             "position_y": 50
           }
+        },
+        "20897dd8-c032-41d1-89b0-27f637862a6a": {
+          "type": "product",
+          "settings": {
+            "product": "aveiro-tasse-bunt",
+            "position_x": 80,
+            "position_y": 65
+          }
         }
       },
       "block_order": [
         "template--16179445268748__c9394ccb-8bba-4a88-b66d-335b6e69d66d-16861725877a6a5b66-0",
-        "template--16179445268748__c9394ccb-8bba-4a88-b66d-335b6e69d66d-16861725877a6a5b66-1"
+        "template--16179445268748__c9394ccb-8bba-4a88-b66d-335b6e69d66d-16861725877a6a5b66-1",
+        "20897dd8-c032-41d1-89b0-27f637862a6a"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/IMG_5245_99bbf276-9e9c-4261-b263-cac705fd5588.jpg",

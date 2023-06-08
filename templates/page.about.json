@@ -15,8 +15,8 @@
         "button_style": "caps--large",
         "height": "margin--small",
         "width": "wrapper",
-        "text_color": "text-light",
-        "bg_color": "#ffa384"
+        "text_color": "text-dark",
+        "bg_color": "#fff3cf"
       }
     },
     "1659910112c5d65e7e": {
@@ -148,6 +148,7 @@
     },
     "1659907378c0405772": {
       "type": "section-rich-text",
+      "disabled": true,
       "settings": {
         "subheading": "",
         "title": "",
@@ -159,6 +160,25 @@
         "button_url": "",
         "button_color": "btn--neutral",
         "button_style": "caps--large",
+        "height": "margin--small",
+        "width": "wrapper",
+        "text_color": "text-dark",
+        "bg_color": "#fff3cf"
+      }
+    },
+    "1659911614230ff7a3": {
+      "type": "section-rich-text",
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "text": "<p>Gerne bei Fragen, Anfragen, oder einem kurzen \"Olá\" direkt melden.<\/p>",
+        "text_size": 2,
+        "text_columns": 1,
+        "align_text": "text-left",
+        "button_text": "Klicke hier",
+        "button_url": "shopify:\/\/pages\/contact",
+        "button_color": "btn--primary",
+        "button_style": "hero__btn btn btn--input btn--outline caps",
         "height": "margin--small",
         "width": "wrapper",
         "text_color": "text-dark",
@@ -236,25 +256,6 @@
         "button_color": "btn--white",
         "button_style": "hero__btn btn btn--large btn--outline caps"
       }
-    },
-    "1659911614230ff7a3": {
-      "type": "section-rich-text",
-      "settings": {
-        "subheading": "",
-        "title": "",
-        "text": "<p>Gerne bei Fragen, Anfragen, oder einem kurzen \"Olá\" direkt melden.<\/p>",
-        "text_size": 2,
-        "text_columns": 1,
-        "align_text": "text-left",
-        "button_text": "Klicke hier",
-        "button_url": "shopify:\/\/pages\/contact",
-        "button_color": "btn--primary",
-        "button_style": "hero__btn btn btn--input btn--outline caps",
-        "height": "margin--small",
-        "width": "wrapper",
-        "text_color": "text-dark",
-        "bg_color": "#fff3cf"
-      }
     }
   },
   "order": [
@@ -265,8 +266,8 @@
     "e675b9a0-ec6d-4e22-8915-0286460bd6ea",
     "69fac95f-798a-4670-8802-a2349475c2ea",
     "1659907378c0405772",
+    "1659911614230ff7a3",
     "custom-content-5",
-    "f8f1899b-6244-42c6-be8e-a3d2ef924d43",
-    "1659911614230ff7a3"
+    "f8f1899b-6244-42c6-be8e-a3d2ef924d43"
   ]
 }

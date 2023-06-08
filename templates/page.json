@@ -84,15 +84,14 @@
     },
     "165986487165635b82": {
       "type": "section-hero",
-      "disabled": true,
       "settings": {
-        "image": "shopify:\/\/shop_images\/purple-flowers-by-door.jpg",
-        "mobile_image": "shopify:\/\/shop_images\/purple-flowers-by-door.jpg",
+        "image": "shopify:\/\/shop_images\/waves-crash-under-morning-sun.jpg",
+        "mobile_image": "shopify:\/\/shop_images\/waves-crash-under-morning-sun.jpg",
         "bg_position": "center-center",
         "height": "screen-height-three-quarters",
         "overlay_opacity": 0,
         "overlay_color": "#000000",
-        "title": "HAPPY HOME",
+        "title": "",
         "description": "",
         "flex_align": "align--middle-center",
         "text_color": "text-light",

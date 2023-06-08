@@ -281,17 +281,26 @@
             "position_x": 80,
             "position_y": 65
           }
+        },
+        "8b9aef51-2363-49bc-b0f4-b8feb0c8217a": {
+          "type": "product",
+          "settings": {
+            "product": "teller-love-geschirr-essteller-keramik-artibloom",
+            "position_x": 65,
+            "position_y": 94
+          }
         }
       },
       "block_order": [
         "template--16179445268748__c9394ccb-8bba-4a88-b66d-335b6e69d66d-16861725877a6a5b66-0",
         "template--16179445268748__c9394ccb-8bba-4a88-b66d-335b6e69d66d-16861725877a6a5b66-1",
-        "20897dd8-c032-41d1-89b0-27f637862a6a"
+        "20897dd8-c032-41d1-89b0-27f637862a6a",
+        "8b9aef51-2363-49bc-b0f4-b8feb0c8217a"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/IMG_5245_99bbf276-9e9c-4261-b263-cac705fd5588.jpg",
         "bg_position": "center-center",
-        "title": "Shop the look",
+        "title": "",
         "section_bg": "#ffa384",
         "dot_color": "#ffffb0"
       }

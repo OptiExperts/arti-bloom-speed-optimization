@@ -1,22 +1,5 @@
 {
   "sections": {
-    "7aad0a85-0ada-40e5-b7db-5228e3a248bb": {
-      "type": "section-collection",
-      "disabled": true,
-      "settings": {
-        "heading": "",
-        "description": "",
-        "text_alignment": "center",
-        "link_text": "",
-        "link_url": "",
-        "button_color": "btn--black",
-        "button_style": "hero__btn btn btn--input btn--outline caps",
-        "featured_collection": "deko-artibloom",
-        "grid": 4,
-        "rows": 3,
-        "layout_mobile": "carousel"
-      }
-    },
     "main": {
       "type": "main-page",
       "settings": {
@@ -33,7 +16,6 @@
     },
     "1659865114acde6760": {
       "type": "section-custom-content",
-      "disabled": true,
       "blocks": {
         "1659865113cab37701-0": {
           "type": "image",
@@ -56,18 +38,18 @@
         "1659865113cab37701-1": {
           "type": "text",
           "settings": {
-            "subheading": "Einrichtungsberatung",
-            "title": "KOSTENLOSES ERSTBERATUNGS-GESPRÄCH",
+            "subheading": "Artibloom leistet einen Beitrag",
+            "title": "Zu einer schönen und nachhaltigen Welt",
             "text": "",
             "text_size": 2,
             "text_columns": 1,
             "align_text": "text-left",
-            "text_color": "text-dark",
-            "bg_color": "#ffffff",
-            "button_text": "KLICKE HIER",
+            "text_color": "text-light",
+            "bg_color": "#ffa384",
+            "button_text": "Erfahre mehr und kontaktiere uns",
             "button_url": "shopify:\/\/pages\/contact",
             "button_color": "btn--primary",
-            "button_style": "hero__btn btn btn--large btn--outline caps"
+            "button_style": "hero__btn btn btn--input caps"
           }
         }
       },
@@ -104,7 +86,6 @@
     }
   },
   "order": [
-    "7aad0a85-0ada-40e5-b7db-5228e3a248bb",
     "main",
     "1659865114acde6760",
     "165986487165635b82"

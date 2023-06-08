@@ -237,26 +237,6 @@
         "wrapper": false
       }
     },
-    "f8f1899b-6244-42c6-be8e-a3d2ef924d43": {
-      "type": "section-hero",
-      "settings": {
-        "image": "shopify:\/\/shop_images\/waves-crash-under-morning-sun.jpg",
-        "mobile_image": "shopify:\/\/shop_images\/waves-crash-under-morning-sun.jpg",
-        "bg_position": "center-center",
-        "height": "five-fifty-height-hero",
-        "overlay_opacity": 0,
-        "overlay_color": "#000000",
-        "title": "",
-        "description": "",
-        "flex_align": "align--middle-center",
-        "text_color": "text-light",
-        "transparent": true,
-        "link_text": "",
-        "link": "",
-        "button_color": "btn--white",
-        "button_style": "hero__btn btn btn--large btn--outline caps"
-      }
-    },
     "842da58b-3078-43f5-8d0c-3dbe8e799789": {
       "type": "section-custom-content",
       "blocks": {
@@ -264,7 +244,7 @@
           "type": "image",
           "settings": {
             "image": "shopify:\/\/shop_images\/82A2CD1F-ACC5-450E-972E-EAD27B56DA4C.jpg",
-            "bg_position": "center-center",
+            "bg_position": "right-center",
             "overlay_opacity": 0,
             "overlay_color": "#000",
             "title": "",
@@ -306,6 +286,26 @@
         "borders": false,
         "wrapper": false
       }
+    },
+    "f8f1899b-6244-42c6-be8e-a3d2ef924d43": {
+      "type": "section-hero",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/waves-crash-under-morning-sun.jpg",
+        "mobile_image": "shopify:\/\/shop_images\/waves-crash-under-morning-sun.jpg",
+        "bg_position": "center-center",
+        "height": "five-fifty-height-hero",
+        "overlay_opacity": 0,
+        "overlay_color": "#000000",
+        "title": "",
+        "description": "",
+        "flex_align": "align--middle-center",
+        "text_color": "text-light",
+        "transparent": true,
+        "link_text": "",
+        "link": "",
+        "button_color": "btn--white",
+        "button_style": "hero__btn btn btn--large btn--outline caps"
+      }
     }
   },
   "order": [
@@ -318,7 +318,7 @@
     "69fac95f-798a-4670-8802-a2349475c2ea",
     "1659907378c0405772",
     "custom-content-5",
-    "f8f1899b-6244-42c6-be8e-a3d2ef924d43",
-    "842da58b-3078-43f5-8d0c-3dbe8e799789"
+    "842da58b-3078-43f5-8d0c-3dbe8e799789",
+    "f8f1899b-6244-42c6-be8e-a3d2ef924d43"
   ]
 }

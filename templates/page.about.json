@@ -85,6 +85,56 @@
         "bg_color": "#ffffff"
       }
     },
+    "842da58b-3078-43f5-8d0c-3dbe8e799789": {
+      "type": "section-custom-content",
+      "blocks": {
+        "template--16179448185100__842da58b-3078-43f5-8d0c-3dbe8e799789-1686210826593a475e-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/82A2CD1F-ACC5-450E-972E-EAD27B56DA4C.jpg",
+            "bg_position": "center-top",
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "title": "",
+            "description": "",
+            "flex_align": "align--middle-center",
+            "text_color": "text-light",
+            "transparent": true,
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        },
+        "template--16179448185100__842da58b-3078-43f5-8d0c-3dbe8e799789-1686210826593a475e-1": {
+          "type": "text",
+          "settings": {
+            "subheading": "",
+            "title": "Wer steckt dahinter?",
+            "text": "<p>Olá, ich bin Lara und freue mich riesig, dass du Artibloom entdeckst.<br\/><br\/>Artibloom vereint meine absoluten Leidenschaften. Durch sonnige Keramik und Kunst werden Räume erhellt und zum strahlen gebracht. <\/p><p>Auf meiner Weltreise haben mich zahlreiche sonnige Orte und Menschen inspiriert und ich konnte die Handwerkskunst und Einrichtungsstile verschiedener Länder bewundern. Genau das bringe ich jetzt, aus Düsseldorf heraus, bei Artibloom ein. Hierbei verkörpert vor allem der mediterrane Raum durch die Kulturen, Sonnenstunden, das Freiheitsgefühl und die Natur den Artibloom Spirit.<\/p><p><br\/>🍶 KERAMIK<br\/>Nach einigen Töpferkursen mache ich kleine Dekoartikel selber und wähle die sonnige Artibloom Keramik in Portugal und Spanien aus. Dabei achte ich auf die Harmonie, Natürlichkeit und Besonderheit der Kollektion.<br\/><br\/>🎨KUNST<br\/>Ich liebe es zu malen und dabei Zeit und Raum verschmelzen zu lassen. Inspiriert von der Natur, schönen Reisemomenten und Gefühlen. Kunst kann Räume verändern und ich hoffe du findest Inspiration in der Kunst wunderbarer Künstlerinnen aus Europa und meinen abstrakten Bildern.<br\/><br\/>⛱EINRICHTUNGSBERATUNG<br\/>Ganz nach dem Motto \"Lass die Sonne rein\" gehe ich seit meinem Interior Design Studium auch bei der individuellen Einrichtungsberatung vor und schaffe eine helle Wohlfühlatmosphäre in Räumen.<br\/><br\/>Ich freue mich sehr, dass DU hier bist🫶🏼<br\/><br\/>Happy sunny 2023,<br\/>Lara von Artibloom<\/p>",
+            "text_size": 2,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "text_color": "text-light",
+            "bg_color": "#ffa384",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        }
+      },
+      "block_order": [
+        "template--16179448185100__842da58b-3078-43f5-8d0c-3dbe8e799789-1686210826593a475e-0",
+        "template--16179448185100__842da58b-3078-43f5-8d0c-3dbe8e799789-1686210826593a475e-1"
+      ],
+      "settings": {
+        "height": "screen-height-one-half",
+        "padding": false,
+        "borders": false,
+        "wrapper": false
+      }
+    },
     "ae874836-00c9-4d85-8703-7802b132fdd7": {
       "type": "section-hero",
       "disabled": true,
@@ -237,56 +287,6 @@
         "wrapper": false
       }
     },
-    "842da58b-3078-43f5-8d0c-3dbe8e799789": {
-      "type": "section-custom-content",
-      "blocks": {
-        "template--16179448185100__842da58b-3078-43f5-8d0c-3dbe8e799789-1686210826593a475e-0": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/82A2CD1F-ACC5-450E-972E-EAD27B56DA4C.jpg",
-            "bg_position": "center-top",
-            "overlay_opacity": 0,
-            "overlay_color": "#000000",
-            "title": "",
-            "description": "",
-            "flex_align": "align--middle-center",
-            "text_color": "text-light",
-            "transparent": true,
-            "link_text": "",
-            "link": "",
-            "button_color": "btn--white",
-            "button_style": "hero__btn btn btn--large btn--outline caps"
-          }
-        },
-        "template--16179448185100__842da58b-3078-43f5-8d0c-3dbe8e799789-1686210826593a475e-1": {
-          "type": "text",
-          "settings": {
-            "subheading": "",
-            "title": "Wer steckt dahinter?",
-            "text": "<p>Olá, ich bin Lara und freue mich riesig, dass du Artibloom entdeckst.<br\/><br\/>Artibloom vereint meine absoluten Leidenschaften. Durch sonnige Keramik und Kunst werden Räume erhellt und zum strahlen gebracht. <\/p><p>Auf meiner Weltreise haben mich zahlreiche sonnige Orte und Menschen inspiriert und ich konnte die Handwerkskunst und Einrichtungsstile verschiedener Länder bewundern. Genau das bringe ich jetzt, aus Düsseldorf heraus, bei Artibloom ein. Hierbei verkörpert vor allem der mediterrane Raum durch die Kulturen, Sonnenstunden, das Freiheitsgefühl und die Natur den Artibloom Spirit.<\/p><p><br\/>🍶 KERAMIK<br\/>Nach einigen Töpferkursen mache ich kleine Dekoartikel selber und wähle die sonnige Artibloom Keramik in Portugal und Spanien aus. Dabei achte ich auf die Harmonie, Natürlichkeit und Besonderheit der Kollektion.<br\/><br\/>🎨KUNST<br\/>Ich liebe es zu malen und dabei Zeit und Raum verschmelzen zu lassen. Inspiriert von der Natur, schönen Reisemomenten und Gefühlen. Kunst kann Räume verändern und ich hoffe du findest Inspiration in der Kunst wunderbarer Künstlerinnen aus Europa und meinen abstrakten Bildern.<br\/><br\/>⛱EINRICHTUNGSBERATUNG<br\/>Ganz nach dem Motto \"Lass die Sonne rein\" gehe ich seit meinem Interior Design Studium auch bei der individuellen Einrichtungsberatung vor und schaffe eine helle Wohlfühlatmosphäre in Räumen.<br\/><br\/>Ich freue mich sehr, dass DU hier bist🫶🏼<br\/><br\/>Happy sunny 2023,<br\/>Lara von Artibloom<\/p>",
-            "text_size": 2,
-            "text_columns": 1,
-            "align_text": "text-left",
-            "text_color": "text-light",
-            "bg_color": "#ffa384",
-            "button_text": "",
-            "button_url": "",
-            "button_color": "btn--neutral",
-            "button_style": "hero__btn btn btn--large btn--outline caps"
-          }
-        }
-      },
-      "block_order": [
-        "template--16179448185100__842da58b-3078-43f5-8d0c-3dbe8e799789-1686210826593a475e-0",
-        "template--16179448185100__842da58b-3078-43f5-8d0c-3dbe8e799789-1686210826593a475e-1"
-      ],
-      "settings": {
-        "height": "screen-height-one-half",
-        "padding": false,
-        "borders": false,
-        "wrapper": false
-      }
-    },
     "f8f1899b-6244-42c6-be8e-a3d2ef924d43": {
       "type": "section-hero",
       "settings": {
@@ -312,13 +312,13 @@
     "16634432317deba17b",
     "1659910112c5d65e7e",
     "main",
+    "842da58b-3078-43f5-8d0c-3dbe8e799789",
     "ae874836-00c9-4d85-8703-7802b132fdd7",
     "e675b9a0-ec6d-4e22-8915-0286460bd6ea",
     "1659911614230ff7a3",
     "69fac95f-798a-4670-8802-a2349475c2ea",
     "1659907378c0405772",
     "custom-content-5",
-    "842da58b-3078-43f5-8d0c-3dbe8e799789",
     "f8f1899b-6244-42c6-be8e-a3d2ef924d43"
   ]
 }

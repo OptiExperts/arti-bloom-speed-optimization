@@ -233,7 +233,7 @@
         "description": "",
         "layout": "grid",
         "aspect_ratio": 0.9,
-        "enable_slider": false
+        "enable_slider": true
       }
     },
     "4645ce5c-645b-4771-bd12-5eb6a69e10ab": {

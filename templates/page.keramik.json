@@ -3,32 +3,11 @@
     "166344342708f1a824": {
       "type": "section-collections-list",
       "blocks": {
-        "3a93db8f-7c6d-4807-bf6e-91b53436ff43": {
-          "type": "collection",
-          "settings": {
-            "collection": "vasen-keramik-artibloom",
-            "title": ""
-          }
-        },
         "16634434277732ae9a-3": {
           "type": "collection",
           "settings": {
             "collection": "servierschalen-gross-keramik-artibloom",
             "title": "Große Schalen"
-          }
-        },
-        "16634434277732ae9a-1": {
-          "type": "collection",
-          "settings": {
-            "collection": "servierplatten-keramik-artibloom",
-            "title": ""
-          }
-        },
-        "16634434277732ae9a-0": {
-          "type": "collection",
-          "settings": {
-            "collection": "teller-keramik-artibloom",
-            "title": ""
           }
         },
         "16634434277732ae9a-2": {
@@ -45,11 +24,32 @@
             "title": ""
           }
         },
+        "16634434277732ae9a-0": {
+          "type": "collection",
+          "settings": {
+            "collection": "teller-keramik-artibloom",
+            "title": ""
+          }
+        },
+        "16634434277732ae9a-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "servierplatten-keramik-artibloom",
+            "title": ""
+          }
+        },
         "789a216f-8835-4ce8-96ed-0f2b8068160a": {
           "type": "collection",
           "settings": {
             "collection": "kruege-keramik-artibloom",
             "title": "Krüge & Karaffen"
+          }
+        },
+        "3a93db8f-7c6d-4807-bf6e-91b53436ff43": {
+          "type": "collection",
+          "settings": {
+            "collection": "vasen-keramik-artibloom",
+            "title": ""
           }
         },
         "76c86596-8dd2-4e7e-b40c-a4741800efc4": {
@@ -61,13 +61,13 @@
         }
       },
       "block_order": [
-        "3a93db8f-7c6d-4807-bf6e-91b53436ff43",
         "16634434277732ae9a-3",
-        "16634434277732ae9a-1",
-        "16634434277732ae9a-0",
         "16634434277732ae9a-2",
         "82594349-546f-4420-be0c-1531f09af0f7",
+        "16634434277732ae9a-0",
+        "16634434277732ae9a-1",
         "789a216f-8835-4ce8-96ed-0f2b8068160a",
+        "3a93db8f-7c6d-4807-bf6e-91b53436ff43",
         "76c86596-8dd2-4e7e-b40c-a4741800efc4"
       ],
       "settings": {

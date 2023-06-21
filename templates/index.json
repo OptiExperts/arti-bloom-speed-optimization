@@ -338,7 +338,7 @@
         "overlay_opacity": 0,
         "overlay_color": "#000000",
         "title": "SONNIGE KUNST",
-        "description": "In Deutschland gemalt",
+        "description": "",
         "flex_align": "align--middle-center",
         "text_color": "text-light",
         "transparent": true,

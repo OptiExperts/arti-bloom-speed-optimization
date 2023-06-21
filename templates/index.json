@@ -6,17 +6,17 @@
         "template--16179445268748__758c2e31-4b04-4178-83d4-87c08c3515f7-168596412318a0652d-0": {
           "type": "image",
           "settings": {
-            "bg_position": "left-center",
-            "image": "shopify:\/\/shop_images\/IMG_5310.jpg",
+            "bg_position": "center-bottom",
+            "image": "shopify:\/\/shop_images\/IMG_4461.jpg",
             "mobile_image": "shopify:\/\/shop_images\/IMG_5310.jpg",
             "overlay_opacity": 0,
             "overlay_color": "#ffffb0",
             "title": "SONNE FÜR DICH UND DEIN ZUHAUSE",
-            "description": "Handgemachte Keramik aus Spanien & Portugal",
-            "flex_align": "align--middle-center",
+            "description": "",
+            "flex_align": "align--top-right",
             "text_color": "text-light",
             "transparent": true,
-            "link_text": "Jetzt entdecken",
+            "link_text": "Jetzt handgemachte Keramik entdecken",
             "link": "shopify:\/\/pages\/keramik",
             "button_color": "btn--primary",
             "button_style": "hero__btn btn btn--input caps"

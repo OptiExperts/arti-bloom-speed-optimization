@@ -26,17 +26,17 @@
           "type": "image",
           "settings": {
             "bg_position": "left-center",
-            "image": "shopify:\/\/shop_images\/IMG_4008.jpg",
+            "image": "shopify:\/\/shop_images\/artibloom_depeapa_Kunstdruck_Kunst_Wandbild_Wanddekor_depeapa_illustration_wallart_WandbildWanddekorKunstdruckArtPrint_FineArtstill_life_I_6d9df4ac-00a8-4b8f-80d6-9086aa97cc5f.jpg",
             "mobile_image": "shopify:\/\/shop_images\/IMG_4008.jpg",
             "overlay_opacity": 0,
             "overlay_color": "#000000",
             "title": "SONNE FÜR DICH UND DEIN ZUHAUSE",
-            "description": "Handgemachte Keramik aus Spanien & Portugal",
+            "description": "",
             "flex_align": "align--middle-center",
             "text_color": "text-light",
             "transparent": true,
-            "link_text": "Jetzt entdecken",
-            "link": "shopify:\/\/pages\/keramik",
+            "link_text": "Jetzt Kunst entdecken",
+            "link": "shopify:\/\/pages\/kunst",
             "button_color": "btn--primary",
             "button_style": "hero__btn btn btn--input caps"
           }

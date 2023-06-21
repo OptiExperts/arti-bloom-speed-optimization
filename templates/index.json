@@ -339,7 +339,7 @@
         "overlay_color": "#000000",
         "title": "SONNIGE KUNST",
         "description": "",
-        "flex_align": "align--middle-center",
+        "flex_align": "align--middle-right",
         "text_color": "text-light",
         "transparent": true,
         "link_text": "Jetzt entdecken",

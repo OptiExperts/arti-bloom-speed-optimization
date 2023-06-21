@@ -121,6 +121,20 @@
     "1664792203283870e0": {
       "type": "section-collections-list",
       "blocks": {
+        "133a0170-c918-4f21-922e-dc1382001a3a": {
+          "type": "collection",
+          "settings": {
+            "collection": "servierschalen-gross-keramik-artibloom",
+            "title": "Große Schalen"
+          }
+        },
+        "16647922033dcf531c-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "servierschalen-keramik-artibloom",
+            "title": "Bowls"
+          }
+        },
         "16647922033dcf531c-2": {
           "type": "collection",
           "settings": {
@@ -135,13 +149,6 @@
             "title": ""
           }
         },
-        "133a0170-c918-4f21-922e-dc1382001a3a": {
-          "type": "collection",
-          "settings": {
-            "collection": "servierschalen-gross-keramik-artibloom",
-            "title": "Große Schalen"
-          }
-        },
         "172b51d4-403f-4ec1-9653-6f75233d273a": {
           "type": "collection",
           "settings": {
@@ -149,24 +156,17 @@
             "title": "Servierplatten"
           }
         },
-        "16647922033dcf531c-1": {
+        "ce3bc24a-47c7-47aa-9b91-99bed15a200f": {
           "type": "collection",
           "settings": {
-            "collection": "servierschalen-keramik-artibloom",
-            "title": "Bowls"
+            "collection": "kruege-keramik-artibloom",
+            "title": ""
           }
         },
         "3a7fb76d-80dc-45cf-ab6b-3c6252e0dd9a": {
           "type": "collection",
           "settings": {
             "collection": "vasen-keramik-artibloom",
-            "title": ""
-          }
-        },
-        "ce3bc24a-47c7-47aa-9b91-99bed15a200f": {
-          "type": "collection",
-          "settings": {
-            "collection": "kruege-keramik-artibloom",
             "title": ""
           }
         },
@@ -179,13 +179,13 @@
         }
       },
       "block_order": [
+        "133a0170-c918-4f21-922e-dc1382001a3a",
+        "16647922033dcf531c-1",
         "16647922033dcf531c-2",
         "16647922033dcf531c-0",
-        "133a0170-c918-4f21-922e-dc1382001a3a",
         "172b51d4-403f-4ec1-9653-6f75233d273a",
-        "16647922033dcf531c-1",
-        "3a7fb76d-80dc-45cf-ab6b-3c6252e0dd9a",
         "ce3bc24a-47c7-47aa-9b91-99bed15a200f",
+        "3a7fb76d-80dc-45cf-ab6b-3c6252e0dd9a",
         "c7ab9fb5-638f-4548-bd8a-a1a72d0e5e5c"
       ],
       "settings": {

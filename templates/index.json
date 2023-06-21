@@ -452,6 +452,46 @@
       "settings": {
         "include_margins": false
       }
+    },
+    "8dfa201a-a2a4-4b84-9127-03bf07807e42": {
+      "type": "text-promo",
+      "blocks": {
+        "template--16179445268748__8dfa201a-a2a4-4b84-9127-03bf07807e42-16873852602f8bd76a-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Hol dir Sonne ins Haus"
+          }
+        },
+        "template--16179445268748__8dfa201a-a2a4-4b84-9127-03bf07807e42-16873852602f8bd76a-1": {
+          "type": "text",
+          "settings": {
+            "content": "Kostenloser Versand ab 75 EUR mit dem Code Summer"
+          }
+        },
+        "template--16179445268748__8dfa201a-a2a4-4b84-9127-03bf07807e42-16873852602f8bd76a-2": {
+          "type": "button",
+          "settings": {
+            "button_text": "Shop now",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "caps--large"
+          }
+        }
+      },
+      "block_order": [
+        "template--16179445268748__8dfa201a-a2a4-4b84-9127-03bf07807e42-16873852602f8bd76a-0",
+        "template--16179445268748__8dfa201a-a2a4-4b84-9127-03bf07807e42-16873852602f8bd76a-1",
+        "template--16179445268748__8dfa201a-a2a4-4b84-9127-03bf07807e42-16873852602f8bd76a-2"
+      ],
+      "settings": {
+        "border": true,
+        "bg_color": "#ffa384",
+        "text_color": "text-light",
+        "width": "",
+        "bg_position": "center-center",
+        "overlay_opacity": 0,
+        "overlay_color": "#ffffff"
+      }
     }
   },
   "order": [
@@ -466,6 +506,7 @@
     "1671439456a7175f2a",
     "166076845484879d57",
     "1684411337705e9d6a",
-    "1665172311a35fcb8a"
+    "1665172311a35fcb8a",
+    "8dfa201a-a2a4-4b84-9127-03bf07807e42"
   ]
 }

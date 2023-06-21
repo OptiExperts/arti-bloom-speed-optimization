@@ -257,6 +257,7 @@
     },
     "c9394ccb-8bba-4a88-b66d-335b6e69d66d": {
       "type": "section-look",
+      "disabled": true,
       "blocks": {
         "template--16179445268748__c9394ccb-8bba-4a88-b66d-335b6e69d66d-16861725877a6a5b66-0": {
           "type": "product",
@@ -316,6 +317,7 @@
     },
     "bd277aa5-1ef7-4961-b30f-45077f802580": {
       "type": "section-product",
+      "disabled": true,
       "blocks": {
         "template--16179445268748__bd277aa5-1ef7-4961-b30f-45077f802580-1686175466a40f08e0-0": {
           "type": "price_and_title",

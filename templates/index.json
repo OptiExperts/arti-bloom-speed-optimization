@@ -40,51 +40,11 @@
             "button_color": "btn--primary",
             "button_style": "hero__btn btn btn--input caps"
           }
-        },
-        "template--16179445268748__758c2e31-4b04-4178-83d4-87c08c3515f7-168596412318a0652d-1": {
-          "type": "image",
-          "settings": {
-            "bg_position": "center-bottom",
-            "image": "shopify:\/\/shop_images\/IMG_4173.jpg",
-            "mobile_image": "shopify:\/\/shop_images\/IMG_4173.jpg",
-            "overlay_opacity": 0,
-            "overlay_color": "#000000",
-            "title": "SONNE FÜR DICH UND DEIN ZUHAUSE",
-            "description": "Handgemachte Keramik aus Spanien & Portugal",
-            "flex_align": "align--middle-center",
-            "text_color": "text-light",
-            "transparent": true,
-            "link_text": "Jetzt entdecken",
-            "link": "shopify:\/\/pages\/tassen",
-            "button_color": "btn--primary",
-            "button_style": "hero__btn btn btn--input caps"
-          }
-        },
-        "d66e285f-140c-4490-bfba-51c7af518fbc": {
-          "type": "image",
-          "settings": {
-            "bg_position": "right-center",
-            "image": "shopify:\/\/shop_images\/IMG_4434_jpg.jpg",
-            "mobile_image": "shopify:\/\/shop_images\/IMG_4434_jpg.jpg",
-            "overlay_opacity": 0,
-            "overlay_color": "#000000",
-            "title": "SONNE FÜR DICH UND DEIN ZUHAUSE",
-            "description": "Handgemachte Keramik aus Spanien & Portugal",
-            "flex_align": "align--middle-center",
-            "text_color": "text-light",
-            "transparent": true,
-            "link_text": "Jetzt entdecken",
-            "link": "shopify:\/\/pages\/servierschalen-gross",
-            "button_color": "btn--primary",
-            "button_style": "hero__btn btn btn--input caps"
-          }
         }
       },
       "block_order": [
         "template--16179445268748__758c2e31-4b04-4178-83d4-87c08c3515f7-168596412318a0652d-0",
-        "7861cbc2-f6ac-4475-98e7-b84021edf33e",
-        "template--16179445268748__758c2e31-4b04-4178-83d4-87c08c3515f7-168596412318a0652d-1",
-        "d66e285f-140c-4490-bfba-51c7af518fbc"
+        "7861cbc2-f6ac-4475-98e7-b84021edf33e"
       ],
       "settings": {
         "height": "screen-height-two-thirds",

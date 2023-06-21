@@ -348,20 +348,18 @@
         "button_style": "hero__btn btn btn--input caps"
       }
     },
-    "1665172311a35fcb8a": {
+    "1671439456a7175f2a": {
       "type": "apps",
       "blocks": {
-        "604ef3f3-c341-4ee6-b1a9-55efb970831a": {
-          "type": "shopify:\/\/apps\/instafeed-instagram-feed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5",
+        "533ade7a-8812-4775-931a-81211ffcf742": {
+          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/featured_carousel\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
           "settings": {
-            "heading_size": 23,
-            "feed_width": 100,
-            "html_area": ""
+            "maxwidth": 1080
           }
         }
       },
       "block_order": [
-        "604ef3f3-c341-4ee6-b1a9-55efb970831a"
+        "533ade7a-8812-4775-931a-81211ffcf742"
       ],
       "settings": {
         "include_margins": false
@@ -436,18 +434,20 @@
         "include_margins": false
       }
     },
-    "1671439456a7175f2a": {
+    "1665172311a35fcb8a": {
       "type": "apps",
       "blocks": {
-        "533ade7a-8812-4775-931a-81211ffcf742": {
-          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/featured_carousel\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+        "604ef3f3-c341-4ee6-b1a9-55efb970831a": {
+          "type": "shopify:\/\/apps\/instafeed-instagram-feed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5",
           "settings": {
-            "maxwidth": 1080
+            "heading_size": 23,
+            "feed_width": 100,
+            "html_area": ""
           }
         }
       },
       "block_order": [
-        "533ade7a-8812-4775-931a-81211ffcf742"
+        "604ef3f3-c341-4ee6-b1a9-55efb970831a"
       ],
       "settings": {
         "include_margins": false
@@ -463,9 +463,9 @@
     "c9394ccb-8bba-4a88-b66d-335b6e69d66d",
     "bd277aa5-1ef7-4961-b30f-45077f802580",
     "16596338637d51486d",
-    "1665172311a35fcb8a",
+    "1671439456a7175f2a",
     "166076845484879d57",
     "1684411337705e9d6a",
-    "1671439456a7175f2a"
+    "1665172311a35fcb8a"
   ]
 }

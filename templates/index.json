@@ -472,9 +472,9 @@
           "type": "button",
           "settings": {
             "button_text": "Shop now",
-            "button_url": "",
-            "button_color": "btn--neutral",
-            "button_style": "caps--large"
+            "button_url": "shopify:\/\/pages\/keramik",
+            "button_color": "btn--primary",
+            "button_style": "hero__btn btn btn--input caps"
           }
         }
       },

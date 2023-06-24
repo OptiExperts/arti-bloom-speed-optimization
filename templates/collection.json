@@ -126,7 +126,6 @@
     },
     "main": {
       "type": "collection",
-      "disabled": true,
       "settings": {
         "enable_sort": true,
         "enable_filters": true,
@@ -138,6 +137,7 @@
     },
     "7457bd7e-0f3d-4a13-adc6-836d2b645418": {
       "type": "section-product",
+      "disabled": true,
       "blocks": {
         "template--16179445629196__7457bd7e-0f3d-4a13-adc6-836d2b645418-16802136118241a50c-0": {
           "type": "price_and_title",

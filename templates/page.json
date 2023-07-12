@@ -2,7 +2,6 @@
   "sections": {
     "1659865114acde6760": {
       "type": "section-custom-content",
-      "disabled": true,
       "blocks": {
         "1659865113cab37701-0": {
           "type": "image",
@@ -53,7 +52,6 @@
     },
     "main": {
       "type": "main-page",
-      "disabled": true,
       "settings": {
         "subheading": "",
         "show_title": false,
@@ -68,7 +66,6 @@
     },
     "165986487165635b82": {
       "type": "section-hero",
-      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/waves-crash-under-morning-sun.jpg",
         "mobile_image": "shopify:\/\/shop_images\/waves-crash-under-morning-sun.jpg",
@@ -89,6 +86,7 @@
     },
     "73580c7f-beb6-4ecf-aa66-ceabaa3090e2": {
       "type": "section-collection-carousel",
+      "disabled": true,
       "settings": {
         "heading": "",
         "description": "",

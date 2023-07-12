@@ -2,6 +2,7 @@
   "sections": {
     "1659865114acde6760": {
       "type": "section-custom-content",
+      "disabled": true,
       "blocks": {
         "1659865113cab37701-0": {
           "type": "image",
@@ -52,6 +53,7 @@
     },
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "subheading": "",
         "show_title": false,
@@ -66,6 +68,7 @@
     },
     "165986487165635b82": {
       "type": "section-hero",
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/waves-crash-under-morning-sun.jpg",
         "mobile_image": "shopify:\/\/shop_images\/waves-crash-under-morning-sun.jpg",
@@ -83,11 +86,25 @@
         "button_color": "btn--white",
         "button_style": "hero__btn btn btn--large btn--outline caps"
       }
+    },
+    "73580c7f-beb6-4ecf-aa66-ceabaa3090e2": {
+      "type": "section-collection-carousel",
+      "settings": {
+        "heading": "",
+        "description": "",
+        "text_alignment": "inline",
+        "link_text": "Shop All",
+        "link_url": "shopify:\/\/collections\/ofenform",
+        "button_color": "btn--black",
+        "button_style": "hero__btn btn btn--input btn--outline caps",
+        "featured_collection": "ofenform"
+      }
     }
   },
   "order": [
     "1659865114acde6760",
     "main",
-    "165986487165635b82"
+    "165986487165635b82",
+    "73580c7f-beb6-4ecf-aa66-ceabaa3090e2"
   ]
 }

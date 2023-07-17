@@ -331,15 +331,15 @@
     "16596338637d51486d": {
       "type": "section-hero",
       "settings": {
-        "image": "shopify:\/\/shop_images\/41A4782E-7E98-477B-8D3E-AF842490409C.jpg",
-        "mobile_image": "shopify:\/\/shop_images\/41A4782E-7E98-477B-8D3E-AF842490409C.jpg",
+        "image": "shopify:\/\/shop_images\/artibloom_depeapa_Kunstdruck_Kunst_Wandbild_Wanddekor_depeapa_illustration_wallart_WandbildWanddekorKunstdruckArtPrint_FineArtstill_life_I_1a2d38e5-41ac-48cd-b71e-8da053d32177.jpg",
+        "mobile_image": "shopify:\/\/shop_images\/artibloom_depeapa_Kunstdruck_Kunst_Wandbild_Wanddekor_depeapa_illustration_wallart_WandbildWanddekorKunstdruckArtPrint_FineArtstill_life_I_1a2d38e5-41ac-48cd-b71e-8da053d32177.jpg",
         "bg_position": "center-center",
         "height": "screen-height-two-thirds",
         "overlay_opacity": 0,
         "overlay_color": "#000000",
         "title": "SONNIGE KUNST",
         "description": "",
-        "flex_align": "align--middle-right",
+        "flex_align": "align--middle-center",
         "text_color": "text-light",
         "transparent": true,
         "link_text": "Jetzt entdecken",

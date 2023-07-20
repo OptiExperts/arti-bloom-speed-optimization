@@ -492,6 +492,22 @@
         "overlay_opacity": 0,
         "overlay_color": "#ffffff"
       }
+    },
+    "2330aac2-fef2-4b9b-9ff8-0abf1b4c39bc": {
+      "type": "section-collection",
+      "settings": {
+        "heading": "",
+        "description": "",
+        "text_alignment": "center",
+        "link_text": "",
+        "link_url": "shopify:\/\/collections\/kunst-artibloom",
+        "button_color": "btn--black",
+        "button_style": "hero__btn btn btn--input btn--outline caps",
+        "featured_collection": "kunst-artibloom",
+        "grid": 4,
+        "rows": 2,
+        "layout_mobile": "carousel"
+      }
     }
   },
   "order": [
@@ -507,6 +523,7 @@
     "166076845484879d57",
     "1684411337705e9d6a",
     "1665172311a35fcb8a",
-    "8dfa201a-a2a4-4b84-9127-03bf07807e42"
+    "8dfa201a-a2a4-4b84-9127-03bf07807e42",
+    "2330aac2-fef2-4b9b-9ff8-0abf1b4c39bc"
   ]
 }

@@ -23,7 +23,7 @@ data-auto-install='{% if auto_install != nil %}{{ auto_install }}{% else %}false
 <div class='jdgm-widget jdgm-all-reviews-text' data-from-snippet='{% if concierge_install != nil  %}{{ concierge_install }}{% else %}true{% endif %}' >
   <a href="javascript:void(0)">
     <span class='jdgm-all-reviews-text__text' data-score="{{ shop.metafields.judgeme.all_reviews_rating }}" data-number-of-reviews="{{ shop.metafields.judgeme.all_reviews_count }}" data-locale="de">
-      Kunden bewerten uns {{ shop.metafields.judgeme.all_reviews_rating | round: 1 }}/5 basierend auf {{ shop.metafields.judgeme.all_reviews_count }} Bewertungen.
+      Kunden bewerten uns {{ shop.metafields.judgeme.all_reviews_rating | round: 1 }}/5 anhand von {{ shop.metafields.judgeme.all_reviews_count }} Bewertungen.
     </span>
   </a>
 </div>

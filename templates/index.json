@@ -388,17 +388,19 @@
           "type": "image",
           "settings": {
             "bg_position": "center-center",
+            "image": "shopify:\/\/shop_images\/no_change98.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/no_change98.jpg",
             "overlay_opacity": 0,
             "overlay_color": "#000",
-            "title": "Image slide",
-            "description": "Tell your brand's story through images.",
+            "title": "Kunstwerke aus Ton.",
+            "description": "",
             "flex_align": "align--middle-center",
             "text_color": "text-light",
             "transparent": true,
-            "link_text": "View products",
-            "link": "",
+            "link_text": "Entdecke mehr.",
+            "link": "shopify:\/\/pages\/keramik",
             "button_color": "btn--white",
-            "button_style": "hero__btn btn btn--large btn--outline caps"
+            "button_style": "hero__btn btn btn--input btn--outline caps"
           }
         }
       },

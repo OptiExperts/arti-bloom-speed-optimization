@@ -102,9 +102,8 @@
         "blocks": {
           "9ebeae19-bbad-4d54-8f9d-107faa2485e4": {
             "type": "text",
-            "disabled": true,
             "settings": {
-              "text": "<p>🍃 Klimaneutraler Versand 🌼 <em>Kostenloser Versand innerhalb DE mit dem Code SUMMER <\/em> <\/p>",
+              "text": "<p>🍃 Klimaneutraler Versand 🌼 <em>Kostenloser Versand innerhalb DE mit dem Code HAPPY<\/em><\/p>",
               "target_url_enabled": false,
               "target_url": "",
               "target_referrer_enabled": false,

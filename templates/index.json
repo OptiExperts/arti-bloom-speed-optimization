@@ -395,24 +395,15 @@
             "position_x": 35,
             "position_y": 15
           }
-        },
-        "template--16179445268748__ecd72cdc-1984-41e4-a691-c1be23ad7571-product-2": {
-          "type": "product",
-          "settings": {
-            "product": "",
-            "position_x": 50,
-            "position_y": 50
-          }
         }
       },
       "block_order": [
-        "template--16179445268748__ecd72cdc-1984-41e4-a691-c1be23ad7571-product-1",
-        "template--16179445268748__ecd72cdc-1984-41e4-a691-c1be23ad7571-product-2"
+        "template--16179445268748__ecd72cdc-1984-41e4-a691-c1be23ad7571-product-1"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/IMG_7496.heic",
         "bg_position": "center-center",
-        "title": "Shop the look",
+        "title": "",
         "section_bg": "#fafafa",
         "dot_color": "#FFFFFF"
       }

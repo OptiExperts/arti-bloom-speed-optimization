@@ -148,7 +148,7 @@
         "title": "",
         "description": "",
         "layout": "grid",
-        "aspect_ratio": 1,
+        "aspect_ratio": 0.7,
         "enable_slider": false
       }
     },
@@ -181,7 +181,7 @@
             "image": "shopify:\/\/shop_images\/no_change31.jpg",
             "mobile_image": "shopify:\/\/shop_images\/no_change31.jpg",
             "overlay_opacity": 0,
-            "overlay_color": "#000",
+            "overlay_color": "#000000",
             "title": "Handwerkskunst.",
             "description": "Voller Detailliebe, mediterranem Flair & Sommergefühl.",
             "flex_align": "align--middle-center",
@@ -200,7 +200,7 @@
             "image": "shopify:\/\/shop_images\/no_change98.jpg",
             "mobile_image": "shopify:\/\/shop_images\/no_change98.jpg",
             "overlay_opacity": 0,
-            "overlay_color": "#000",
+            "overlay_color": "#000000",
             "title": "Kunstwerke aus Ton.",
             "description": "",
             "flex_align": "align--middle-center",

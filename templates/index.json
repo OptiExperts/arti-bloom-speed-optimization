@@ -50,7 +50,7 @@
         "height": "screen-height-two-thirds",
         "transition": "fade",
         "arrows_style": false,
-        "dots_style": "circle",
+        "dots_style": "hidden",
         "autoplay": true,
         "autoplay_speed": 6
       }

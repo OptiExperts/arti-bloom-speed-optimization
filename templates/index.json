@@ -326,7 +326,7 @@
         "button_color": "btn--black",
         "button_style": "hero__btn btn btn--input btn--outline caps",
         "featured_collection": "kunst-artibloom",
-        "grid": 3,
+        "grid": 4,
         "rows": 2,
         "layout_mobile": "2"
       }

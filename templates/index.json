@@ -273,58 +273,6 @@
         "dot_color": "#ffffb0"
       }
     },
-    "bd277aa5-1ef7-4961-b30f-45077f802580": {
-      "type": "section-product",
-      "blocks": {
-        "template--16179445268748__bd277aa5-1ef7-4961-b30f-45077f802580-1686175466a40f08e0-0": {
-          "type": "price_and_title",
-          "settings": {
-            "subheading_option": "none",
-            "show_rating": true,
-            "enable_star_rating": true,
-            "show_rating_count": false
-          }
-        },
-        "template--16179445268748__bd277aa5-1ef7-4961-b30f-45077f802580-1686175466a40f08e0-1": {
-          "type": "form",
-          "settings": {
-            "info_page": "",
-            "show_labels": false,
-            "show_quantity": true,
-            "show_payment_button": true,
-            "subscriptions_enable_selectors": true
-          }
-        },
-        "template--16179445268748__bd277aa5-1ef7-4961-b30f-45077f802580-1686175466a40f08e0-2": {
-          "type": "tab_richtext",
-          "settings": {
-            "show_read_more": false,
-            "style": "inline",
-            "title_1": "",
-            "raw_content_1": "<p>This content type will accept <strong>rich text<\/strong> to help with adding styles and links to additional pages or content. Use this to add supplementary information to help your buyers.<\/p>",
-            "title_2": "Info",
-            "raw_content_2": "<p>You can use product metafields to assign content to this tab that is unique to an individual product.  Use tabs to highlight unique features, sizing information, or other sales information.<\/p>",
-            "title_3": "",
-            "raw_content_3": "",
-            "title_4": "",
-            "raw_content_4": "",
-            "title_5": "",
-            "raw_content_5": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--16179445268748__bd277aa5-1ef7-4961-b30f-45077f802580-1686175466a40f08e0-0",
-        "template--16179445268748__bd277aa5-1ef7-4961-b30f-45077f802580-1686175466a40f08e0-1",
-        "template--16179445268748__bd277aa5-1ef7-4961-b30f-45077f802580-1686175466a40f08e0-2"
-      ],
-      "settings": {
-        "home_product": "servierplatte-kuchenplatte-malo-cremeweiss",
-        "image_layout": "thumbnails",
-        "enable_zoom": true,
-        "enable_video_looping": false
-      }
-    },
     "16596338637d51486d": {
       "type": "section-hero",
       "settings": {
@@ -428,10 +376,10 @@
         "wrapper": false
       }
     },
-    "1684411337705e9d6a": {
+    "16980903992abb7388": {
       "type": "apps",
       "blocks": {
-        "8348562b-88eb-4cfe-8543-749798da9d91": {
+        "625a648b-b122-4134-a570-6a286e10b286": {
           "type": "shopify:\/\/apps\/instafeed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5",
           "settings": {
             "heading_size": 20,
@@ -441,69 +389,10 @@
         }
       },
       "block_order": [
-        "8348562b-88eb-4cfe-8543-749798da9d91"
+        "625a648b-b122-4134-a570-6a286e10b286"
       ],
       "settings": {
         "include_margins": false
-      }
-    },
-    "1665172311a35fcb8a": {
-      "type": "apps",
-      "blocks": {
-        "604ef3f3-c341-4ee6-b1a9-55efb970831a": {
-          "type": "shopify:\/\/apps\/instafeed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5",
-          "settings": {
-            "heading_size": 23,
-            "feed_width": 100,
-            "html_area": ""
-          }
-        }
-      },
-      "block_order": [
-        "604ef3f3-c341-4ee6-b1a9-55efb970831a"
-      ],
-      "settings": {
-        "include_margins": false
-      }
-    },
-    "8dfa201a-a2a4-4b84-9127-03bf07807e42": {
-      "type": "text-promo",
-      "blocks": {
-        "template--16179445268748__8dfa201a-a2a4-4b84-9127-03bf07807e42-16873852602f8bd76a-0": {
-          "type": "heading",
-          "settings": {
-            "title": "Sonnenmomente für dich"
-          }
-        },
-        "template--16179445268748__8dfa201a-a2a4-4b84-9127-03bf07807e42-16873852602f8bd76a-1": {
-          "type": "text",
-          "settings": {
-            "content": ""
-          }
-        },
-        "template--16179445268748__8dfa201a-a2a4-4b84-9127-03bf07807e42-16873852602f8bd76a-2": {
-          "type": "button",
-          "settings": {
-            "button_text": "Shop now",
-            "button_url": "shopify:\/\/pages\/keramik",
-            "button_color": "btn--primary",
-            "button_style": "hero__btn btn btn--input caps"
-          }
-        }
-      },
-      "block_order": [
-        "template--16179445268748__8dfa201a-a2a4-4b84-9127-03bf07807e42-16873852602f8bd76a-0",
-        "template--16179445268748__8dfa201a-a2a4-4b84-9127-03bf07807e42-16873852602f8bd76a-1",
-        "template--16179445268748__8dfa201a-a2a4-4b84-9127-03bf07807e42-16873852602f8bd76a-2"
-      ],
-      "settings": {
-        "border": true,
-        "bg_color": "#ffa384",
-        "text_color": "text-light",
-        "width": "",
-        "bg_position": "center-center",
-        "overlay_opacity": 0,
-        "overlay_color": "#ffffff"
       }
     }
   },
@@ -514,13 +403,10 @@
     "4645ce5c-645b-4771-bd12-5eb6a69e10ab",
     "20e3dc42-c347-4d36-beeb-a68a33b3039d",
     "c9394ccb-8bba-4a88-b66d-335b6e69d66d",
-    "bd277aa5-1ef7-4961-b30f-45077f802580",
     "16596338637d51486d",
     "2330aac2-fef2-4b9b-9ff8-0abf1b4c39bc",
     "1671439456a7175f2a",
     "166076845484879d57",
-    "1684411337705e9d6a",
-    "1665172311a35fcb8a",
-    "8dfa201a-a2a4-4b84-9127-03bf07807e42"
+    "16980903992abb7388"
   ]
 }

@@ -138,6 +138,13 @@
         "bg_color": "#ffa384"
       }
     },
+    "8aab85e1-f784-4e3e-8ef0-b9fe71e0158a": {
+      "type": "section-accordion",
+      "disabled": true,
+      "settings": {
+        "title": "FAQ"
+      }
+    },
     "1664792203283870e0": {
       "type": "section-collections-list",
       "blocks": {
@@ -486,6 +493,7 @@
     "758c2e31-4b04-4178-83d4-87c08c3515f7",
     "711d8b7c-47db-4e9e-8d31-afe70fc87f5b",
     "e964c5a2-781a-46bf-80aa-0eeaf4f66902",
+    "8aab85e1-f784-4e3e-8ef0-b9fe71e0158a",
     "1664792203283870e0",
     "4645ce5c-645b-4771-bd12-5eb6a69e10ab",
     "1f370597-5d5b-430e-8ce4-2a6926c59b78",

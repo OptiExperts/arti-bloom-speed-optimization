@@ -333,7 +333,7 @@
         "button_style": "hero__btn btn btn--input btn--outline caps",
         "featured_collection": "kunst-artibloom",
         "grid": 4,
-        "rows": 2,
+        "rows": 1,
         "layout_mobile": "2"
       }
     },

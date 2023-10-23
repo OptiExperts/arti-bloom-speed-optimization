@@ -102,6 +102,7 @@
         "blocks": {
           "9ebeae19-bbad-4d54-8f9d-107faa2485e4": {
             "type": "text",
+            "disabled": true,
             "settings": {
               "text": "<p>WENN ICH AN DICH DENKE, DENK ICH AN SONNE. INNEN & AUßEN.<\/p>",
               "target_url_enabled": false,

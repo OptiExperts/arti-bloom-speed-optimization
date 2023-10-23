@@ -55,70 +55,6 @@
         "autoplay_speed": 4
       }
     },
-    "711d8b7c-47db-4e9e-8d31-afe70fc87f5b": {
-      "type": "section-columns",
-      "blocks": {
-        "template--16179445268748__711d8b7c-47db-4e9e-8d31-afe70fc87f5b-text_block-1": {
-          "type": "text_block",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/CB25CF42-798A-4CB6-A4F6-1B961139DF36_1_105_c.jpg",
-            "bg_position": "center-center",
-            "title": "",
-            "text": "",
-            "button_text": "",
-            "button_url": "",
-            "button_color": "btn--neutral",
-            "button_style": "caps--large",
-            "enable_video": false,
-            "video_link": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc"
-          }
-        },
-        "template--16179445268748__711d8b7c-47db-4e9e-8d31-afe70fc87f5b-text_block-2": {
-          "type": "text_block",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/IMG_4100_41e6510c-d97c-4184-ac86-d4f98ccd84a0.jpg",
-            "bg_position": "center-center",
-            "title": "",
-            "text": "",
-            "button_text": "",
-            "button_url": "",
-            "button_color": "btn--neutral",
-            "button_style": "caps--large",
-            "enable_video": false,
-            "video_link": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc"
-          }
-        },
-        "template--16179445268748__711d8b7c-47db-4e9e-8d31-afe70fc87f5b-text_block-3": {
-          "type": "text_block",
-          "disabled": true,
-          "settings": {
-            "bg_position": "center-center",
-            "title": "Add a title or tagline",
-            "text": "<p>Use this text to describe products, share details on availability and style, or as a space to display recent reviews or FAQs.<\/p>",
-            "button_text": "Learn more",
-            "button_url": "",
-            "button_color": "btn--neutral",
-            "button_style": "caps--large",
-            "enable_video": false,
-            "video_link": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc"
-          }
-        }
-      },
-      "block_order": [
-        "template--16179445268748__711d8b7c-47db-4e9e-8d31-afe70fc87f5b-text_block-1",
-        "template--16179445268748__711d8b7c-47db-4e9e-8d31-afe70fc87f5b-text_block-2",
-        "template--16179445268748__711d8b7c-47db-4e9e-8d31-afe70fc87f5b-text_block-3"
-      ],
-      "settings": {
-        "title": "",
-        "bg_color": "#ffffff",
-        "align_text": "text-left",
-        "width": "wrapper--full",
-        "equalize_height": true,
-        "photo_aspect_ratio": 0.7,
-        "enable_image": true
-      }
-    },
     "e964c5a2-781a-46bf-80aa-0eeaf4f66902": {
       "type": "section-rich-text",
       "settings": {
@@ -368,9 +304,9 @@
     "16596338637d51486d": {
       "type": "section-hero",
       "settings": {
-        "image": "shopify:\/\/shop_images\/The_art_collectors_dining_room.jpg",
-        "mobile_image": "shopify:\/\/shop_images\/artibloom_depeapa_Kunstdruck_Kunst_Wandbild_Wanddekor_depeapa_illustration_wallart_WandbildWanddekorKunstdruckArtPrint_FineArtstill_life_I_1a2d38e5-41ac-48cd-b71e-8da053d32177.jpg",
-        "bg_position": "center-top",
+        "image": "shopify:\/\/shop_images\/IMG_6383.jpg",
+        "mobile_image": "shopify:\/\/shop_images\/IMG_6383.jpg",
+        "bg_position": "center-center",
         "height": "screen-height-three-quarters",
         "overlay_opacity": 0,
         "overlay_color": "#000000",
@@ -490,7 +426,6 @@
   },
   "order": [
     "758c2e31-4b04-4178-83d4-87c08c3515f7",
-    "711d8b7c-47db-4e9e-8d31-afe70fc87f5b",
     "e964c5a2-781a-46bf-80aa-0eeaf4f66902",
     "8aab85e1-f784-4e3e-8ef0-b9fe71e0158a",
     "1664792203283870e0",

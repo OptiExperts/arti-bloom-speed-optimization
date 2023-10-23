@@ -55,6 +55,25 @@
         "autoplay_speed": 4
       }
     },
+    "e964c5a2-781a-46bf-80aa-0eeaf4f66902": {
+      "type": "section-rich-text",
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "text": "<p>\"Wenn ich an dich denke, denk ich an Sonne. Innen & Außen.\"<\/p>",
+        "text_size": 4,
+        "text_columns": 1,
+        "align_text": "text-center",
+        "button_text": "",
+        "button_url": "",
+        "button_color": "btn--white",
+        "button_style": "caps--large",
+        "height": "margin--small",
+        "width": "wrapper--full",
+        "text_color": "text-light",
+        "bg_color": "#ffa384"
+      }
+    },
     "53cf8bde-d1c6-48a0-8bc1-05c0f0e24779": {
       "type": "section-accordion",
       "settings": {
@@ -158,63 +177,27 @@
         "bg_color": "#ffa384"
       }
     },
-    "c9394ccb-8bba-4a88-b66d-335b6e69d66d": {
+    "ecd72cdc-1984-41e4-a691-c1be23ad7571": {
       "type": "section-look",
       "blocks": {
-        "template--16179445268748__c9394ccb-8bba-4a88-b66d-335b6e69d66d-16861725877a6a5b66-0": {
+        "template--16179445268748__ecd72cdc-1984-41e4-a691-c1be23ad7571-product-1": {
           "type": "product",
           "settings": {
-            "product": "vase-beja-bunt",
-            "position_x": 24,
-            "position_y": 20
-          }
-        },
-        "template--16179445268748__c9394ccb-8bba-4a88-b66d-335b6e69d66d-16861725877a6a5b66-1": {
-          "type": "product",
-          "settings": {
-            "product": "obidos-servierschale-gross-cremeweiss-sand",
-            "position_x": 50,
-            "position_y": 50
-          }
-        },
-        "20897dd8-c032-41d1-89b0-27f637862a6a": {
-          "type": "product",
-          "settings": {
-            "product": "aveiro-tasse-bunt",
-            "position_x": 80,
-            "position_y": 65
-          }
-        },
-        "8b9aef51-2363-49bc-b0f4-b8feb0c8217a": {
-          "type": "product",
-          "settings": {
-            "product": "teller-love-geschirr-essteller-keramik-artibloom",
-            "position_x": 65,
-            "position_y": 94
-          }
-        },
-        "6d66b312-7bfa-4aee-b000-9dba36b27465": {
-          "type": "product",
-          "settings": {
-            "product": "vase-chaves-gross-weiss",
-            "position_x": 40,
-            "position_y": 5
+            "product": "servierplatte-kuchenplatte-malo-cremeweiss",
+            "position_x": 35,
+            "position_y": 15
           }
         }
       },
       "block_order": [
-        "template--16179445268748__c9394ccb-8bba-4a88-b66d-335b6e69d66d-16861725877a6a5b66-0",
-        "template--16179445268748__c9394ccb-8bba-4a88-b66d-335b6e69d66d-16861725877a6a5b66-1",
-        "20897dd8-c032-41d1-89b0-27f637862a6a",
-        "8b9aef51-2363-49bc-b0f4-b8feb0c8217a",
-        "6d66b312-7bfa-4aee-b000-9dba36b27465"
+        "template--16179445268748__ecd72cdc-1984-41e4-a691-c1be23ad7571-product-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/IMG_5245_99bbf276-9e9c-4261-b263-cac705fd5588.jpg",
+        "image": "shopify:\/\/shop_images\/IMG_7496.heic",
         "bg_position": "center-center",
         "title": "",
-        "section_bg": "#ffa384",
-        "dot_color": "#ffffb0"
+        "section_bg": "#fafafa",
+        "dot_color": "#FFFFFF"
       }
     },
     "20e3dc42-c347-4d36-beeb-a68a33b3039d": {
@@ -385,42 +368,41 @@
         "include_margins": false
       }
     },
-    "ecd72cdc-1984-41e4-a691-c1be23ad7571": {
-      "type": "section-look",
-      "blocks": {
-        "template--16179445268748__ecd72cdc-1984-41e4-a691-c1be23ad7571-product-1": {
-          "type": "product",
-          "settings": {
-            "product": "servierplatte-kuchenplatte-malo-cremeweiss",
-            "position_x": 35,
-            "position_y": 15
-          }
-        }
-      },
-      "block_order": [
-        "template--16179445268748__ecd72cdc-1984-41e4-a691-c1be23ad7571-product-1"
-      ],
+    "fa578e8b-af7a-48ba-85cf-2fb9a8bddf81": {
+      "type": "section-video",
       "settings": {
-        "image": "shopify:\/\/shop_images\/IMG_7496.heic",
+        "video_link_bg": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/399c21e044a64cfd99b20c39f6fc20ba.mov",
+        "video_link": "",
         "bg_position": "center-center",
-        "title": "",
-        "section_bg": "#fafafa",
-        "dot_color": "#FFFFFF"
+        "desktop_height": "screen-height-three-quarters",
+        "mobile_height": "screen-height-three-quarters--mobile",
+        "overlay_opacity": 0,
+        "overlay_color": "#000",
+        "title": "Video",
+        "description": "Tell your brand's story through images.",
+        "flex_align": "align--middle-center",
+        "text_color": "text-light",
+        "transparent": true,
+        "link_text": "View products",
+        "link": "",
+        "button_color": "btn--white",
+        "button_style": "hero__btn btn btn--large btn--outline caps"
       }
     }
   },
   "order": [
     "758c2e31-4b04-4178-83d4-87c08c3515f7",
+    "e964c5a2-781a-46bf-80aa-0eeaf4f66902",
     "53cf8bde-d1c6-48a0-8bc1-05c0f0e24779",
     "1664792203283870e0",
     "4645ce5c-645b-4771-bd12-5eb6a69e10ab",
-    "c9394ccb-8bba-4a88-b66d-335b6e69d66d",
+    "ecd72cdc-1984-41e4-a691-c1be23ad7571",
     "20e3dc42-c347-4d36-beeb-a68a33b3039d",
     "16596338637d51486d",
     "2330aac2-fef2-4b9b-9ff8-0abf1b4c39bc",
     "1671439456a7175f2a",
     "166076845484879d57",
     "16980903992abb7388",
-    "ecd72cdc-1984-41e4-a691-c1be23ad7571"
+    "fa578e8b-af7a-48ba-85cf-2fb9a8bddf81"
   ]
 }

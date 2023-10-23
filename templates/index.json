@@ -361,6 +361,58 @@
       "settings": {
         "include_margins": false
       }
+    },
+    "1f370597-5d5b-430e-8ce4-2a6926c59b78": {
+      "type": "section-slideshow",
+      "blocks": {
+        "template--16179445268748__1f370597-5d5b-430e-8ce4-2a6926c59b78-image-1": {
+          "type": "image",
+          "settings": {
+            "bg_position": "center-center",
+            "image": "shopify:\/\/shop_images\/no_change85.jpg",
+            "overlay_opacity": 0,
+            "overlay_color": "#000",
+            "title": "Handwerkskunst.",
+            "description": "Voller Detailliebe, mediterranem Flair & Sommergefühl.",
+            "flex_align": "align--middle-center",
+            "text_color": "text-light",
+            "transparent": true,
+            "link_text": "Entdecke mehr",
+            "link": "shopify:\/\/pages\/keramik",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        },
+        "template--16179445268748__1f370597-5d5b-430e-8ce4-2a6926c59b78-image-2": {
+          "type": "image",
+          "settings": {
+            "bg_position": "center-center",
+            "overlay_opacity": 0,
+            "overlay_color": "#000",
+            "title": "Image slide",
+            "description": "Tell your brand's story through images.",
+            "flex_align": "align--middle-center",
+            "text_color": "text-light",
+            "transparent": true,
+            "link_text": "View products",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        }
+      },
+      "block_order": [
+        "template--16179445268748__1f370597-5d5b-430e-8ce4-2a6926c59b78-image-1",
+        "template--16179445268748__1f370597-5d5b-430e-8ce4-2a6926c59b78-image-2"
+      ],
+      "settings": {
+        "height": "screen-height-two-thirds",
+        "transition": "slide",
+        "arrows_style": true,
+        "dots_style": "hidden",
+        "autoplay": false,
+        "autoplay_speed": 8
+      }
     }
   },
   "order": [
@@ -374,6 +426,7 @@
     "2330aac2-fef2-4b9b-9ff8-0abf1b4c39bc",
     "1671439456a7175f2a",
     "166076845484879d57",
-    "16980903992abb7388"
+    "16980903992abb7388",
+    "1f370597-5d5b-430e-8ce4-2a6926c59b78"
   ]
 }

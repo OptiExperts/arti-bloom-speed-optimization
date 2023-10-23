@@ -7,8 +7,8 @@
           "type": "image",
           "settings": {
             "bg_position": "center-center",
-            "image": "shopify:\/\/shop_images\/IMG_5310_58d8abd0-64e5-4d29-a552-2d8a7acd200e.jpg",
-            "mobile_image": "shopify:\/\/shop_images\/IMG_5310_58d8abd0-64e5-4d29-a552-2d8a7acd200e.jpg",
+            "image": "shopify:\/\/shop_images\/5989301B-97CC-4739-B496-CFF5A49E137E.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/5989301B-97CC-4739-B496-CFF5A49E137E.jpg",
             "overlay_opacity": 0,
             "overlay_color": "#ffffb0",
             "title": "SONNE FÜR DICH UND DEIN ZUHAUSE",
@@ -16,7 +16,7 @@
             "flex_align": "align--middle-center",
             "text_color": "text-light",
             "transparent": true,
-            "link_text": "Jetzt handgemachte Keramik entdecken",
+            "link_text": "Keramik Unikate entdecken",
             "link": "shopify:\/\/pages\/keramik",
             "button_color": "btn--primary",
             "button_style": "hero__btn btn btn--large caps"
@@ -217,7 +217,6 @@
     },
     "c9394ccb-8bba-4a88-b66d-335b6e69d66d": {
       "type": "section-look",
-      "disabled": true,
       "blocks": {
         "template--16179445268748__c9394ccb-8bba-4a88-b66d-335b6e69d66d-16861725877a6a5b66-0": {
           "type": "product",
@@ -267,6 +266,7 @@
         "8b9aef51-2363-49bc-b0f4-b8feb0c8217a",
         "6d66b312-7bfa-4aee-b000-9dba36b27465"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/IMG_5245_99bbf276-9e9c-4261-b263-cac705fd5588.jpg",
         "bg_position": "center-center",
@@ -277,7 +277,6 @@
     },
     "bd277aa5-1ef7-4961-b30f-45077f802580": {
       "type": "section-product",
-      "disabled": true,
       "blocks": {
         "template--16179445268748__bd277aa5-1ef7-4961-b30f-45077f802580-1686175466a40f08e0-0": {
           "type": "price_and_title",
@@ -321,6 +320,7 @@
         "template--16179445268748__bd277aa5-1ef7-4961-b30f-45077f802580-1686175466a40f08e0-1",
         "template--16179445268748__bd277aa5-1ef7-4961-b30f-45077f802580-1686175466a40f08e0-2"
       ],
+      "disabled": true,
       "settings": {
         "home_product": "teller-love-geschirr-essteller-keramik-artibloom",
         "image_layout": "thumbnails",
@@ -368,7 +368,7 @@
       "type": "apps",
       "blocks": {
         "533ade7a-8812-4775-931a-81211ffcf742": {
-          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/featured_carousel\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/featured_carousel\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
           "settings": {
             "maxwidth": 1080
           }
@@ -435,7 +435,7 @@
       "type": "apps",
       "blocks": {
         "8348562b-88eb-4cfe-8543-749798da9d91": {
-          "type": "shopify:\/\/apps\/instafeed-instagram-feed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5",
+          "type": "shopify:\/\/apps\/instafeed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5",
           "settings": {
             "heading_size": 20,
             "feed_width": 100,
@@ -454,7 +454,7 @@
       "type": "apps",
       "blocks": {
         "604ef3f3-c341-4ee6-b1a9-55efb970831a": {
-          "type": "shopify:\/\/apps\/instafeed-instagram-feed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5",
+          "type": "shopify:\/\/apps\/instafeed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5",
           "settings": {
             "heading_size": 23,
             "feed_width": 100,

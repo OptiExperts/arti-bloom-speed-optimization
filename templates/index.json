@@ -368,8 +368,9 @@
         "template--16179445268748__1f370597-5d5b-430e-8ce4-2a6926c59b78-image-1": {
           "type": "image",
           "settings": {
-            "bg_position": "center-center",
-            "image": "shopify:\/\/shop_images\/no_change85.jpg",
+            "bg_position": "right-center",
+            "image": "shopify:\/\/shop_images\/IMG_4100_41e6510c-d97c-4184-ac86-d4f98ccd84a0.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/IMG_4100_41e6510c-d97c-4184-ac86-d4f98ccd84a0.jpg",
             "overlay_opacity": 0,
             "overlay_color": "#000",
             "title": "Handwerkskunst.",

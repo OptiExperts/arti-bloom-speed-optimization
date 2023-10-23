@@ -47,11 +47,11 @@
         "7861cbc2-f6ac-4475-98e7-b84021edf33e"
       ],
       "settings": {
-        "height": "screen-height-two-thirds",
-        "transition": "slide",
+        "height": "screen-height-three-quarters",
+        "transition": "fade",
         "arrows_style": true,
-        "dots_style": "hidden",
-        "autoplay": false,
+        "dots_style": "circle",
+        "autoplay": true,
         "autoplay_speed": 4
       }
     },

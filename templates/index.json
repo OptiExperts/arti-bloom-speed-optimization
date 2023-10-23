@@ -158,62 +158,6 @@
         "bg_color": "#ffa384"
       }
     },
-    "20e3dc42-c347-4d36-beeb-a68a33b3039d": {
-      "type": "section-text-row",
-      "blocks": {
-        "template--16179445268748__20e3dc42-c347-4d36-beeb-a68a33b3039d-16763764707b900096-0": {
-          "type": "text-item",
-          "settings": {
-            "icon_name": "icon-rating",
-            "icon_color": "#ffffb0",
-            "title": "",
-            "text": "Handgemachte Keramik & Kunst"
-          }
-        },
-        "template--16179445268748__20e3dc42-c347-4d36-beeb-a68a33b3039d-16763764707b900096-1": {
-          "type": "text-item",
-          "settings": {
-            "icon_name": "icon-leaf",
-            "icon_color": "#ffffb0",
-            "title": "",
-            "text": "Natürliche Materialien"
-          }
-        },
-        "template--16179445268748__20e3dc42-c347-4d36-beeb-a68a33b3039d-16763764707b900096-2": {
-          "type": "text-item",
-          "settings": {
-            "icon_name": "icon-water",
-            "icon_color": "#ffffb0",
-            "title": "",
-            "text": "Sonnige Unikate"
-          }
-        },
-        "8a8d9f37-f613-47c2-99ff-f636c0265a78": {
-          "type": "text-item",
-          "settings": {
-            "icon_name": "icon-send",
-            "icon_color": "#ffffb0",
-            "title": "",
-            "text": "Urlaubsfeeling"
-          }
-        }
-      },
-      "block_order": [
-        "template--16179445268748__20e3dc42-c347-4d36-beeb-a68a33b3039d-16763764707b900096-0",
-        "template--16179445268748__20e3dc42-c347-4d36-beeb-a68a33b3039d-16763764707b900096-1",
-        "template--16179445268748__20e3dc42-c347-4d36-beeb-a68a33b3039d-16763764707b900096-2",
-        "8a8d9f37-f613-47c2-99ff-f636c0265a78"
-      ],
-      "settings": {
-        "text_alignment": "center",
-        "icon_size": 30,
-        "icon_alignment": "icon--top",
-        "text_color": "text-light",
-        "heading_size": "h6",
-        "height": "margin--small",
-        "bg_color": "#ffa384"
-      }
-    },
     "c9394ccb-8bba-4a88-b66d-335b6e69d66d": {
       "type": "section-look",
       "blocks": {
@@ -271,6 +215,52 @@
         "title": "",
         "section_bg": "#ffa384",
         "dot_color": "#ffffb0"
+      }
+    },
+    "20e3dc42-c347-4d36-beeb-a68a33b3039d": {
+      "type": "section-text-row",
+      "blocks": {
+        "template--16179445268748__20e3dc42-c347-4d36-beeb-a68a33b3039d-16763764707b900096-0": {
+          "type": "text-item",
+          "settings": {
+            "icon_name": "icon-water",
+            "icon_color": "#ffffb0",
+            "title": "",
+            "text": "Spülmaschinenfest"
+          }
+        },
+        "template--16179445268748__20e3dc42-c347-4d36-beeb-a68a33b3039d-16763764707b900096-1": {
+          "type": "text-item",
+          "settings": {
+            "icon_name": "icon-earth",
+            "icon_color": "#ffffb0",
+            "title": "",
+            "text": "Ofenfest"
+          }
+        },
+        "template--16179445268748__20e3dc42-c347-4d36-beeb-a68a33b3039d-16763764707b900096-2": {
+          "type": "text-item",
+          "settings": {
+            "icon_name": "icon-leaf",
+            "icon_color": "#ffffb0",
+            "title": "",
+            "text": "Natürlich"
+          }
+        }
+      },
+      "block_order": [
+        "template--16179445268748__20e3dc42-c347-4d36-beeb-a68a33b3039d-16763764707b900096-0",
+        "template--16179445268748__20e3dc42-c347-4d36-beeb-a68a33b3039d-16763764707b900096-1",
+        "template--16179445268748__20e3dc42-c347-4d36-beeb-a68a33b3039d-16763764707b900096-2"
+      ],
+      "settings": {
+        "text_alignment": "center",
+        "icon_size": 30,
+        "icon_alignment": "icon--top",
+        "text_color": "text-light",
+        "heading_size": "h6",
+        "height": "margin--small",
+        "bg_color": "#ffa384"
       }
     },
     "16596338637d51486d": {
@@ -401,8 +391,8 @@
     "53cf8bde-d1c6-48a0-8bc1-05c0f0e24779",
     "1664792203283870e0",
     "4645ce5c-645b-4771-bd12-5eb6a69e10ab",
-    "20e3dc42-c347-4d36-beeb-a68a33b3039d",
     "c9394ccb-8bba-4a88-b66d-335b6e69d66d",
+    "20e3dc42-c347-4d36-beeb-a68a33b3039d",
     "16596338637d51486d",
     "2330aac2-fef2-4b9b-9ff8-0abf1b4c39bc",
     "1671439456a7175f2a",

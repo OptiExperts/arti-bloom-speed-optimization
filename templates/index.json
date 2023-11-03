@@ -57,6 +57,7 @@
     },
     "e964c5a2-781a-46bf-80aa-0eeaf4f66902": {
       "type": "section-rich-text",
+      "disabled": true,
       "settings": {
         "subheading": "",
         "title": "",
@@ -153,9 +154,9 @@
       "settings": {
         "title": "",
         "description": "",
-        "layout": "grid",
+        "layout": "slider",
         "aspect_ratio": 0.7,
-        "enable_slider": false
+        "enable_slider": true
       }
     },
     "4645ce5c-645b-4771-bd12-5eb6a69e10ab": {
@@ -360,8 +361,6 @@
         "625a648b-b122-4134-a570-6a286e10b286": {
           "type": "shopify:\/\/apps\/instafeed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5",
           "settings": {
-            "heading_size": 20,
-            "feed_width": 100,
             "html_area": ""
           }
         }

@@ -235,7 +235,7 @@
         "template--16179445268748__1f370597-5d5b-430e-8ce4-2a6926c59b78-image-1": {
           "type": "image",
           "settings": {
-            "bg_position": "right-center",
+            "bg_position": "center-center",
             "image": "shopify:\/\/shop_images\/IMG_0872.heic",
             "mobile_image": "shopify:\/\/shop_images\/IMG_0872.heic",
             "overlay_opacity": 0,

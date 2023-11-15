@@ -257,17 +257,17 @@
             "bg_position": "center-center",
             "image": "shopify:\/\/shop_images\/no_change98.jpg",
             "mobile_image": "shopify:\/\/shop_images\/no_change98.jpg",
-            "overlay_opacity": 25,
+            "overlay_opacity": 45,
             "overlay_color": "#ffa384",
-            "title": "Kunstwerke aus Ton.",
+            "title": "Wie im Urlaub.",
             "description": "",
             "flex_align": "align--middle-center",
             "text_color": "text-light",
             "transparent": true,
             "link_text": "Entdecke mehr.",
             "link": "shopify:\/\/pages\/keramik",
-            "button_color": "btn--white",
-            "button_style": "hero__btn btn btn--input btn--outline caps"
+            "button_color": "btn--primary",
+            "button_style": "hero__btn btn btn--input caps"
           }
         }
       },

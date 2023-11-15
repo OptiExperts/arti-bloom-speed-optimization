@@ -447,7 +447,7 @@
         "template--16179445268748__5e5a2c69-2028-408f-8c5b-02c46d684418-product-1": {
           "type": "product",
           "settings": {
-            "product": "",
+            "product": "tasse-magic-babe-limited-edition-orange-artibloom-keramik-geschirr-kaffeetasse",
             "position_x": 50,
             "position_y": 50
           }
@@ -465,7 +465,6 @@
         "template--16179445268748__5e5a2c69-2028-408f-8c5b-02c46d684418-product-1",
         "template--16179445268748__5e5a2c69-2028-408f-8c5b-02c46d684418-product-2"
       ],
-      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/IMG_0457.heic",
         "bg_position": "center-center",

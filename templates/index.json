@@ -75,6 +75,44 @@
         "bg_color": "#ffa384"
       }
     },
+    "8aab85e1-f784-4e3e-8ef0-b9fe71e0158a": {
+      "type": "section-accordion",
+      "settings": {
+        "title": "FAQ"
+      }
+    },
+    "5e5a2c69-2028-408f-8c5b-02c46d684418": {
+      "type": "section-look",
+      "blocks": {
+        "template--16179445268748__5e5a2c69-2028-408f-8c5b-02c46d684418-product-1": {
+          "type": "product",
+          "settings": {
+            "product": "tasse-magic-babe-limited-edition-orange-artibloom-keramik-geschirr-kaffeetasse",
+            "position_x": 50,
+            "position_y": 50
+          }
+        },
+        "template--16179445268748__5e5a2c69-2028-408f-8c5b-02c46d684418-product-2": {
+          "type": "product",
+          "settings": {
+            "product": "",
+            "position_x": 50,
+            "position_y": 50
+          }
+        }
+      },
+      "block_order": [
+        "template--16179445268748__5e5a2c69-2028-408f-8c5b-02c46d684418-product-1",
+        "template--16179445268748__5e5a2c69-2028-408f-8c5b-02c46d684418-product-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/IMG_0457.heic",
+        "bg_position": "center-center",
+        "title": "LIMITED EDITION \"MAGIC\": Vorbestellung",
+        "section_bg": "#ffffb0",
+        "dot_color": "#ffffb0"
+      }
+    },
     "87e74b6f-3a58-424a-a837-3326c546a826": {
       "type": "section-rich-text",
       "settings": {
@@ -92,12 +130,6 @@
         "width": "wrapper--full",
         "text_color": "text-light",
         "bg_color": "#ffa384"
-      }
-    },
-    "8aab85e1-f784-4e3e-8ef0-b9fe71e0158a": {
-      "type": "section-accordion",
-      "settings": {
-        "title": "FAQ"
       }
     },
     "1664792203283870e0": {
@@ -204,8 +236,8 @@
           "type": "image",
           "settings": {
             "bg_position": "right-center",
-            "image": "shopify:\/\/shop_images\/no_change85.jpg",
-            "mobile_image": "shopify:\/\/shop_images\/no_change85.jpg",
+            "image": "shopify:\/\/shop_images\/IMG_0861.heic",
+            "mobile_image": "shopify:\/\/shop_images\/IMG_0861.heic",
             "overlay_opacity": 0,
             "overlay_color": "#000000",
             "title": "Keramik Kunst.",
@@ -440,45 +472,14 @@
         "borders": false,
         "wrapper": false
       }
-    },
-    "5e5a2c69-2028-408f-8c5b-02c46d684418": {
-      "type": "section-look",
-      "blocks": {
-        "template--16179445268748__5e5a2c69-2028-408f-8c5b-02c46d684418-product-1": {
-          "type": "product",
-          "settings": {
-            "product": "tasse-magic-babe-limited-edition-orange-artibloom-keramik-geschirr-kaffeetasse",
-            "position_x": 50,
-            "position_y": 50
-          }
-        },
-        "template--16179445268748__5e5a2c69-2028-408f-8c5b-02c46d684418-product-2": {
-          "type": "product",
-          "settings": {
-            "product": "",
-            "position_x": 50,
-            "position_y": 50
-          }
-        }
-      },
-      "block_order": [
-        "template--16179445268748__5e5a2c69-2028-408f-8c5b-02c46d684418-product-1",
-        "template--16179445268748__5e5a2c69-2028-408f-8c5b-02c46d684418-product-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/IMG_0457.heic",
-        "bg_position": "center-center",
-        "title": "LIMITED EDITION \"MAGIC\": Vorbestellung",
-        "section_bg": "#ffffb0",
-        "dot_color": "#ffffb0"
-      }
     }
   },
   "order": [
     "758c2e31-4b04-4178-83d4-87c08c3515f7",
     "e964c5a2-781a-46bf-80aa-0eeaf4f66902",
-    "87e74b6f-3a58-424a-a837-3326c546a826",
     "8aab85e1-f784-4e3e-8ef0-b9fe71e0158a",
+    "5e5a2c69-2028-408f-8c5b-02c46d684418",
+    "87e74b6f-3a58-424a-a837-3326c546a826",
     "1664792203283870e0",
     "4645ce5c-645b-4771-bd12-5eb6a69e10ab",
     "1f370597-5d5b-430e-8ce4-2a6926c59b78",
@@ -488,7 +489,6 @@
     "2330aac2-fef2-4b9b-9ff8-0abf1b4c39bc",
     "1671439456a7175f2a",
     "16980903992abb7388",
-    "166076845484879d57",
-    "5e5a2c69-2028-408f-8c5b-02c46d684418"
+    "166076845484879d57"
   ]
 }

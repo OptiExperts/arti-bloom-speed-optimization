@@ -86,7 +86,7 @@
         "align_text": "text-center",
         "button_text": "",
         "button_url": "",
-        "button_color": "btn--white",
+        "button_color": "btn--primary",
         "button_style": "caps--large",
         "height": "margin--small",
         "width": "wrapper--full",
@@ -468,7 +468,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/IMG_0457.heic",
         "bg_position": "center-center",
-        "title": "Vorbestellung - Lieferung im Januar 2024",
+        "title": "LIMITED \"MAGIC\" EDITION: Vorbestellung - Lieferung im Januar 2024",
         "section_bg": "#ffffb0",
         "dot_color": "#ffffb0"
       }

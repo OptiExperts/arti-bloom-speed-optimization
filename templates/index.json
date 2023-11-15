@@ -421,6 +421,25 @@
         "borders": false,
         "wrapper": false
       }
+    },
+    "87e74b6f-3a58-424a-a837-3326c546a826": {
+      "type": "section-rich-text",
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "text": "<p>\"Wenn ich an dich denke, denk ich an Sonne. Innen & Außen.\"<\/p>",
+        "text_size": 5,
+        "text_columns": 1,
+        "align_text": "text-left",
+        "button_text": "",
+        "button_url": "",
+        "button_color": "btn--white",
+        "button_style": "caps--large",
+        "height": "margin--small",
+        "width": "wrapper--full",
+        "text_color": "text-light",
+        "bg_color": "#ffa384"
+      }
     }
   },
   "order": [
@@ -436,6 +455,7 @@
     "2330aac2-fef2-4b9b-9ff8-0abf1b4c39bc",
     "1671439456a7175f2a",
     "16980903992abb7388",
-    "166076845484879d57"
+    "166076845484879d57",
+    "87e74b6f-3a58-424a-a837-3326c546a826"
   ]
 }

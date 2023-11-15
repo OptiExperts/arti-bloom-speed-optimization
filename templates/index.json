@@ -440,6 +440,39 @@
         "borders": false,
         "wrapper": false
       }
+    },
+    "5e5a2c69-2028-408f-8c5b-02c46d684418": {
+      "type": "section-look",
+      "blocks": {
+        "template--16179445268748__5e5a2c69-2028-408f-8c5b-02c46d684418-product-1": {
+          "type": "product",
+          "settings": {
+            "product": "",
+            "position_x": 50,
+            "position_y": 50
+          }
+        },
+        "template--16179445268748__5e5a2c69-2028-408f-8c5b-02c46d684418-product-2": {
+          "type": "product",
+          "settings": {
+            "product": "",
+            "position_x": 50,
+            "position_y": 50
+          }
+        }
+      },
+      "block_order": [
+        "template--16179445268748__5e5a2c69-2028-408f-8c5b-02c46d684418-product-1",
+        "template--16179445268748__5e5a2c69-2028-408f-8c5b-02c46d684418-product-2"
+      ],
+      "disabled": true,
+      "settings": {
+        "image": "shopify:\/\/shop_images\/IMG_0457.heic",
+        "bg_position": "center-center",
+        "title": "Vorbestellung - Lieferung im Januar 2024",
+        "section_bg": "#ffffb0",
+        "dot_color": "#ffffb0"
+      }
     }
   },
   "order": [
@@ -456,6 +489,7 @@
     "2330aac2-fef2-4b9b-9ff8-0abf1b4c39bc",
     "1671439456a7175f2a",
     "16980903992abb7388",
-    "166076845484879d57"
+    "166076845484879d57",
+    "5e5a2c69-2028-408f-8c5b-02c46d684418"
   ]
 }

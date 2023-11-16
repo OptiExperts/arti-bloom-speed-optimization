@@ -7,7 +7,7 @@
           "type": "image",
           "settings": {
             "bg_position": "left-center",
-            "image": "shopify:\/\/shop_images\/5989301B-97CC-4739-B496-CFF5A49E137E.jpg",
+            "image": "shopify:\/\/shop_images\/waves-crash-under-morning-sun.jpg",
             "mobile_image": "shopify:\/\/shop_images\/5989301B-97CC-4739-B496-CFF5A49E137E.jpg",
             "overlay_opacity": 0,
             "overlay_color": "#ffffb0",
@@ -215,7 +215,7 @@
       "settings": {
         "subheading": "",
         "title": "",
-        "text": "<p>Artibloom basiert auf der Idee, dein Zuhause in eine helle Wohlfühloase zu verwandeln. Voller Wärme, Energie und Geborgenheit. Damit du dich wie im Urlaub fühlst.<\/p>",
+        "text": "<p>Artibloom basiert auf der Idee, dein Zuhause durch Keramik und Kunst in eine helle Wohlfühloase zu verwandeln. Voller Wärme, Energie und Geborgenheit. Damit du dich wie im Urlaub fühlst.<\/p>",
         "text_size": 3,
         "text_columns": 1,
         "align_text": "text-center",

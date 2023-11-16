@@ -6,7 +6,7 @@
         "template--16179445268748__758c2e31-4b04-4178-83d4-87c08c3515f7-168596412318a0652d-0": {
           "type": "image",
           "settings": {
-            "bg_position": "center-center",
+            "bg_position": "center-bottom",
             "image": "shopify:\/\/shop_images\/5989301B-97CC-4739-B496-CFF5A49E137E.jpg",
             "mobile_image": "shopify:\/\/shop_images\/5989301B-97CC-4739-B496-CFF5A49E137E.jpg",
             "overlay_opacity": 0,

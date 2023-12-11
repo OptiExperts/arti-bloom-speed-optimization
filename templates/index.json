@@ -220,26 +220,17 @@
             "position_x": 50,
             "position_y": 50
           }
-        },
-        "template--16179445268748__384e68e0-92dd-458e-99d1-37e31c86e416-product-2": {
-          "type": "product",
-          "settings": {
-            "product": "",
-            "position_x": 50,
-            "position_y": 50
-          }
         }
       },
       "block_order": [
-        "template--16179445268748__384e68e0-92dd-458e-99d1-37e31c86e416-product-1",
-        "template--16179445268748__384e68e0-92dd-458e-99d1-37e31c86e416-product-2"
+        "template--16179445268748__384e68e0-92dd-458e-99d1-37e31c86e416-product-1"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/FBFD890A-B048-496A-8C17-A1EDD1334257.jpg",
         "bg_position": "center-center",
         "title": "Limited Edition Vorbestellung: Servierschale PITU",
         "section_bg": "#ffffb0",
-        "dot_color": "#FFFFFF"
+        "dot_color": "#ffffff"
       }
     },
     "4645ce5c-645b-4771-bd12-5eb6a69e10ab": {

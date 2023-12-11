@@ -412,6 +412,8 @@
         "625a648b-b122-4134-a570-6a286e10b286": {
           "type": "shopify:\/\/apps\/instafeed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5",
           "settings": {
+            "title_color": "",
+            "alignment": "center",
             "html_area": ""
           }
         }
@@ -472,6 +474,38 @@
         "borders": false,
         "wrapper": false
       }
+    },
+    "384e68e0-92dd-458e-99d1-37e31c86e416": {
+      "type": "section-look",
+      "blocks": {
+        "template--16179445268748__384e68e0-92dd-458e-99d1-37e31c86e416-product-1": {
+          "type": "product",
+          "settings": {
+            "product": "vorbestellung-servierschale-pitu",
+            "position_x": 50,
+            "position_y": 50
+          }
+        },
+        "template--16179445268748__384e68e0-92dd-458e-99d1-37e31c86e416-product-2": {
+          "type": "product",
+          "settings": {
+            "product": "",
+            "position_x": 50,
+            "position_y": 50
+          }
+        }
+      },
+      "block_order": [
+        "template--16179445268748__384e68e0-92dd-458e-99d1-37e31c86e416-product-1",
+        "template--16179445268748__384e68e0-92dd-458e-99d1-37e31c86e416-product-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/FBFD890A-B048-496A-8C17-A1EDD1334257.jpg",
+        "bg_position": "center-center",
+        "title": "Vorbestellung: Servierschale PITU",
+        "section_bg": "#fafafa",
+        "dot_color": "#FFFFFF"
+      }
     }
   },
   "order": [
@@ -489,6 +523,7 @@
     "2330aac2-fef2-4b9b-9ff8-0abf1b4c39bc",
     "1671439456a7175f2a",
     "16980903992abb7388",
-    "166076845484879d57"
+    "166076845484879d57",
+    "384e68e0-92dd-458e-99d1-37e31c86e416"
   ]
 }

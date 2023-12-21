@@ -224,9 +224,9 @@
         "settings": {
           "button_color": "#ffa384",
           "button_icon": "chat_bubble",
+          "button_text": "no_text",
           "button_horizontal_position": "bottom_left",
           "button_vertical_position": "lowest",
-          "button_text": "no_text",
           "greeting_message": "👋 Olá! Bitte schreibe uns eine Nachricht, falls du Fragen hast, oder gib uns einen Tipp, wonach du suchst. Wir schlagen dir gerne etwas vor."
         }
       }

@@ -91,19 +91,10 @@
             "position_x": 50,
             "position_y": 50
           }
-        },
-        "template--16179445268748__5e5a2c69-2028-408f-8c5b-02c46d684418-product-2": {
-          "type": "product",
-          "settings": {
-            "product": "tasse-magic-flow-limited-edition-orange-kaffeetasse-teetasse-keramik-geschirr",
-            "position_x": 50,
-            "position_y": 50
-          }
         }
       },
       "block_order": [
-        "template--16179445268748__5e5a2c69-2028-408f-8c5b-02c46d684418-product-1",
-        "template--16179445268748__5e5a2c69-2028-408f-8c5b-02c46d684418-product-2"
+        "template--16179445268748__5e5a2c69-2028-408f-8c5b-02c46d684418-product-1"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/IMG_0457.heic",
@@ -228,7 +219,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/FBFD890A-B048-496A-8C17-A1EDD1334257.jpg",
         "bg_position": "center-center",
-        "title": "LIMITED EDITION \"PITU\": VORBESTELLUNG MÖGLICH",
+        "title": "Vorbestellung: Servierschale PITU -limited Edition-",
         "section_bg": "#ffffb0",
         "dot_color": "#ffffff"
       }
@@ -435,6 +426,7 @@
         "625a648b-b122-4134-a570-6a286e10b286": {
           "type": "shopify:\/\/apps\/instafeed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5",
           "settings": {
+            "title": "",
             "title_color": "",
             "alignment": "center",
             "html_area": ""

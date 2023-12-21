@@ -49,9 +49,9 @@
       "settings": {
         "height": "screen-height-two-thirds",
         "transition": "fade",
-        "arrows_style": false,
-        "dots_style": "hidden",
-        "autoplay": true,
+        "arrows_style": true,
+        "dots_style": "circle",
+        "autoplay": false,
         "autoplay_speed": 6
       }
     },
@@ -121,6 +121,29 @@
         "width": "wrapper--full",
         "text_color": "text-light",
         "bg_color": "#ffa384"
+      }
+    },
+    "384e68e0-92dd-458e-99d1-37e31c86e416": {
+      "type": "section-look",
+      "blocks": {
+        "template--16179445268748__384e68e0-92dd-458e-99d1-37e31c86e416-product-1": {
+          "type": "product",
+          "settings": {
+            "product": "vorbestellung-servierschale-pitu",
+            "position_x": 50,
+            "position_y": 50
+          }
+        }
+      },
+      "block_order": [
+        "template--16179445268748__384e68e0-92dd-458e-99d1-37e31c86e416-product-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/FBFD890A-B048-496A-8C17-A1EDD1334257.jpg",
+        "bg_position": "center-center",
+        "title": "Vorbestellung: Servierschale PITU -limited Edition-",
+        "section_bg": "#ffffb0",
+        "dot_color": "#ffffff"
       }
     },
     "1664792203283870e0": {
@@ -199,29 +222,6 @@
         "layout": "grid",
         "aspect_ratio": 0.8,
         "enable_slider": false
-      }
-    },
-    "384e68e0-92dd-458e-99d1-37e31c86e416": {
-      "type": "section-look",
-      "blocks": {
-        "template--16179445268748__384e68e0-92dd-458e-99d1-37e31c86e416-product-1": {
-          "type": "product",
-          "settings": {
-            "product": "vorbestellung-servierschale-pitu",
-            "position_x": 50,
-            "position_y": 50
-          }
-        }
-      },
-      "block_order": [
-        "template--16179445268748__384e68e0-92dd-458e-99d1-37e31c86e416-product-1"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/FBFD890A-B048-496A-8C17-A1EDD1334257.jpg",
-        "bg_position": "center-center",
-        "title": "Vorbestellung: Servierschale PITU -limited Edition-",
-        "section_bg": "#ffffb0",
-        "dot_color": "#ffffff"
       }
     },
     "4645ce5c-645b-4771-bd12-5eb6a69e10ab": {
@@ -497,8 +497,8 @@
     "8aab85e1-f784-4e3e-8ef0-b9fe71e0158a",
     "5e5a2c69-2028-408f-8c5b-02c46d684418",
     "87e74b6f-3a58-424a-a837-3326c546a826",
-    "1664792203283870e0",
     "384e68e0-92dd-458e-99d1-37e31c86e416",
+    "1664792203283870e0",
     "4645ce5c-645b-4771-bd12-5eb6a69e10ab",
     "1f370597-5d5b-430e-8ce4-2a6926c59b78",
     "20e3dc42-c347-4d36-beeb-a68a33b3039d",

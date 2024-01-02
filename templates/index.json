@@ -16,7 +16,7 @@
             "flex_align": "align--middle-center",
             "text_color": "text-light",
             "transparent": true,
-            "link_text": "Keramik entdecken",
+            "link_text": "Sonnige Keramik entdecken",
             "link": "shopify:\/\/pages\/keramik",
             "button_color": "btn--primary",
             "button_style": "hero__btn btn btn--input caps"

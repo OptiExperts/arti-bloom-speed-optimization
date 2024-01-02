@@ -75,6 +75,25 @@
         "bg_color": "#ffa384"
       }
     },
+    "4645ce5c-645b-4771-bd12-5eb6a69e10ab": {
+      "type": "section-rich-text",
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "text": "<p>Artibloom basiert auf der Idee, dein Zuhause in eine helle Wohlfühloase zu verwandeln. Voller Wärme, Energie und Geborgenheit. Damit du dich Zuhause wie im Urlaub fühlst.<\/p>",
+        "text_size": 3,
+        "text_columns": 1,
+        "align_text": "text-center",
+        "button_text": "",
+        "button_url": "",
+        "button_color": "btn--white",
+        "button_style": "caps--large",
+        "height": "margin--small",
+        "width": "wrapper",
+        "text_color": "text-light",
+        "bg_color": "#ffa384"
+      }
+    },
     "8aab85e1-f784-4e3e-8ef0-b9fe71e0158a": {
       "type": "section-accordion",
       "settings": {
@@ -104,25 +123,6 @@
         "dot_color": "#ffffb0"
       }
     },
-    "87e74b6f-3a58-424a-a837-3326c546a826": {
-      "type": "section-rich-text",
-      "settings": {
-        "subheading": "",
-        "title": "",
-        "text": "<p>\"Wenn ich an dich denke, denk ich an Sonne. Innen & Außen.\"<\/p>",
-        "text_size": 4,
-        "text_columns": 1,
-        "align_text": "text-center",
-        "button_text": "",
-        "button_url": "",
-        "button_color": "btn--primary",
-        "button_style": "caps--large",
-        "height": "margin--small",
-        "width": "wrapper--full",
-        "text_color": "text-light",
-        "bg_color": "#ffa384"
-      }
-    },
     "384e68e0-92dd-458e-99d1-37e31c86e416": {
       "type": "section-look",
       "blocks": {
@@ -144,6 +144,25 @@
         "title": "Vorbestellung: Servierschale PITU -limited Edition-",
         "section_bg": "#ffffb0",
         "dot_color": "#ffffff"
+      }
+    },
+    "87e74b6f-3a58-424a-a837-3326c546a826": {
+      "type": "section-rich-text",
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "text": "<p>\"Wenn ich an dich denke, denk ich an Sonne. Innen & Außen.\"<\/p>",
+        "text_size": 4,
+        "text_columns": 1,
+        "align_text": "text-center",
+        "button_text": "",
+        "button_url": "",
+        "button_color": "btn--primary",
+        "button_style": "caps--large",
+        "height": "margin--small",
+        "width": "wrapper--full",
+        "text_color": "text-light",
+        "bg_color": "#ffa384"
       }
     },
     "1664792203283870e0": {
@@ -222,25 +241,6 @@
         "layout": "grid",
         "aspect_ratio": 0.8,
         "enable_slider": false
-      }
-    },
-    "4645ce5c-645b-4771-bd12-5eb6a69e10ab": {
-      "type": "section-rich-text",
-      "settings": {
-        "subheading": "",
-        "title": "",
-        "text": "<p>Artibloom basiert auf der Idee, dein Zuhause in eine helle Wohlfühloase zu verwandeln. Voller Wärme, Energie und Geborgenheit. Damit du dich Zuhause wie im Urlaub fühlst.<\/p>",
-        "text_size": 3,
-        "text_columns": 1,
-        "align_text": "text-center",
-        "button_text": "",
-        "button_url": "",
-        "button_color": "btn--white",
-        "button_style": "caps--large",
-        "height": "margin--small",
-        "width": "wrapper",
-        "text_color": "text-light",
-        "bg_color": "#ffa384"
       }
     },
     "1f370597-5d5b-430e-8ce4-2a6926c59b78": {
@@ -350,7 +350,7 @@
         "template--16179445268748__ecd72cdc-1984-41e4-a691-c1be23ad7571-product-1": {
           "type": "product",
           "settings": {
-            "product": "servierplatte-kuchenplatte-malo-cremeweiss",
+            "product": "teller-kuchenteller-mero-rosa",
             "position_x": 35,
             "position_y": 15
           }
@@ -360,7 +360,7 @@
         "template--16179445268748__ecd72cdc-1984-41e4-a691-c1be23ad7571-product-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/IMG_7496.heic",
+        "image": "shopify:\/\/shop_images\/2BAB8220-9941-4612-90AC-DC31C5D0FB14.jpg",
         "bg_position": "center-center",
         "title": "",
         "section_bg": "#fafafa",
@@ -494,12 +494,12 @@
   "order": [
     "758c2e31-4b04-4178-83d4-87c08c3515f7",
     "e964c5a2-781a-46bf-80aa-0eeaf4f66902",
+    "4645ce5c-645b-4771-bd12-5eb6a69e10ab",
     "8aab85e1-f784-4e3e-8ef0-b9fe71e0158a",
     "5e5a2c69-2028-408f-8c5b-02c46d684418",
-    "87e74b6f-3a58-424a-a837-3326c546a826",
     "384e68e0-92dd-458e-99d1-37e31c86e416",
+    "87e74b6f-3a58-424a-a837-3326c546a826",
     "1664792203283870e0",
-    "4645ce5c-645b-4771-bd12-5eb6a69e10ab",
     "1f370597-5d5b-430e-8ce4-2a6926c59b78",
     "20e3dc42-c347-4d36-beeb-a68a33b3039d",
     "ecd72cdc-1984-41e4-a691-c1be23ad7571",

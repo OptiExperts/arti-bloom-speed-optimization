@@ -35,7 +35,7 @@
             "flex_align": "align--middle-center",
             "text_color": "text-light",
             "transparent": true,
-            "link_text": "Jetzt sonnige Kunst entdecken",
+            "link_text": "Sonnige Kunst entdecken",
             "link": "shopify:\/\/pages\/kunst",
             "button_color": "btn--primary",
             "button_style": "hero__btn btn btn--input caps"

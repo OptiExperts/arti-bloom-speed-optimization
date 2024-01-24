@@ -524,13 +524,22 @@
             "position_x": 9,
             "position_y": 47
           }
+        },
+        "product_QERE3a": {
+          "type": "product",
+          "settings": {
+            "product": "sunshine-stone-in-lavendel-by-artibloom",
+            "position_x": 62,
+            "position_y": 50
+          }
         }
       },
       "block_order": [
         "product_X9TYcq",
         "product_Ct9zqC",
         "product_jFphqi",
-        "product_mpaEiJ"
+        "product_mpaEiJ",
+        "product_QERE3a"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Tezza-1382_80ff3e16-52e3-4b7e-b54b-ac908c425114.jpg",

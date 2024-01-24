@@ -508,11 +508,20 @@
             "position_x": 50,
             "position_y": 74
           }
+        },
+        "product_jFphqi": {
+          "type": "product",
+          "settings": {
+            "product": "sunshine-stone-gruen-by-artibloom-relax-geschenk",
+            "position_x": 79,
+            "position_y": 84
+          }
         }
       },
       "block_order": [
         "product_X9TYcq",
-        "product_Ct9zqC"
+        "product_Ct9zqC",
+        "product_jFphqi"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Tezza-1382_80ff3e16-52e3-4b7e-b54b-ac908c425114.jpg",

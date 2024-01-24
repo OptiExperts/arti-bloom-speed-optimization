@@ -489,6 +489,38 @@
         "borders": false,
         "wrapper": false
       }
+    },
+    "section_look_tpfMQK": {
+      "type": "section-look",
+      "blocks": {
+        "product_X9TYcq": {
+          "type": "product",
+          "settings": {
+            "product": "",
+            "position_x": 50,
+            "position_y": 50
+          }
+        },
+        "product_Ct9zqC": {
+          "type": "product",
+          "settings": {
+            "product": "",
+            "position_x": 50,
+            "position_y": 50
+          }
+        }
+      },
+      "block_order": [
+        "product_X9TYcq",
+        "product_Ct9zqC"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Tezza-1382_80ff3e16-52e3-4b7e-b54b-ac908c425114.jpg",
+        "bg_position": "center-center",
+        "title": "Shop the look",
+        "section_bg": "#fafafa",
+        "dot_color": "#FFFFFF"
+      }
     }
   },
   "order": [
@@ -507,6 +539,7 @@
     "2330aac2-fef2-4b9b-9ff8-0abf1b4c39bc",
     "1671439456a7175f2a",
     "16980903992abb7388",
-    "166076845484879d57"
+    "166076845484879d57",
+    "section_look_tpfMQK"
   ]
 }

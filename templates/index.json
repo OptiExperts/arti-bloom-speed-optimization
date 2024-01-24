@@ -516,12 +516,21 @@
             "position_x": 79,
             "position_y": 84
           }
+        },
+        "product_mpaEiJ": {
+          "type": "product",
+          "settings": {
+            "product": "sunshine-stone-ozeanblau-by-artibloom",
+            "position_x": 9,
+            "position_y": 47
+          }
         }
       },
       "block_order": [
         "product_X9TYcq",
         "product_Ct9zqC",
-        "product_jFphqi"
+        "product_jFphqi",
+        "product_mpaEiJ"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Tezza-1382_80ff3e16-52e3-4b7e-b54b-ac908c425114.jpg",

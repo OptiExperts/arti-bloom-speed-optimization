@@ -74,65 +74,6 @@
         "bg_color": "#ffa384"
       }
     },
-    "section_look_tpfMQK": {
-      "type": "section-look",
-      "blocks": {
-        "product_X9TYcq": {
-          "type": "product",
-          "settings": {
-            "product": "sunshine-stone-orange-by-artibloom-relax-geschenk",
-            "position_x": 50,
-            "position_y": 50
-          }
-        },
-        "product_Ct9zqC": {
-          "type": "product",
-          "settings": {
-            "product": "sunshine-stone-gelb-relax-geschenk-artibloom",
-            "position_x": 50,
-            "position_y": 74
-          }
-        },
-        "product_jFphqi": {
-          "type": "product",
-          "settings": {
-            "product": "sunshine-stone-gruen-by-artibloom-relax-geschenk",
-            "position_x": 79,
-            "position_y": 84
-          }
-        },
-        "product_mpaEiJ": {
-          "type": "product",
-          "settings": {
-            "product": "sunshine-stone-ozeanblau-by-artibloom",
-            "position_x": 9,
-            "position_y": 47
-          }
-        },
-        "product_QERE3a": {
-          "type": "product",
-          "settings": {
-            "product": "sunshine-stone-in-lavendel-by-artibloom",
-            "position_x": 62,
-            "position_y": 50
-          }
-        }
-      },
-      "block_order": [
-        "product_X9TYcq",
-        "product_Ct9zqC",
-        "product_jFphqi",
-        "product_mpaEiJ",
-        "product_QERE3a"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Tezza-1382_80ff3e16-52e3-4b7e-b54b-ac908c425114.jpg",
-        "bg_position": "center-center",
-        "title": "Shop the look",
-        "section_bg": "#fafafa",
-        "dot_color": "#ffffff"
-      }
-    },
     "e964c5a2-781a-46bf-80aa-0eeaf4f66902": {
       "type": "section-rich-text",
       "disabled": true,
@@ -279,7 +220,7 @@
         "image": "shopify:\/\/shop_images\/FBFD890A-B048-496A-8C17-A1EDD1334257.jpg",
         "bg_position": "center-center",
         "title": "Vorbestellung: Servierschale PITU -limited Edition-",
-        "section_bg": "#ffa384",
+        "section_bg": "#ffffb0",
         "dot_color": "#ffffff"
       }
     },
@@ -300,6 +241,65 @@
         "width": "wrapper--full",
         "text_color": "text-light",
         "bg_color": "#ffa384"
+      }
+    },
+    "section_look_tpfMQK": {
+      "type": "section-look",
+      "blocks": {
+        "product_X9TYcq": {
+          "type": "product",
+          "settings": {
+            "product": "sunshine-stone-orange-by-artibloom-relax-geschenk",
+            "position_x": 50,
+            "position_y": 50
+          }
+        },
+        "product_Ct9zqC": {
+          "type": "product",
+          "settings": {
+            "product": "sunshine-stone-gelb-relax-geschenk-artibloom",
+            "position_x": 50,
+            "position_y": 74
+          }
+        },
+        "product_jFphqi": {
+          "type": "product",
+          "settings": {
+            "product": "sunshine-stone-gruen-by-artibloom-relax-geschenk",
+            "position_x": 79,
+            "position_y": 84
+          }
+        },
+        "product_mpaEiJ": {
+          "type": "product",
+          "settings": {
+            "product": "sunshine-stone-ozeanblau-by-artibloom",
+            "position_x": 9,
+            "position_y": 47
+          }
+        },
+        "product_QERE3a": {
+          "type": "product",
+          "settings": {
+            "product": "sunshine-stone-in-lavendel-by-artibloom",
+            "position_x": 62,
+            "position_y": 50
+          }
+        }
+      },
+      "block_order": [
+        "product_X9TYcq",
+        "product_Ct9zqC",
+        "product_jFphqi",
+        "product_mpaEiJ",
+        "product_QERE3a"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Tezza-1382_80ff3e16-52e3-4b7e-b54b-ac908c425114.jpg",
+        "bg_position": "center-center",
+        "title": "Shop the look",
+        "section_bg": "#fafafa",
+        "dot_color": "#ffffff"
       }
     },
     "1f370597-5d5b-430e-8ce4-2a6926c59b78": {
@@ -553,13 +553,13 @@
   "order": [
     "758c2e31-4b04-4178-83d4-87c08c3515f7",
     "4645ce5c-645b-4771-bd12-5eb6a69e10ab",
-    "section_look_tpfMQK",
     "e964c5a2-781a-46bf-80aa-0eeaf4f66902",
     "8aab85e1-f784-4e3e-8ef0-b9fe71e0158a",
     "5e5a2c69-2028-408f-8c5b-02c46d684418",
     "1664792203283870e0",
     "384e68e0-92dd-458e-99d1-37e31c86e416",
     "87e74b6f-3a58-424a-a837-3326c546a826",
+    "section_look_tpfMQK",
     "1f370597-5d5b-430e-8ce4-2a6926c59b78",
     "20e3dc42-c347-4d36-beeb-a68a33b3039d",
     "ecd72cdc-1984-41e4-a691-c1be23ad7571",

@@ -224,6 +224,25 @@
         "dot_color": "#ffffff"
       }
     },
+    "87e74b6f-3a58-424a-a837-3326c546a826": {
+      "type": "section-rich-text",
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "text": "<p>\"Wenn ich an dich denke, denk ich an Sonne. Innen & Außen.\"<\/p>",
+        "text_size": 4,
+        "text_columns": 1,
+        "align_text": "text-center",
+        "button_text": "",
+        "button_url": "",
+        "button_color": "btn--primary",
+        "button_style": "caps--large",
+        "height": "margin--small",
+        "width": "wrapper--full",
+        "text_color": "text-light",
+        "bg_color": "#ffa384"
+      }
+    },
     "section_product_87FAjE": {
       "type": "section-product",
       "blocks": {
@@ -274,25 +293,6 @@
         "image_layout": "thumbnails",
         "enable_zoom": true,
         "enable_video_looping": false
-      }
-    },
-    "87e74b6f-3a58-424a-a837-3326c546a826": {
-      "type": "section-rich-text",
-      "settings": {
-        "subheading": "",
-        "title": "",
-        "text": "<p>\"Wenn ich an dich denke, denk ich an Sonne. Innen & Außen.\"<\/p>",
-        "text_size": 4,
-        "text_columns": 1,
-        "align_text": "text-center",
-        "button_text": "",
-        "button_url": "",
-        "button_color": "btn--primary",
-        "button_style": "caps--large",
-        "height": "margin--small",
-        "width": "wrapper--full",
-        "text_color": "text-light",
-        "bg_color": "#ffa384"
       }
     },
     "section_look_tpfMQK": {
@@ -610,8 +610,8 @@
     "5e5a2c69-2028-408f-8c5b-02c46d684418",
     "1664792203283870e0",
     "384e68e0-92dd-458e-99d1-37e31c86e416",
-    "section_product_87FAjE",
     "87e74b6f-3a58-424a-a837-3326c546a826",
+    "section_product_87FAjE",
     "section_look_tpfMQK",
     "1f370597-5d5b-430e-8ce4-2a6926c59b78",
     "20e3dc42-c347-4d36-beeb-a68a33b3039d",

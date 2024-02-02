@@ -548,6 +548,58 @@
         "borders": false,
         "wrapper": false
       }
+    },
+    "section_product_6QjxqQ": {
+      "type": "section-product",
+      "blocks": {
+        "price_and_title_eRHbpW": {
+          "type": "price_and_title",
+          "settings": {
+            "subheading_option": "none",
+            "show_rating": true,
+            "enable_star_rating": true,
+            "show_rating_count": false
+          }
+        },
+        "form_r8fKEN": {
+          "type": "form",
+          "settings": {
+            "info_page": "",
+            "show_labels": false,
+            "show_quantity": true,
+            "show_payment_button": true,
+            "subscriptions_enable_selectors": true
+          }
+        },
+        "tab_richtext_d4eYaL": {
+          "type": "tab_richtext",
+          "settings": {
+            "show_read_more": true,
+            "style": "tabs",
+            "title_1": "Tab",
+            "raw_content_1": "<p>This content type will accept <strong>rich text<\/strong> to help with adding styles and links to additional pages or content. Use this to add supplementary information to help your buyers.<\/p>",
+            "title_2": "Info",
+            "raw_content_2": "<p>You can use product metafields to assign content to this tab that is unique to an individual product.  Use tabs to highlight unique features, sizing information, or other sales information.<\/p>",
+            "title_3": "",
+            "raw_content_3": "",
+            "title_4": "",
+            "raw_content_4": "",
+            "title_5": "",
+            "raw_content_5": ""
+          }
+        }
+      },
+      "block_order": [
+        "price_and_title_eRHbpW",
+        "form_r8fKEN",
+        "tab_richtext_d4eYaL"
+      ],
+      "settings": {
+        "home_product": "matcha-bowl-hellgrun-servierschale",
+        "image_layout": "thumbnails-left",
+        "enable_zoom": true,
+        "enable_video_looping": false
+      }
     }
   },
   "order": [
@@ -567,6 +619,7 @@
     "2330aac2-fef2-4b9b-9ff8-0abf1b4c39bc",
     "1671439456a7175f2a",
     "16980903992abb7388",
-    "166076845484879d57"
+    "166076845484879d57",
+    "section_product_6QjxqQ"
   ]
 }

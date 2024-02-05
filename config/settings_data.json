@@ -99,6 +99,23 @@
       },
       "announcement": {
         "type": "announcement",
+        "blocks": {
+          "text_9NWFX7": {
+            "type": "text",
+            "settings": {
+              "text": "<p><strong>PERSONALIZE<\/strong> | Keramik & Kunst nach Farbwunsch und Größe möglich. Schreibe uns gerne direkt.<\/p>",
+              "target_url_enabled": false,
+              "target_url": "",
+              "target_referrer_enabled": false,
+              "target_referrer": "",
+              "target_device_enabled": false,
+              "target_device": "mobile"
+            }
+          }
+        },
+        "block_order": [
+          "text_9NWFX7"
+        ],
         "settings": {
           "bg_color": "#ffffb0",
           "color": "#ffa384",

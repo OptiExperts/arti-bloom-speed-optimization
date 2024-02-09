@@ -243,58 +243,6 @@
         "bg_color": "#ffa384"
       }
     },
-    "section_product_87FAjE": {
-      "type": "section-product",
-      "blocks": {
-        "price_and_title_tgXzei": {
-          "type": "price_and_title",
-          "settings": {
-            "subheading_option": "none",
-            "show_rating": true,
-            "enable_star_rating": true,
-            "show_rating_count": false
-          }
-        },
-        "form_Dx4Hqg": {
-          "type": "form",
-          "settings": {
-            "info_page": "",
-            "show_labels": false,
-            "show_quantity": true,
-            "show_payment_button": true,
-            "subscriptions_enable_selectors": true
-          }
-        },
-        "tab_richtext_gWBgqe": {
-          "type": "tab_richtext",
-          "settings": {
-            "show_read_more": false,
-            "style": "tabs",
-            "title_1": "Tab",
-            "raw_content_1": "",
-            "title_2": "Info",
-            "raw_content_2": "",
-            "title_3": "",
-            "raw_content_3": "",
-            "title_4": "",
-            "raw_content_4": "",
-            "title_5": "",
-            "raw_content_5": ""
-          }
-        }
-      },
-      "block_order": [
-        "price_and_title_tgXzei",
-        "form_Dx4Hqg",
-        "tab_richtext_gWBgqe"
-      ],
-      "settings": {
-        "home_product": "matcha-bowl-hellgrun-servierschale",
-        "image_layout": "thumbnails",
-        "enable_zoom": true,
-        "enable_video_looping": false
-      }
-    },
     "section_look_tpfMQK": {
       "type": "section-look",
       "blocks": {
@@ -611,7 +559,6 @@
     "1664792203283870e0",
     "384e68e0-92dd-458e-99d1-37e31c86e416",
     "87e74b6f-3a58-424a-a837-3326c546a826",
-    "section_product_87FAjE",
     "section_look_tpfMQK",
     "1f370597-5d5b-430e-8ce4-2a6926c59b78",
     "20e3dc42-c347-4d36-beeb-a68a33b3039d",

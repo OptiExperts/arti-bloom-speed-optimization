@@ -409,9 +409,9 @@
         "template--16179445268748__ecd72cdc-1984-41e4-a691-c1be23ad7571-product-1": {
           "type": "product",
           "settings": {
-            "product": "teller-kuchenteller-mero-rosa",
-            "position_x": 35,
-            "position_y": 15
+            "product": "krug-summer-gelb",
+            "position_x": 53,
+            "position_y": 52
           }
         }
       },
@@ -419,7 +419,7 @@
         "template--16179445268748__ecd72cdc-1984-41e4-a691-c1be23ad7571-product-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/2BAB8220-9941-4612-90AC-DC31C5D0FB14.jpg",
+        "image": "shopify:\/\/shop_images\/ArtibloomKrugKaraffegelb.jpg",
         "bg_position": "center-center",
         "title": "",
         "section_bg": "#fafafa",

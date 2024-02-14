@@ -21,7 +21,6 @@
     },
     "1659910112c5d65e7e": {
       "type": "section-custom-content",
-      "disabled": true,
       "blocks": {
         "165991011212e76d8b-0": {
           "type": "image",
@@ -63,6 +62,7 @@
         "165991011212e76d8b-0",
         "165991011212e76d8b-1"
       ],
+      "disabled": true,
       "settings": {
         "height": "screen-height-one-half",
         "padding": false,
@@ -111,7 +111,7 @@
           "settings": {
             "subheading": "",
             "title": "Wer steckt dahinter?",
-            "text": "<p>Olá, ich bin Lara und freue mich riesig, dass du Artibloom entdeckst.<br\/><br\/>Artibloom vereint meine absoluten Leidenschaften. Durch sonnige Keramik und Kunst werden Räume erhellt und zum strahlen gebracht. <\/p><p>Auf meiner Weltreise haben mich zahlreiche sonnige Orte und Menschen inspiriert und ich konnte die Handwerkskunst und Einrichtungsstile verschiedener Länder bewundern. Genau das bringe ich jetzt, aus Düsseldorf heraus, bei Artibloom ein. Hierbei verkörpert vor allem der mediterrane Raum durch die Kulturen, Sonnenstunden, das Freiheitsgefühl und die Natur den Artibloom Spirit.<\/p><p><br\/>KERAMIK<br\/>Nach einigen Töpferkursen mache ich kleine Dekoartikel selber und wähle die sonnige Artibloom Keramik in Portugal und Spanien aus. Dabei achte ich auf die Harmonie, Natürlichkeit und Besonderheit der Kollektion.<br\/><br\/>KUNST<br\/>Ich liebe es zu malen und dabei Zeit und Raum verschmelzen zu lassen. Inspiriert von der Natur, schönen Reisemomenten und Gefühlen. Kunst kann Räume verändern und ich hoffe du findest Inspiration in der Kunst wunderbarer Künstlerinnen aus Europa und meinen abstrakten Bildern.<br\/><br\/>EINRICHTUNGSBERATUNG<br\/>Ganz nach dem Motto \"Lass die Sonne rein\" gehe ich seit meinem Interior Design Studium auch bei der individuellen Einrichtungsberatung vor und schaffe eine helle Wohlfühlatmosphäre in Räumen.<br\/><br\/>Ich freue mich sehr, dass DU hier bist🫶🏼<br\/><br\/>Happy sunny 2023,<br\/>Lara von Artibloom<\/p>",
+            "text": "<p>Olá, ich bin Lara und freue mich riesig, dass du Artibloom entdeckst.<br\/><br\/>Artibloom vereint meine absoluten Leidenschaften. Durch sonnige Keramik und Kunst werden Räume erhellt und zum strahlen gebracht. <\/p><p>Auf meiner Weltreise haben mich zahlreiche sonnige Orte und Menschen inspiriert und ich konnte die Handwerkskunst und Einrichtungsstile verschiedener Länder bewundern. Genau das bringe ich jetzt, aus Düsseldorf heraus, bei Artibloom ein. Hierbei verkörpert vor allem der mediterrane Raum durch die Kulturen, Sonnenstunden, das Freiheitsgefühl und die Natur den Artibloom Spirit.<\/p><p><br\/>KERAMIK<br\/>Töpferkunst United: Ich wähle sonnige Keramik-Unikate in Portugal und Spanien aus und komplementiere die Artibloom Kollektion mit meiner eigenen handgemachten Keramik. Ich liebe es an der Scheibe zu drehen, per Hand zu modellierem oder besondere Pieces unter der mediterranen Sonne auszuwählen.  Alles in hellen Farben und mit guten Vibes. Dabei achte ich auf die Harmonie, Natürlichkeit und Besonderheit der Artibloom Kollektion. <br\/><br\/>KUNST<br\/>Ich liebe es zu malen und dabei Zeit und Raum verschmelzen zu lassen. Inspiriert von der Natur, schönen Reisemomenten und Gefühlen. Kunst kann Räume verändern und ich hoffe du findest Inspiration in der Kunst wunderbarer Künstlerinnen aus Europa und meinen abstrakten Bildern.<br\/><br\/>EINRICHTUNGSBERATUNG<br\/>Ganz nach dem Motto \"Lass die Sonne rein\" gehe ich seit meinem Interior Design Studium auch bei der individuellen Einrichtungsberatung vor und schaffe eine helle Wohlfühlatmosphäre in Räumen.<br\/><br\/>Ich freue mich sehr, dass DU hier bist🫶🏼<br\/><br\/>Happy sunny 2023,<br\/>Lara von Artibloom<\/p>",
             "text_size": 2,
             "text_columns": 1,
             "align_text": "text-left",
@@ -237,7 +237,6 @@
     },
     "custom-content-5": {
       "type": "section-custom-content",
-      "disabled": true,
       "blocks": {
         "image-5-1": {
           "type": "image",
@@ -280,6 +279,7 @@
         "image-5-1",
         "image-5-2"
       ],
+      "disabled": true,
       "settings": {
         "height": "screen-height-one-half",
         "padding": false,

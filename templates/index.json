@@ -266,6 +266,52 @@
         "dot_color": "#ffffff"
       }
     },
+    "20e3dc42-c347-4d36-beeb-a68a33b3039d": {
+      "type": "section-text-row",
+      "blocks": {
+        "template--16179445268748__20e3dc42-c347-4d36-beeb-a68a33b3039d-16763764707b900096-0": {
+          "type": "text-item",
+          "settings": {
+            "icon_name": "icon-water",
+            "icon_color": "#ffffb0",
+            "title": "",
+            "text": "Spülmaschinenfest"
+          }
+        },
+        "template--16179445268748__20e3dc42-c347-4d36-beeb-a68a33b3039d-16763764707b900096-1": {
+          "type": "text-item",
+          "settings": {
+            "icon_name": "icon-earth",
+            "icon_color": "#ffffb0",
+            "title": "",
+            "text": "Ofenfest"
+          }
+        },
+        "template--16179445268748__20e3dc42-c347-4d36-beeb-a68a33b3039d-16763764707b900096-2": {
+          "type": "text-item",
+          "settings": {
+            "icon_name": "icon-leaf",
+            "icon_color": "#ffffb0",
+            "title": "",
+            "text": "Natürlich"
+          }
+        }
+      },
+      "block_order": [
+        "template--16179445268748__20e3dc42-c347-4d36-beeb-a68a33b3039d-16763764707b900096-0",
+        "template--16179445268748__20e3dc42-c347-4d36-beeb-a68a33b3039d-16763764707b900096-1",
+        "template--16179445268748__20e3dc42-c347-4d36-beeb-a68a33b3039d-16763764707b900096-2"
+      ],
+      "settings": {
+        "text_alignment": "center",
+        "icon_size": 30,
+        "icon_alignment": "icon--top",
+        "text_color": "text-light",
+        "heading_size": "h6",
+        "height": "margin--small",
+        "bg_color": "#ffa384"
+      }
+    },
     "section_look_tpfMQK": {
       "type": "section-look",
       "blocks": {
@@ -380,52 +426,6 @@
         "autoplay_speed": 8
       }
     },
-    "20e3dc42-c347-4d36-beeb-a68a33b3039d": {
-      "type": "section-text-row",
-      "blocks": {
-        "template--16179445268748__20e3dc42-c347-4d36-beeb-a68a33b3039d-16763764707b900096-0": {
-          "type": "text-item",
-          "settings": {
-            "icon_name": "icon-water",
-            "icon_color": "#ffffb0",
-            "title": "",
-            "text": "Spülmaschinenfest"
-          }
-        },
-        "template--16179445268748__20e3dc42-c347-4d36-beeb-a68a33b3039d-16763764707b900096-1": {
-          "type": "text-item",
-          "settings": {
-            "icon_name": "icon-earth",
-            "icon_color": "#ffffb0",
-            "title": "",
-            "text": "Ofenfest"
-          }
-        },
-        "template--16179445268748__20e3dc42-c347-4d36-beeb-a68a33b3039d-16763764707b900096-2": {
-          "type": "text-item",
-          "settings": {
-            "icon_name": "icon-leaf",
-            "icon_color": "#ffffb0",
-            "title": "",
-            "text": "Natürlich"
-          }
-        }
-      },
-      "block_order": [
-        "template--16179445268748__20e3dc42-c347-4d36-beeb-a68a33b3039d-16763764707b900096-0",
-        "template--16179445268748__20e3dc42-c347-4d36-beeb-a68a33b3039d-16763764707b900096-1",
-        "template--16179445268748__20e3dc42-c347-4d36-beeb-a68a33b3039d-16763764707b900096-2"
-      ],
-      "settings": {
-        "text_alignment": "center",
-        "icon_size": 30,
-        "icon_alignment": "icon--top",
-        "text_color": "text-light",
-        "heading_size": "h6",
-        "height": "margin--small",
-        "bg_color": "#ffa384"
-      }
-    },
     "16596338637d51486d": {
       "type": "section-hero",
       "settings": {
@@ -435,7 +435,7 @@
         "height": "sixty-fifty-height-hero",
         "overlay_opacity": 0,
         "overlay_color": "#000000",
-        "title": "SONNIGE KUNST",
+        "title": "SONNIGE KUNST AUF LEINWAND",
         "description": "",
         "flex_align": "align--middle-center",
         "text_color": "text-light",
@@ -560,9 +560,9 @@
     "384e68e0-92dd-458e-99d1-37e31c86e416",
     "87e74b6f-3a58-424a-a837-3326c546a826",
     "ecd72cdc-1984-41e4-a691-c1be23ad7571",
+    "20e3dc42-c347-4d36-beeb-a68a33b3039d",
     "section_look_tpfMQK",
     "1f370597-5d5b-430e-8ce4-2a6926c59b78",
-    "20e3dc42-c347-4d36-beeb-a68a33b3039d",
     "16596338637d51486d",
     "2330aac2-fef2-4b9b-9ff8-0abf1b4c39bc",
     "1671439456a7175f2a",

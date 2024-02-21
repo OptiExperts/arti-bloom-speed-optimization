@@ -94,28 +94,6 @@
         "bg_color": "#ffa384"
       }
     },
-    "section_split_hero_hbKFbA": {
-      "type": "section-split-hero",
-      "settings": {
-        "image_height": "screen-height-full",
-        "mobile_layout": "stacked",
-        "image_desktop_left": "shopify:\/\/shop_images\/IMG_0457.heic",
-        "bg_position_left": "center-center",
-        "image_desktop_right": "shopify:\/\/shop_images\/IMG_0448.heic",
-        "bg_position_right": "center-center",
-        "overlay_color": "#000",
-        "overlay_opacity": 0,
-        "title": "MAGIC CUP",
-        "description": "Für mehr magische Sonnenmomente in deinem Leben",
-        "flex_align": "align--middle-center",
-        "text_color": "text-light",
-        "transparent": true,
-        "link_text": "Jetzt vorbestellen",
-        "link": "shopify:\/\/products\/tasse-magic-limited-edition-orange-artibloom-keramik-geschirr-kaffeetasse",
-        "button_color": "btn--primary",
-        "button_style": "hero__btn btn btn--input caps"
-      }
-    },
     "8aab85e1-f784-4e3e-8ef0-b9fe71e0158a": {
       "type": "section-accordion",
       "settings": {
@@ -570,13 +548,44 @@
         "borders": false,
         "wrapper": false
       }
+    },
+    "section_look_RjLWgr": {
+      "type": "section-look",
+      "blocks": {
+        "product_CAmrqF": {
+          "type": "product",
+          "settings": {
+            "product": "",
+            "position_x": 50,
+            "position_y": 50
+          }
+        },
+        "product_LbzB46": {
+          "type": "product",
+          "settings": {
+            "product": "",
+            "position_x": 50,
+            "position_y": 50
+          }
+        }
+      },
+      "block_order": [
+        "product_CAmrqF",
+        "product_LbzB46"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/IMG_0457.heic",
+        "bg_position": "center-center",
+        "title": "VORBESTELLUNG: MAGIC CUP -LIMITED EDITION-",
+        "section_bg": "#ffffb0",
+        "dot_color": "#FFFFFF"
+      }
     }
   },
   "order": [
     "758c2e31-4b04-4178-83d4-87c08c3515f7",
     "4645ce5c-645b-4771-bd12-5eb6a69e10ab",
     "e964c5a2-781a-46bf-80aa-0eeaf4f66902",
-    "section_split_hero_hbKFbA",
     "8aab85e1-f784-4e3e-8ef0-b9fe71e0158a",
     "384e68e0-92dd-458e-99d1-37e31c86e416",
     "1664792203283870e0",
@@ -590,6 +599,7 @@
     "2330aac2-fef2-4b9b-9ff8-0abf1b4c39bc",
     "1671439456a7175f2a",
     "16980903992abb7388",
-    "166076845484879d57"
+    "166076845484879d57",
+    "section_look_RjLWgr"
   ]
 }

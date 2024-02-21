@@ -1,5 +1,11 @@
 {
   "sections": {
+    "8aab85e1-f784-4e3e-8ef0-b9fe71e0158a": {
+      "type": "section-accordion",
+      "settings": {
+        "title": "FAQ"
+      }
+    },
     "758c2e31-4b04-4178-83d4-87c08c3515f7": {
       "type": "section-slideshow",
       "blocks": {
@@ -55,6 +61,25 @@
         "autoplay_speed": 6
       }
     },
+    "4645ce5c-645b-4771-bd12-5eb6a69e10ab": {
+      "type": "section-rich-text",
+      "settings": {
+        "subheading": "Portugiesische, Spanische und Deutsche Handwerkskunst",
+        "title": "Keramik-Unikate mit mediterranem Flair",
+        "text": "<p>Artibloom basiert auf der Idee, dein Zuhause in eine helle Wohlfühloase zu verwandeln. Voller Wärme, Energie und Geborgenheit. Damit du dich Zuhause wie im Urlaub fühlst.<\/p>",
+        "text_size": 3,
+        "text_columns": 1,
+        "align_text": "text-center",
+        "button_text": "",
+        "button_url": "",
+        "button_color": "btn--white",
+        "button_style": "caps--large",
+        "height": "margin--small",
+        "width": "wrapper",
+        "text_color": "text-light",
+        "bg_color": "#ffa384"
+      }
+    },
     "section_look_RjLWgr": {
       "type": "section-look",
       "blocks": {
@@ -75,26 +100,7 @@
         "bg_position": "center-center",
         "title": "VORBESTELLUNG: TASSE \"MAGIC\" -LIMITED EDITION-",
         "section_bg": "#ffffb0",
-        "dot_color": "#FFFFFF"
-      }
-    },
-    "4645ce5c-645b-4771-bd12-5eb6a69e10ab": {
-      "type": "section-rich-text",
-      "settings": {
-        "subheading": "Portugiesische, Spanische und Deutsche Handwerkskunst",
-        "title": "Keramik-Unikate mit mediterranem Flair",
-        "text": "<p>Artibloom basiert auf der Idee, dein Zuhause in eine helle Wohlfühloase zu verwandeln. Voller Wärme, Energie und Geborgenheit. Damit du dich Zuhause wie im Urlaub fühlst.<\/p>",
-        "text_size": 3,
-        "text_columns": 1,
-        "align_text": "text-center",
-        "button_text": "",
-        "button_url": "",
-        "button_color": "btn--white",
-        "button_style": "caps--large",
-        "height": "margin--small",
-        "width": "wrapper",
-        "text_color": "text-light",
-        "bg_color": "#ffa384"
+        "dot_color": "#ffffff"
       }
     },
     "e964c5a2-781a-46bf-80aa-0eeaf4f66902": {
@@ -115,12 +121,6 @@
         "width": "wrapper--full",
         "text_color": "text-light",
         "bg_color": "#ffa384"
-      }
-    },
-    "8aab85e1-f784-4e3e-8ef0-b9fe71e0158a": {
-      "type": "section-accordion",
-      "settings": {
-        "title": "FAQ"
       }
     },
     "384e68e0-92dd-458e-99d1-37e31c86e416": {
@@ -574,11 +574,11 @@
     }
   },
   "order": [
-    "758c2e31-4b04-4178-83d4-87c08c3515f7",
-    "section_look_RjLWgr",
-    "4645ce5c-645b-4771-bd12-5eb6a69e10ab",
-    "e964c5a2-781a-46bf-80aa-0eeaf4f66902",
     "8aab85e1-f784-4e3e-8ef0-b9fe71e0158a",
+    "758c2e31-4b04-4178-83d4-87c08c3515f7",
+    "4645ce5c-645b-4771-bd12-5eb6a69e10ab",
+    "section_look_RjLWgr",
+    "e964c5a2-781a-46bf-80aa-0eeaf4f66902",
     "384e68e0-92dd-458e-99d1-37e31c86e416",
     "1664792203283870e0",
     "5e5a2c69-2028-408f-8c5b-02c46d684418",

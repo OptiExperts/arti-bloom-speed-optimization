@@ -555,23 +555,14 @@
         "product_CAmrqF": {
           "type": "product",
           "settings": {
-            "product": "",
-            "position_x": 50,
-            "position_y": 50
-          }
-        },
-        "product_LbzB46": {
-          "type": "product",
-          "settings": {
-            "product": "",
+            "product": "tasse-magic-limited-edition-orange-artibloom-keramik-geschirr-kaffeetasse",
             "position_x": 50,
             "position_y": 50
           }
         }
       },
       "block_order": [
-        "product_CAmrqF",
-        "product_LbzB46"
+        "product_CAmrqF"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/IMG_0457.heic",

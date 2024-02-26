@@ -221,7 +221,7 @@
         "description": "<p>NEW PIECES<\/p>",
         "layout": "grid",
         "aspect_ratio": 0.8,
-        "enable_slider": true
+        "enable_slider": false
       }
     },
     "5e5a2c69-2028-408f-8c5b-02c46d684418": {

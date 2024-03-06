@@ -133,10 +133,19 @@
             "position_x": 50,
             "position_y": 50
           }
+        },
+        "product_7ALEBF": {
+          "type": "product",
+          "settings": {
+            "product": "servierschale-pitu-in-grosse-s-gelb-rose",
+            "position_x": 50,
+            "position_y": 50
+          }
         }
       },
       "block_order": [
-        "template--16179445268748__384e68e0-92dd-458e-99d1-37e31c86e416-product-1"
+        "template--16179445268748__384e68e0-92dd-458e-99d1-37e31c86e416-product-1",
+        "product_7ALEBF"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/FBFD890A-B048-496A-8C17-A1EDD1334257.jpg",

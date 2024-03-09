@@ -80,6 +80,29 @@
         "bg_color": "#ffa384"
       }
     },
+    "5e5a2c69-2028-408f-8c5b-02c46d684418": {
+      "type": "section-look",
+      "blocks": {
+        "template--16179445268748__5e5a2c69-2028-408f-8c5b-02c46d684418-product-1": {
+          "type": "product",
+          "settings": {
+            "product": "set-holiday-artibloom-x-hejsylwi",
+            "position_x": 46,
+            "position_y": 27
+          }
+        }
+      },
+      "block_order": [
+        "template--16179445268748__5e5a2c69-2028-408f-8c5b-02c46d684418-product-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/75E7C9CB-84FE-4C03-BF31-A1EB28DFCBC3.jpg",
+        "bg_position": "center-bottom",
+        "title": "VORBESTELLUNG: TASSE \"NO DRAMA MORE PYJAMA\"",
+        "section_bg": "#ffffb0",
+        "dot_color": "#ffffb0"
+      }
+    },
     "section_look_RjLWgr": {
       "type": "section-look",
       "blocks": {
@@ -99,7 +122,7 @@
         "image": "shopify:\/\/shop_images\/IMG_0457.heic",
         "bg_position": "center-center",
         "title": "VORBESTELLUNG: TASSE \"MAGIC\" -LIMITED EDITION-",
-        "section_bg": "#ffffb0",
+        "section_bg": "#ffffff",
         "dot_color": "#ffffff"
       }
     },
@@ -240,29 +263,6 @@
         "layout": "grid",
         "aspect_ratio": 0.8,
         "enable_slider": false
-      }
-    },
-    "5e5a2c69-2028-408f-8c5b-02c46d684418": {
-      "type": "section-look",
-      "blocks": {
-        "template--16179445268748__5e5a2c69-2028-408f-8c5b-02c46d684418-product-1": {
-          "type": "product",
-          "settings": {
-            "product": "set-holiday-artibloom-x-hejsylwi",
-            "position_x": 46,
-            "position_y": 27
-          }
-        }
-      },
-      "block_order": [
-        "template--16179445268748__5e5a2c69-2028-408f-8c5b-02c46d684418-product-1"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/75E7C9CB-84FE-4C03-BF31-A1EB28DFCBC3.jpg",
-        "bg_position": "center-bottom",
-        "title": "VORBESTELLUNG: TASSE \"NO DRAMA MORE PYJAMA\"",
-        "section_bg": "#ffffb0",
-        "dot_color": "#ffffb0"
       }
     },
     "87e74b6f-3a58-424a-a837-3326c546a826": {
@@ -595,11 +595,11 @@
     "8aab85e1-f784-4e3e-8ef0-b9fe71e0158a",
     "758c2e31-4b04-4178-83d4-87c08c3515f7",
     "4645ce5c-645b-4771-bd12-5eb6a69e10ab",
+    "5e5a2c69-2028-408f-8c5b-02c46d684418",
     "section_look_RjLWgr",
     "e964c5a2-781a-46bf-80aa-0eeaf4f66902",
     "384e68e0-92dd-458e-99d1-37e31c86e416",
     "1664792203283870e0",
-    "5e5a2c69-2028-408f-8c5b-02c46d684418",
     "87e74b6f-3a58-424a-a837-3326c546a826",
     "ecd72cdc-1984-41e4-a691-c1be23ad7571",
     "20e3dc42-c347-4d36-beeb-a68a33b3039d",

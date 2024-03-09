@@ -13,7 +13,7 @@
           "type": "image",
           "settings": {
             "bg_position": "center-center",
-            "image": "shopify:\/\/shop_images\/IMG_1592.heic",
+            "image": "shopify:\/\/shop_images\/0C131F3D-2A8D-4775-A866-07B5955529FA.jpg",
             "mobile_image": "shopify:\/\/shop_images\/IMG_1592.heic",
             "overlay_opacity": 0,
             "overlay_color": "#ffffb0",
@@ -236,7 +236,7 @@
       ],
       "settings": {
         "title": "Trending",
-        "description": "<p>NEW PIECES<\/p>",
+        "description": "<p>SONNIGE KERAMIK FÜR DICH UND DEIN ZUHAUSE<\/p>",
         "layout": "grid",
         "aspect_ratio": 0.8,
         "enable_slider": false

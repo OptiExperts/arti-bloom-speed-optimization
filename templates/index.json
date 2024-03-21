@@ -12,7 +12,7 @@
         "template--16179445268748__758c2e31-4b04-4178-83d4-87c08c3515f7-168596412318a0652d-0": {
           "type": "image",
           "settings": {
-            "bg_position": "center-bottom",
+            "bg_position": "center-center",
             "image": "shopify:\/\/shop_images\/IMG_3300.jpg",
             "mobile_image": "shopify:\/\/shop_images\/Artibloom_X_HejSylwi.jpg",
             "overlay_opacity": 0,

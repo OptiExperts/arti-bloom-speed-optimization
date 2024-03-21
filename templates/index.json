@@ -83,38 +83,20 @@
     "5e5a2c69-2028-408f-8c5b-02c46d684418": {
       "type": "section-look",
       "blocks": {
-        "template--16179445268748__5e5a2c69-2028-408f-8c5b-02c46d684418-product-1": {
+        "product_wgpd3m": {
           "type": "product",
           "settings": {
-            "product": "set-holiday-artibloom-x-hejsylwi",
-            "position_x": 46,
-            "position_y": 27
-          }
-        },
-        "product_XrLmMP": {
-          "type": "product",
-          "settings": {
-            "product": "tasse-no-drama-more-pyjama-orange-tasse-keramik-artibloom",
-            "position_x": 78,
-            "position_y": 11
-          }
-        },
-        "product_9ny9hn": {
-          "type": "product",
-          "settings": {
-            "product": "servierplatte-cake-orange-blau",
-            "position_x": 63,
-            "position_y": 21
+            "product": "tasse-superpower-rosa-beige-weiss-kaffeetasse-artibloom",
+            "position_x": 50,
+            "position_y": 50
           }
         }
       },
       "block_order": [
-        "template--16179445268748__5e5a2c69-2028-408f-8c5b-02c46d684418-product-1",
-        "product_XrLmMP",
-        "product_9ny9hn"
+        "product_wgpd3m"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/75E7C9CB-84FE-4C03-BF31-A1EB28DFCBC3.jpg",
+        "image": "shopify:\/\/shop_images\/IMG_3300.jpg",
         "bg_position": "center-bottom",
         "title": "",
         "section_bg": "#ffffb0",

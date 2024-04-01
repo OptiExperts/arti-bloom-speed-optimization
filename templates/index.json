@@ -381,6 +381,7 @@
         "product_mpaEiJ",
         "product_QERE3a"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/Tezza-1382_80ff3e16-52e3-4b7e-b54b-ac908c425114.jpg",
         "bg_position": "center-center",

@@ -80,29 +80,6 @@
         "bg_color": "#ffa384"
       }
     },
-    "5e5a2c69-2028-408f-8c5b-02c46d684418": {
-      "type": "section-look",
-      "blocks": {
-        "product_wgpd3m": {
-          "type": "product",
-          "settings": {
-            "product": "tasse-superpower-rosa-beige-weiss-kaffeetasse-artibloom",
-            "position_x": 50,
-            "position_y": 50
-          }
-        }
-      },
-      "block_order": [
-        "product_wgpd3m"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/IMG_3300.jpg",
-        "bg_position": "center-bottom",
-        "title": "",
-        "section_bg": "#ffffb0",
-        "dot_color": "#ffffb0"
-      }
-    },
     "section_look_RjLWgr": {
       "type": "section-look",
       "blocks": {
@@ -122,7 +99,7 @@
         "image": "shopify:\/\/shop_images\/IMG_0457.heic",
         "bg_position": "center-center",
         "title": "",
-        "section_bg": "#ffa384",
+        "section_bg": "#ffffb0",
         "dot_color": "#ffffff"
       }
     },
@@ -144,6 +121,47 @@
         "width": "wrapper--full",
         "text_color": "text-light",
         "bg_color": "#ffa384"
+      }
+    },
+    "384e68e0-92dd-458e-99d1-37e31c86e416": {
+      "type": "section-look",
+      "blocks": {
+        "template--16179445268748__384e68e0-92dd-458e-99d1-37e31c86e416-product-1": {
+          "type": "product",
+          "settings": {
+            "product": "vorbestellung-servierschale-pitu",
+            "position_x": 50,
+            "position_y": 50
+          }
+        },
+        "product_7ALEBF": {
+          "type": "product",
+          "settings": {
+            "product": "servierschale-pitu-in-grosse-s-gelb-rose",
+            "position_x": 50,
+            "position_y": 50
+          }
+        },
+        "product_AJyKcC": {
+          "type": "product",
+          "settings": {
+            "product": "servierschale-pitu-in-xl-gelb-rosa-artibloom-getopfertes-handgemacht-schale-tischdeko-dekoschale",
+            "position_x": 50,
+            "position_y": 50
+          }
+        }
+      },
+      "block_order": [
+        "template--16179445268748__384e68e0-92dd-458e-99d1-37e31c86e416-product-1",
+        "product_7ALEBF",
+        "product_AJyKcC"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/FBFD890A-B048-496A-8C17-A1EDD1334257.jpg",
+        "bg_position": "center-center",
+        "title": "",
+        "section_bg": "#ffffb0",
+        "dot_color": "#ffffff"
       }
     },
     "1664792203283870e0": {
@@ -224,47 +242,6 @@
         "enable_slider": false
       }
     },
-    "384e68e0-92dd-458e-99d1-37e31c86e416": {
-      "type": "section-look",
-      "blocks": {
-        "template--16179445268748__384e68e0-92dd-458e-99d1-37e31c86e416-product-1": {
-          "type": "product",
-          "settings": {
-            "product": "vorbestellung-servierschale-pitu",
-            "position_x": 50,
-            "position_y": 50
-          }
-        },
-        "product_7ALEBF": {
-          "type": "product",
-          "settings": {
-            "product": "servierschale-pitu-in-grosse-s-gelb-rose",
-            "position_x": 50,
-            "position_y": 50
-          }
-        },
-        "product_AJyKcC": {
-          "type": "product",
-          "settings": {
-            "product": "servierschale-pitu-in-xl-gelb-rosa-artibloom-getopfertes-handgemacht-schale-tischdeko-dekoschale",
-            "position_x": 50,
-            "position_y": 50
-          }
-        }
-      },
-      "block_order": [
-        "template--16179445268748__384e68e0-92dd-458e-99d1-37e31c86e416-product-1",
-        "product_7ALEBF",
-        "product_AJyKcC"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/FBFD890A-B048-496A-8C17-A1EDD1334257.jpg",
-        "bg_position": "center-center",
-        "title": "",
-        "section_bg": "#ffffb0",
-        "dot_color": "#ffffff"
-      }
-    },
     "87e74b6f-3a58-424a-a837-3326c546a826": {
       "type": "section-rich-text",
       "settings": {
@@ -305,6 +282,29 @@
         "title": "",
         "section_bg": "#fafafa",
         "dot_color": "#ffffff"
+      }
+    },
+    "5e5a2c69-2028-408f-8c5b-02c46d684418": {
+      "type": "section-look",
+      "blocks": {
+        "product_wgpd3m": {
+          "type": "product",
+          "settings": {
+            "product": "tasse-superpower-rosa-beige-weiss-kaffeetasse-artibloom",
+            "position_x": 50,
+            "position_y": 50
+          }
+        }
+      },
+      "block_order": [
+        "product_wgpd3m"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/IMG_3300.jpg",
+        "bg_position": "center-bottom",
+        "title": "",
+        "section_bg": "#ffffb0",
+        "dot_color": "#ffffb0"
       }
     },
     "20e3dc42-c347-4d36-beeb-a68a33b3039d": {
@@ -595,13 +595,13 @@
     "8aab85e1-f784-4e3e-8ef0-b9fe71e0158a",
     "758c2e31-4b04-4178-83d4-87c08c3515f7",
     "4645ce5c-645b-4771-bd12-5eb6a69e10ab",
-    "5e5a2c69-2028-408f-8c5b-02c46d684418",
     "section_look_RjLWgr",
     "e964c5a2-781a-46bf-80aa-0eeaf4f66902",
-    "1664792203283870e0",
     "384e68e0-92dd-458e-99d1-37e31c86e416",
+    "1664792203283870e0",
     "87e74b6f-3a58-424a-a837-3326c546a826",
     "ecd72cdc-1984-41e4-a691-c1be23ad7571",
+    "5e5a2c69-2028-408f-8c5b-02c46d684418",
     "20e3dc42-c347-4d36-beeb-a68a33b3039d",
     "section_look_tpfMQK",
     "1f370597-5d5b-430e-8ce4-2a6926c59b78",

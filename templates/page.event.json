@@ -1,0 +1,108 @@
+{
+  "sections": {
+    "1659865114acde6760": {
+      "type": "section-custom-content",
+      "blocks": {
+        "1659865113cab37701-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/sunset-surfing.jpg",
+            "bg_position": "center-center",
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "title": "",
+            "description": "",
+            "flex_align": "align--middle-center",
+            "text_color": "text-light",
+            "transparent": true,
+            "link_text": "",
+            "link": "shopify:\/\/pages\/contact",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        },
+        "1659865113cab37701-1": {
+          "type": "text",
+          "settings": {
+            "subheading": "Artibloom leistet einen Beitrag",
+            "title": "Für eine schöne und nachhaltige Welt",
+            "text": "",
+            "text_size": 2,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "text_color": "text-light",
+            "bg_color": "#ffa384",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--primary",
+            "button_style": "hero__btn btn btn--input caps"
+          }
+        }
+      },
+      "block_order": [
+        "1659865113cab37701-0",
+        "1659865113cab37701-1"
+      ],
+      "settings": {
+        "height": "screen-height-one-half",
+        "padding": false,
+        "borders": false,
+        "wrapper": false
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "subheading": "",
+        "show_title": false,
+        "show_content": true,
+        "text_size": 2,
+        "align_text": "text-left",
+        "height": "margin--small",
+        "width": "wrapper",
+        "text_color": "text-dark",
+        "bg_color": "#fff3cf"
+      }
+    },
+    "165986487165635b82": {
+      "type": "section-hero",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/waves-crash-under-morning-sun.jpg",
+        "mobile_image": "shopify:\/\/shop_images\/waves-crash-under-morning-sun.jpg",
+        "bg_position": "center-center",
+        "height": "screen-height-three-quarters",
+        "overlay_opacity": 0,
+        "overlay_color": "#000000",
+        "title": "",
+        "description": "",
+        "flex_align": "align--middle-center",
+        "text_color": "text-light",
+        "transparent": true,
+        "link_text": "",
+        "link": "shopify:\/\/pages\/contact",
+        "button_color": "btn--white",
+        "button_style": "hero__btn btn btn--large btn--outline caps"
+      }
+    },
+    "73580c7f-beb6-4ecf-aa66-ceabaa3090e2": {
+      "type": "section-collection-carousel",
+      "disabled": true,
+      "settings": {
+        "heading": "",
+        "description": "",
+        "text_alignment": "inline",
+        "link_text": "Shop All",
+        "link_url": "shopify:\/\/collections\/ofenform",
+        "button_color": "btn--black",
+        "button_style": "hero__btn btn btn--input btn--outline caps",
+        "featured_collection": "ofenform"
+      }
+    }
+  },
+  "order": [
+    "1659865114acde6760",
+    "main",
+    "165986487165635b82",
+    "73580c7f-beb6-4ecf-aa66-ceabaa3090e2"
+  ]
+}

@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "1659865114acde6760": {
@@ -6,7 +15,7 @@
         "1659865113cab37701-0": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/sunset-surfing.jpg",
+            "image": "shopify://shop_images/sunset-surfing.jpg",
             "bg_position": "center-center",
             "overlay_opacity": 0,
             "overlay_color": "#000000",
@@ -16,7 +25,7 @@
             "text_color": "text-light",
             "transparent": true,
             "link_text": "",
-            "link": "shopify:\/\/pages\/contact",
+            "link": "shopify://pages/contact",
             "button_color": "btn--white",
             "button_style": "hero__btn btn btn--large btn--outline caps"
           }
@@ -67,8 +76,8 @@
     "165986487165635b82": {
       "type": "section-hero",
       "settings": {
-        "image": "shopify:\/\/shop_images\/waves-crash-under-morning-sun.jpg",
-        "mobile_image": "shopify:\/\/shop_images\/waves-crash-under-morning-sun.jpg",
+        "image": "shopify://shop_images/waves-crash-under-morning-sun.jpg",
+        "mobile_image": "shopify://shop_images/waves-crash-under-morning-sun.jpg",
         "bg_position": "center-center",
         "height": "screen-height-three-quarters",
         "overlay_opacity": 0,
@@ -79,7 +88,7 @@
         "text_color": "text-light",
         "transparent": true,
         "link_text": "",
-        "link": "shopify:\/\/pages\/contact",
+        "link": "shopify://pages/contact",
         "button_color": "btn--white",
         "button_style": "hero__btn btn btn--large btn--outline caps"
       }
@@ -92,10 +101,10 @@
         "description": "",
         "text_alignment": "inline",
         "link_text": "Shop All",
-        "link_url": "shopify:\/\/collections\/ofenform",
+        "link_url": "shopify://collections/ofenform-keramik-artibloom",
         "button_color": "btn--black",
         "button_style": "hero__btn btn btn--input btn--outline caps",
-        "featured_collection": "ofenform"
+        "featured_collection": "ofenform-keramik-artibloom"
       }
     }
   },

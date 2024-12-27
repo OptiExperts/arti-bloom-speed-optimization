@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "166344342708f1a824": {
@@ -55,7 +64,7 @@
         "76c86596-8dd2-4e7e-b40c-a4741800efc4": {
           "type": "collection",
           "settings": {
-            "collection": "ofenform",
+            "collection": "ofenform-keramik-artibloom",
             "title": ""
           }
         }

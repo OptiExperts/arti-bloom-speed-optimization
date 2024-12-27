@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "8aab85e1-f784-4e3e-8ef0-b9fe71e0158a": {
@@ -13,8 +22,8 @@
           "type": "image",
           "settings": {
             "bg_position": "center-center",
-            "image": "shopify:\/\/shop_images\/Artibloom_X_HejSylwi.jpg",
-            "mobile_image": "shopify:\/\/shop_images\/Artibloom_X_HejSylwi.jpg",
+            "image": "shopify://shop_images/Artibloom_X_HejSylwi.jpg",
+            "mobile_image": "shopify://shop_images/Artibloom_X_HejSylwi.jpg",
             "overlay_opacity": 0,
             "overlay_color": "#ffffb0",
             "title": "SONNE FÜR DICH UND DEIN ZUHAUSE",
@@ -23,7 +32,7 @@
             "text_color": "text-light",
             "transparent": true,
             "link_text": "Sonnige Keramik entdecken",
-            "link": "shopify:\/\/pages\/keramik",
+            "link": "shopify://pages/keramik",
             "button_color": "btn--primary",
             "button_style": "hero__btn btn btn--input caps"
           }
@@ -32,8 +41,8 @@
           "type": "image",
           "settings": {
             "bg_position": "center-center",
-            "image": "shopify:\/\/shop_images\/IMG_8120.jpg",
-            "mobile_image": "shopify:\/\/shop_images\/IMG_8120.jpg",
+            "image": "shopify://shop_images/IMG_8120.jpg",
+            "mobile_image": "shopify://shop_images/IMG_8120.jpg",
             "overlay_opacity": 0,
             "overlay_color": "#000000",
             "title": "SONNE FÜR DICH UND DEIN ZUHAUSE",
@@ -42,7 +51,7 @@
             "text_color": "text-light",
             "transparent": true,
             "link_text": "Sonnige Kunst entdecken",
-            "link": "shopify:\/\/pages\/kunst",
+            "link": "shopify://pages/kunst",
             "button_color": "btn--primary",
             "button_style": "hero__btn btn btn--input caps"
           }
@@ -66,7 +75,7 @@
       "settings": {
         "subheading": "",
         "title": "",
-        "text": "<p>Du kommst nach Hause. Tageslicht scheint in die Räume. Warme Farben umgeben dich. Du fühlst dich wie im Urlaub. In deiner persönlichen Wohlfühloase.<\/p>",
+        "text": "<p>Du kommst nach Hause. Tageslicht scheint in die Räume. Warme Farben umgeben dich. Du fühlst dich wie im Urlaub. In deiner persönlichen Wohlfühloase.</p>",
         "text_size": 3,
         "text_columns": 1,
         "align_text": "text-center",
@@ -96,7 +105,7 @@
         "product_CAmrqF"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/IMG_0457.heic",
+        "image": "shopify://shop_images/IMG_0457.heic",
         "bg_position": "center-center",
         "title": "",
         "section_bg": "#ffffb0",
@@ -109,7 +118,7 @@
       "settings": {
         "subheading": "",
         "title": "",
-        "text": "<p>\"Wenn ich an dich denke, denk ich an Sonne. Innen & Außen.\"<\/p>",
+        "text": "<p>\"Wenn ich an dich denke, denk ich an Sonne. Innen & Außen.\"</p>",
         "text_size": 4,
         "text_columns": 1,
         "align_text": "text-center",
@@ -157,7 +166,7 @@
         "product_AJyKcC"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/FBFD890A-B048-496A-8C17-A1EDD1334257.jpg",
+        "image": "shopify://shop_images/FBFD890A-B048-496A-8C17-A1EDD1334257.jpg",
         "bg_position": "center-center",
         "title": "",
         "section_bg": "#ffffff",
@@ -219,7 +228,7 @@
         "c7ab9fb5-638f-4548-bd8a-a1a72d0e5e5c": {
           "type": "collection",
           "settings": {
-            "collection": "ofenform",
+            "collection": "ofenform-keramik-artibloom",
             "title": ""
           }
         }
@@ -236,7 +245,7 @@
       ],
       "settings": {
         "title": "TRENDING",
-        "description": "<p>Entdecke neue sonnige Unikate<\/p>",
+        "description": "<p>Entdecke neue sonnige Unikate</p>",
         "layout": "grid",
         "aspect_ratio": 0.8,
         "enable_slider": false
@@ -247,7 +256,7 @@
       "settings": {
         "subheading": "",
         "title": "",
-        "text": "<p>\"Wenn ich an dich denke, denk ich an Sonne. Innen & Außen.\"<\/p>",
+        "text": "<p>\"Wenn ich an dich denke, denk ich an Sonne. Innen & Außen.\"</p>",
         "text_size": 4,
         "text_columns": 1,
         "align_text": "text-center",
@@ -277,7 +286,7 @@
         "product_wgpd3m"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/IMG_3300.jpg",
+        "image": "shopify://shop_images/IMG_3300.jpg",
         "bg_position": "center-bottom",
         "title": "",
         "section_bg": "#ffffff",
@@ -383,7 +392,7 @@
       ],
       "disabled": true,
       "settings": {
-        "image": "shopify:\/\/shop_images\/Tezza-1382_80ff3e16-52e3-4b7e-b54b-ac908c425114.jpg",
+        "image": "shopify://shop_images/Tezza-1382_80ff3e16-52e3-4b7e-b54b-ac908c425114.jpg",
         "bg_position": "center-center",
         "title": "Shop the look",
         "section_bg": "#ffffff",
@@ -397,8 +406,8 @@
           "type": "image",
           "settings": {
             "bg_position": "center-center",
-            "image": "shopify:\/\/shop_images\/IMG_0872.heic",
-            "mobile_image": "shopify:\/\/shop_images\/IMG_0872.heic",
+            "image": "shopify://shop_images/IMG_0872.heic",
+            "mobile_image": "shopify://shop_images/IMG_0872.heic",
             "overlay_opacity": 35,
             "overlay_color": "#ffa384",
             "title": "Keramik Kunst.",
@@ -407,7 +416,7 @@
             "text_color": "text-light",
             "transparent": true,
             "link_text": "Entdecke mehr",
-            "link": "shopify:\/\/pages\/keramik",
+            "link": "shopify://pages/keramik",
             "button_color": "btn--primary",
             "button_style": "hero__btn btn btn--input caps"
           }
@@ -416,8 +425,8 @@
           "type": "image",
           "settings": {
             "bg_position": "center-center",
-            "image": "shopify:\/\/shop_images\/IMG_5169.heic",
-            "mobile_image": "shopify:\/\/shop_images\/IMG_5169.heic",
+            "image": "shopify://shop_images/IMG_5169.heic",
+            "mobile_image": "shopify://shop_images/IMG_5169.heic",
             "overlay_opacity": 45,
             "overlay_color": "#ffa384",
             "title": "Wie im Urlaub.",
@@ -426,7 +435,7 @@
             "text_color": "text-light",
             "transparent": true,
             "link_text": "Entdecke mehr.",
-            "link": "shopify:\/\/pages\/keramik",
+            "link": "shopify://pages/keramik",
             "button_color": "btn--primary",
             "button_style": "hero__btn btn btn--input caps"
           }
@@ -448,8 +457,8 @@
     "16596338637d51486d": {
       "type": "section-hero",
       "settings": {
-        "image": "shopify:\/\/shop_images\/IMG_8706.heic",
-        "mobile_image": "shopify:\/\/shop_images\/IMG_8706.heic",
+        "image": "shopify://shop_images/IMG_8706.heic",
+        "mobile_image": "shopify://shop_images/IMG_8706.heic",
         "bg_position": "center-center",
         "height": "sixty-fifty-height-hero",
         "overlay_opacity": 0,
@@ -460,7 +469,7 @@
         "text_color": "text-light",
         "transparent": true,
         "link_text": "Jetzt entdecken",
-        "link": "shopify:\/\/pages\/kunst",
+        "link": "shopify://pages/kunst",
         "button_color": "btn--primary",
         "button_style": "hero__btn btn btn--input caps"
       }
@@ -472,7 +481,7 @@
         "description": "",
         "text_alignment": "center",
         "link_text": "",
-        "link_url": "shopify:\/\/collections\/kunst-artibloom",
+        "link_url": "shopify://collections/kunst-artibloom",
         "button_color": "btn--black",
         "button_style": "hero__btn btn btn--input btn--outline caps",
         "featured_collection": "kunst-artibloom",
@@ -485,7 +494,7 @@
       "type": "apps",
       "blocks": {
         "533ade7a-8812-4775-931a-81211ffcf742": {
-          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/featured_carousel\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "type": "shopify://apps/judge-me-reviews/blocks/featured_carousel/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
           "settings": {
             "maxwidth": 1080
           }
@@ -502,7 +511,7 @@
       "type": "apps",
       "blocks": {
         "625a648b-b122-4134-a570-6a286e10b286": {
-          "type": "shopify:\/\/apps\/instafeed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5",
+          "type": "shopify://apps/instafeed/blocks/app-block/c447db20-095d-4a10-9725-b5977662c9d5",
           "settings": {
             "title": "",
             "title_color": "",
@@ -524,7 +533,7 @@
         "16607684540cf00b1f-0": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/HANDS.jpg",
+            "image": "shopify://shop_images/HANDS.jpg",
             "bg_position": "right-center",
             "overlay_opacity": 5,
             "overlay_color": "#ffffff",
@@ -551,7 +560,7 @@
             "text_color": "text-light",
             "bg_color": "#ffa384",
             "button_text": "Mehr erfahren",
-            "button_url": "shopify:\/\/pages\/about",
+            "button_url": "shopify://pages/about",
             "button_color": "btn--primary",
             "button_style": "hero__btn btn btn--input caps"
           }

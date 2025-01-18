@@ -339,66 +339,6 @@
         "bg_color": "#ffa384"
       }
     },
-    "section_look_tpfMQK": {
-      "type": "section-look",
-      "blocks": {
-        "product_X9TYcq": {
-          "type": "product",
-          "settings": {
-            "product": "sunshine-stone-orange-by-artibloom-relax-geschenk",
-            "position_x": 50,
-            "position_y": 50
-          }
-        },
-        "product_Ct9zqC": {
-          "type": "product",
-          "settings": {
-            "product": "sunshine-stone-gelb-relax-geschenk-artibloom",
-            "position_x": 50,
-            "position_y": 74
-          }
-        },
-        "product_jFphqi": {
-          "type": "product",
-          "settings": {
-            "product": "sunshine-stone-gruen-by-artibloom-relax-geschenk",
-            "position_x": 79,
-            "position_y": 84
-          }
-        },
-        "product_mpaEiJ": {
-          "type": "product",
-          "settings": {
-            "product": "sunshine-stone-ozeanblau-by-artibloom",
-            "position_x": 9,
-            "position_y": 47
-          }
-        },
-        "product_QERE3a": {
-          "type": "product",
-          "settings": {
-            "product": "sunshine-stone-in-lavendel-by-artibloom",
-            "position_x": 62,
-            "position_y": 50
-          }
-        }
-      },
-      "block_order": [
-        "product_X9TYcq",
-        "product_Ct9zqC",
-        "product_jFphqi",
-        "product_mpaEiJ",
-        "product_QERE3a"
-      ],
-      "disabled": true,
-      "settings": {
-        "image": "shopify://shop_images/Tezza-1382_80ff3e16-52e3-4b7e-b54b-ac908c425114.jpg",
-        "bg_position": "center-center",
-        "title": "Shop the look",
-        "section_bg": "#ffffff",
-        "dot_color": "#ffffff"
-      }
-    },
     "1f370597-5d5b-430e-8ce4-2a6926c59b78": {
       "type": "section-slideshow",
       "blocks": {
@@ -516,6 +456,8 @@
             "title": "",
             "title_color": "",
             "alignment": "center",
+            "background_color": "",
+            "feed_id": "",
             "html_area": ""
           }
         }
@@ -589,7 +531,6 @@
     "87e74b6f-3a58-424a-a837-3326c546a826",
     "5e5a2c69-2028-408f-8c5b-02c46d684418",
     "20e3dc42-c347-4d36-beeb-a68a33b3039d",
-    "section_look_tpfMQK",
     "1f370597-5d5b-430e-8ce4-2a6926c59b78",
     "16596338637d51486d",
     "2330aac2-fef2-4b9b-9ff8-0abf1b4c39bc",

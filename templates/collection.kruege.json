@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "1659874746f1d4e279": {
@@ -7,10 +16,10 @@
         "description": "",
         "text_alignment": "center",
         "link_text": "",
-        "link_url": "shopify:\/\/pages\/kruge",
+        "link_url": "shopify://pages/kruge",
         "button_color": "btn--black",
         "button_style": "hero__btn btn btn--input btn--outline caps",
-        "featured_collection": "kruege-keramik-artibloom",
+        "featured_collection": "kruege-keramik-artibloom-krug-karaffe-geschirr",
         "grid": 4,
         "rows": 8,
         "layout_mobile": "2"

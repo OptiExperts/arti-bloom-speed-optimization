@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "16599064672970003b": {
@@ -6,7 +15,7 @@
       "settings": {
         "subheading": "",
         "title": "",
-        "text": "<p>Handgemachte Produkte, die den Test der Zeit bestehen. Traditionell aus Steingut in Portugal hergestellt. In bunten und neutralen Farben. In organischen Formen. Inspiriert von der Natur, indem wir ihre Unvollkommenheit schätzen. Jedes Produkt ist anders. Individuell und einzigartig. Die Keramik-Unikate wurden für die Artibloom Kollektion sorgfältig vor Ort ausgewählt. Umgeben von Leichtigkeit, Freiheit und Sonne. Sie lassen unser Zuhause strahlen. <\/p>",
+        "text": "<p>Handgemachte Produkte, die den Test der Zeit bestehen. Traditionell aus Steingut in Portugal hergestellt. In bunten und neutralen Farben. In organischen Formen. Inspiriert von der Natur, indem wir ihre Unvollkommenheit schätzen. Jedes Produkt ist anders. Individuell und einzigartig. Die Keramik-Unikate wurden für die Artibloom Kollektion sorgfältig vor Ort ausgewählt. Umgeben von Leichtigkeit, Freiheit und Sonne. Sie lassen unser Zuhause strahlen. </p>",
         "text_size": 2,
         "text_columns": 1,
         "align_text": "text-left",
@@ -22,7 +31,6 @@
     },
     "1663444079b907d4f7": {
       "type": "section-collections-list",
-      "disabled": true,
       "blocks": {
         "1663444079a8978a6e-0": {
           "type": "collection",
@@ -62,7 +70,7 @@
         "c6888678-bd41-4183-9f42-63e26a7747e9": {
           "type": "collection",
           "settings": {
-            "collection": "kruege-keramik-artibloom",
+            "collection": "kruege-keramik-artibloom-krug-karaffe-geschirr",
             "title": "Krüge"
           }
         },
@@ -91,6 +99,7 @@
         "ffdcf8b3-a86b-4fa1-8b4e-c36000718032",
         "4a01aee4-c735-41d1-8896-5a3aa0d39996"
       ],
+      "disabled": true,
       "settings": {
         "title": "",
         "description": "",
@@ -137,7 +146,6 @@
     },
     "7457bd7e-0f3d-4a13-adc6-836d2b645418": {
       "type": "section-product",
-      "disabled": true,
       "blocks": {
         "template--16179445629196__7457bd7e-0f3d-4a13-adc6-836d2b645418-16802136118241a50c-0": {
           "type": "price_and_title",
@@ -164,9 +172,9 @@
             "show_read_more": true,
             "style": "tabs",
             "title_1": "Tab",
-            "raw_content_1": "<p>This content type will accept <strong>rich text<\/strong> to help with adding styles and links to additional pages or content. Use this to add supplementary information to help your buyers.<\/p>",
+            "raw_content_1": "<p>This content type will accept <strong>rich text</strong> to help with adding styles and links to additional pages or content. Use this to add supplementary information to help your buyers.</p>",
             "title_2": "Info",
-            "raw_content_2": "<p>You can use product metafields to assign content to this tab that is unique to an individual product.  Use tabs to highlight unique features, sizing information, or other sales information.<\/p>",
+            "raw_content_2": "<p>You can use product metafields to assign content to this tab that is unique to an individual product.  Use tabs to highlight unique features, sizing information, or other sales information.</p>",
             "title_3": "",
             "raw_content_3": "",
             "title_4": "",
@@ -181,6 +189,7 @@
         "template--16179445629196__7457bd7e-0f3d-4a13-adc6-836d2b645418-16802136118241a50c-1",
         "template--16179445629196__7457bd7e-0f3d-4a13-adc6-836d2b645418-16802136118241a50c-2"
       ],
+      "disabled": true,
       "settings": {
         "home_product": "gutschein-1",
         "image_layout": "thumbnails",
